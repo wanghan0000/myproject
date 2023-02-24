@@ -1,0 +1,13 @@
+
+anniu_lizi.png
+size: 91,91
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+SowFlash
+  rotate: false
+  xy: 2, 2
+  size: 87, 87
+  orig: 87, 87
+  offset: 0, 0
+  index: -1

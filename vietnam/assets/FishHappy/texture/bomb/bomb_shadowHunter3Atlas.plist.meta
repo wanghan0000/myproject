@@ -1,0 +1,247 @@
+{
+  "ver": "1.0.7",
+  "importer": "sprite-atlas",
+  "imported": true,
+  "uuid": "40aba9cc-6eca-4a64-9f8c-713ce81a1526",
+  "files": [
+    ".json"
+  ],
+  "subMetas": {
+    "58733": {
+      "importer": "sprite-frame",
+      "uuid": "40aba9cc-6eca-4a64-9f8c-713ce81a1526@58733",
+      "displayName": "",
+      "id": "58733",
+      "name": "qp_hanyinglieshou_baozha_03",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 1,
+        "offsetY": -2,
+        "trimX": 1,
+        "trimY": 189,
+        "width": 184,
+        "height": 188,
+        "rawWidth": 192,
+        "rawHeight": 192,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "d9e3d93c-0943-4bf2-a73b-db97c1bd6485@6c48a",
+        "atlasUuid": "40aba9cc-6eca-4a64-9f8c-713ce81a1526",
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        }
+      },
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "bf5bb": {
+      "importer": "sprite-frame",
+      "uuid": "40aba9cc-6eca-4a64-9f8c-713ce81a1526@bf5bb",
+      "displayName": "",
+      "id": "bf5bb",
+      "name": "qp_hanyinglieshou_baozha_00",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": true,
+        "offsetX": 3,
+        "offsetY": -1,
+        "trimX": 187,
+        "trimY": 359,
+        "width": 60,
+        "height": 62,
+        "rawWidth": 192,
+        "rawHeight": 192,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "d9e3d93c-0943-4bf2-a73b-db97c1bd6485@6c48a",
+        "atlasUuid": "40aba9cc-6eca-4a64-9f8c-713ce81a1526",
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        }
+      },
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ea024": {
+      "importer": "sprite-frame",
+      "uuid": "40aba9cc-6eca-4a64-9f8c-713ce81a1526@ea024",
+      "displayName": "",
+      "id": "ea024",
+      "name": "qp_hanyinglieshou_baozha_01",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 3,
+        "offsetY": -2,
+        "trimX": 187,
+        "trimY": 189,
+        "width": 166,
+        "height": 168,
+        "rawWidth": 192,
+        "rawHeight": 192,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "d9e3d93c-0943-4bf2-a73b-db97c1bd6485@6c48a",
+        "atlasUuid": "40aba9cc-6eca-4a64-9f8c-713ce81a1526",
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        }
+      },
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c1c4c": {
+      "importer": "sprite-frame",
+      "uuid": "40aba9cc-6eca-4a64-9f8c-713ce81a1526@c1c4c",
+      "displayName": "",
+      "id": "c1c4c",
+      "name": "qp_hanyinglieshou_baozha_02",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 1,
+        "offsetY": 0,
+        "trimX": 191,
+        "trimY": 1,
+        "width": 140,
+        "height": 138,
+        "rawWidth": 192,
+        "rawHeight": 192,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "d9e3d93c-0943-4bf2-a73b-db97c1bd6485@6c48a",
+        "atlasUuid": "40aba9cc-6eca-4a64-9f8c-713ce81a1526",
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        }
+      },
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3d021": {
+      "importer": "sprite-frame",
+      "uuid": "40aba9cc-6eca-4a64-9f8c-713ce81a1526@3d021",
+      "displayName": "",
+      "id": "3d021",
+      "name": "qp_hanyinglieshou_baozha_04",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": -3,
+        "trimX": 1,
+        "trimY": 1,
+        "width": 188,
+        "height": 186,
+        "rawWidth": 192,
+        "rawHeight": 192,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "d9e3d93c-0943-4bf2-a73b-db97c1bd6485@6c48a",
+        "atlasUuid": "40aba9cc-6eca-4a64-9f8c-713ce81a1526",
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        }
+      },
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "atlasTextureName": "bomb_shadowHunter3Atlas.png",
+    "format": 3,
+    "uuid": "40aba9cc-6eca-4a64-9f8c-713ce81a1526",
+    "textureUuid": "d9e3d93c-0943-4bf2-a73b-db97c1bd6485@6c48a"
+  }
+}

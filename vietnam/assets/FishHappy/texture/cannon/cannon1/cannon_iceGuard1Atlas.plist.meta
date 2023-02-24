@@ -1,0 +1,247 @@
+{
+  "ver": "1.0.7",
+  "importer": "sprite-atlas",
+  "imported": true,
+  "uuid": "4df1f0f2-d603-4ad7-82df-78dea8513771",
+  "files": [
+    ".json"
+  ],
+  "subMetas": {
+    "57a7a": {
+      "importer": "sprite-frame",
+      "uuid": "4df1f0f2-d603-4ad7-82df-78dea8513771@57a7a",
+      "displayName": "",
+      "id": "57a7a",
+      "name": "cannon_iceGuard1_00",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": true,
+        "offsetX": -2,
+        "offsetY": 4,
+        "trimX": 1,
+        "trimY": 1,
+        "width": 174,
+        "height": 192,
+        "rawWidth": 200,
+        "rawHeight": 200,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "ca0fe49a-2d22-46ad-829e-4a82188add4c@6c48a",
+        "atlasUuid": "4df1f0f2-d603-4ad7-82df-78dea8513771",
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        }
+      },
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a24c3": {
+      "importer": "sprite-frame",
+      "uuid": "4df1f0f2-d603-4ad7-82df-78dea8513771@a24c3",
+      "displayName": "",
+      "id": "a24c3",
+      "name": "cannon_iceGuard1_01",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": true,
+        "offsetX": -2,
+        "offsetY": 3,
+        "trimX": 383,
+        "trimY": 1,
+        "width": 174,
+        "height": 188,
+        "rawWidth": 200,
+        "rawHeight": 200,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "ca0fe49a-2d22-46ad-829e-4a82188add4c@6c48a",
+        "atlasUuid": "4df1f0f2-d603-4ad7-82df-78dea8513771",
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        }
+      },
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ac351": {
+      "importer": "sprite-frame",
+      "uuid": "4df1f0f2-d603-4ad7-82df-78dea8513771@ac351",
+      "displayName": "",
+      "id": "ac351",
+      "name": "cannon_iceGuard1_02",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": true,
+        "offsetX": -2,
+        "offsetY": 3,
+        "trimX": 194,
+        "trimY": 1,
+        "width": 174,
+        "height": 188,
+        "rawWidth": 200,
+        "rawHeight": 200,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "ca0fe49a-2d22-46ad-829e-4a82188add4c@6c48a",
+        "atlasUuid": "4df1f0f2-d603-4ad7-82df-78dea8513771",
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        }
+      },
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7262e": {
+      "importer": "sprite-frame",
+      "uuid": "4df1f0f2-d603-4ad7-82df-78dea8513771@7262e",
+      "displayName": "",
+      "id": "7262e",
+      "name": "cannon_iceGuard1_03",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": true,
+        "offsetX": -2,
+        "offsetY": 1,
+        "trimX": 757,
+        "trimY": 1,
+        "width": 174,
+        "height": 184,
+        "rawWidth": 200,
+        "rawHeight": 200,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "ca0fe49a-2d22-46ad-829e-4a82188add4c@6c48a",
+        "atlasUuid": "4df1f0f2-d603-4ad7-82df-78dea8513771",
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        }
+      },
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "209a4": {
+      "importer": "sprite-frame",
+      "uuid": "4df1f0f2-d603-4ad7-82df-78dea8513771@209a4",
+      "displayName": "",
+      "id": "209a4",
+      "name": "cannon_iceGuard1_04",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": true,
+        "offsetX": -2,
+        "offsetY": 1,
+        "trimX": 572,
+        "trimY": 1,
+        "width": 174,
+        "height": 184,
+        "rawWidth": 200,
+        "rawHeight": 200,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "ca0fe49a-2d22-46ad-829e-4a82188add4c@6c48a",
+        "atlasUuid": "4df1f0f2-d603-4ad7-82df-78dea8513771",
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        }
+      },
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "atlasTextureName": "cannon_iceGuard1Atlas.png",
+    "format": 2,
+    "uuid": "4df1f0f2-d603-4ad7-82df-78dea8513771",
+    "textureUuid": "ca0fe49a-2d22-46ad-829e-4a82188add4c@6c48a"
+  }
+}

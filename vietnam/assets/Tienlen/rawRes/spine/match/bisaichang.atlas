@@ -1,0 +1,264 @@
+
+bisaichang.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bsc_17
+  rotate: true
+  xy: 1705, 50
+  size: 543, 139
+  orig: 543, 139
+  offset: 0, 0
+  index: -1
+bsc_18
+  rotate: false
+  xy: 0, 1648
+  size: 2048, 400
+  orig: 2048, 400
+  offset: 0, 0
+  index: -1
+bsc_19
+  rotate: true
+  xy: 157, 373
+  size: 744, 218
+  orig: 744, 218
+  offset: 0, 0
+  index: -1
+bsc_2
+  rotate: false
+  xy: 151, 15
+  size: 17, 25
+  orig: 17, 25
+  offset: 0, 0
+  index: -1
+bsc_20
+  rotate: true
+  xy: 0, 7
+  size: 33, 26
+  orig: 33, 26
+  offset: 0, 0
+  index: -1
+bsc_21
+  rotate: false
+  xy: 157, 45
+  size: 1263, 328
+  orig: 1263, 328
+  offset: 0, 0
+  index: -1
+bsc_22
+  rotate: true
+  xy: 26, 7
+  size: 33, 26
+  orig: 33, 26
+  offset: 0, 0
+  index: -1
+bsc_25
+  rotate: true
+  xy: 1993, 927
+  size: 190, 51
+  orig: 190, 51
+  offset: 0, 0
+  index: -1
+bsc_27
+  rotate: true
+  xy: 359, 4
+  size: 41, 47
+  orig: 41, 47
+  offset: 0, 0
+  index: -1
+bsc_29
+  rotate: false
+  xy: 168, 2
+  size: 191, 43
+  orig: 191, 43
+  offset: 0, 0
+  index: -1
+bsc_3
+  rotate: false
+  xy: 93, 14
+  size: 22, 26
+  orig: 22, 26
+  offset: 0, 0
+  index: -1
+bsc_31
+  rotate: true
+  xy: 406, 4
+  size: 41, 47
+  orig: 41, 47
+  offset: 0, 0
+  index: -1
+bsc_32
+  rotate: true
+  xy: 115, 15
+  size: 25, 18
+  orig: 25, 18
+  offset: 0, 0
+  index: -1
+bsc_33
+  rotate: true
+  xy: 133, 15
+  size: 25, 18
+  orig: 25, 18
+  offset: 0, 0
+  index: -1
+bsc_34
+  rotate: false
+  xy: 375, 423
+  size: 665, 694
+  orig: 665, 694
+  offset: 0, 0
+  index: -1
+bsc_35
+  rotate: true
+  xy: 1705, 593
+  size: 524, 288
+  orig: 524, 288
+  offset: 0, 0
+  index: -1
+bsc_36
+  rotate: false
+  xy: 1040, 423
+  size: 665, 694
+  orig: 665, 694
+  offset: 0, 0
+  index: -1
+bsc_39
+  rotate: false
+  xy: 1907, 16
+  size: 62, 165
+  orig: 62, 165
+  offset: 0, 0
+  index: -1
+bsc_4
+  rotate: false
+  xy: 52, 12
+  size: 18, 28
+  orig: 18, 28
+  offset: 0, 0
+  index: -1
+bsc_40
+  rotate: false
+  xy: 1844, 8
+  size: 63, 173
+  orig: 63, 173
+  offset: 0, 0
+  index: -1
+bsc_41
+  rotate: false
+  xy: 1969, 20
+  size: 64, 161
+  orig: 64, 161
+  offset: 0, 0
+  index: -1
+bsc_42
+  rotate: false
+  xy: 1626, 201
+  size: 59, 161
+  orig: 59, 161
+  offset: 0, 0
+  index: -1
+bsc_43
+  rotate: true
+  xy: 1844, 387
+  size: 206, 194
+  orig: 206, 194
+  offset: 0, 0
+  index: -1
+bsc_44
+  rotate: true
+  xy: 1844, 181
+  size: 206, 194
+  orig: 206, 194
+  offset: 0, 0
+  index: -1
+bsc_45
+  rotate: false
+  xy: 1420, 36
+  size: 206, 193
+  orig: 206, 193
+  offset: 0, 0
+  index: -1
+bsc_46
+  rotate: false
+  xy: 1420, 229
+  size: 206, 194
+  orig: 206, 194
+  offset: 0, 0
+  index: -1
+bsc_47
+  rotate: true
+  xy: 0, 40
+  size: 1077, 157
+  orig: 1077, 157
+  offset: 0, 0
+  index: -1
+bsc_48
+  rotate: false
+  xy: 0, 1117
+  size: 2045, 531
+  orig: 2045, 531
+  offset: 0, 0
+  index: -1
+bsc_5
+  rotate: false
+  xy: 453, 20
+  size: 16, 25
+  orig: 16, 25
+  offset: 0, 0
+  index: -1
+bsc_6
+  rotate: true
+  xy: 52, 0
+  size: 12, 19
+  orig: 12, 19
+  offset: 0, 0
+  index: -1
+bsc_7
+  rotate: false
+  xy: 453, 1
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+bsc_8
+  rotate: false
+  xy: 70, 14
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+shanguang
+  rotate: true
+  xy: 1626, 362
+  size: 61, 63
+  orig: 61, 63
+  offset: 0, 0
+  index: -1
+
+bisaichang2.png
+size: 1649,690
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bsc_23
+  rotate: false
+  xy: 0, 0
+  size: 1211, 339
+  orig: 1211, 339
+  offset: 0, 0
+  index: -1
+bsc_37
+  rotate: true
+  xy: 1361, 166
+  size: 524, 288
+  orig: 524, 288
+  offset: 0, 0
+  index: -1
+bsc_38
+  rotate: false
+  xy: 0, 339
+  size: 1361, 351
+  orig: 1361, 351
+  offset: 0, 0
+  index: -1

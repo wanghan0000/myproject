@@ -1,0 +1,76 @@
+
+buyu_icon.png
+size: 417,143
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sy_18
+  rotate: false
+  xy: 384, 100
+  size: 24, 18
+  orig: 24, 18
+  offset: 0, 0
+  index: -1
+sy_19
+  rotate: false
+  xy: 316, 41
+  size: 46, 52
+  orig: 46, 52
+  offset: 0, 0
+  index: -1
+sy_20
+  rotate: true
+  xy: 316, 0
+  size: 41, 47
+  orig: 41, 47
+  offset: 0, 0
+  index: -1
+sy_21
+  rotate: false
+  xy: 384, 118
+  size: 33, 25
+  orig: 33, 25
+  offset: 0, 0
+  index: -1
+sy_22
+  rotate: true
+  xy: 362, 49
+  size: 44, 43
+  orig: 44, 43
+  offset: 0, 0
+  index: -1
+sy_23
+  rotate: false
+  xy: 363, 18
+  size: 35, 31
+  orig: 35, 31
+  offset: 0, 0
+  index: -1
+sy_24
+  rotate: false
+  xy: 264, 93
+  size: 120, 50
+  orig: 120, 50
+  offset: 0, 0
+  index: -1
+sy_25
+  rotate: false
+  xy: 264, 15
+  size: 52, 78
+  orig: 52, 78
+  offset: 0, 0
+  index: -1
+sy_26
+  rotate: false
+  xy: 140, 2
+  size: 124, 141
+  orig: 124, 141
+  offset: 0, 0
+  index: -1
+sy_27
+  rotate: false
+  xy: 0, 2
+  size: 140, 141
+  orig: 140, 141
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,34 @@
+
+huodong_icon_zhizhen.png
+size: 226,101
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hd__54
+  rotate: true
+  xy: 181, 40
+  size: 59, 40
+  orig: 59, 40
+  offset: 0, 0
+  index: -1
+hd__55
+  rotate: true
+  xy: 2, 2
+  size: 97, 98
+  orig: 97, 98
+  offset: 0, 0
+  index: -1
+hd__56
+  rotate: true
+  xy: 181, 6
+  size: 32, 43
+  orig: 32, 43
+  offset: 0, 0
+  index: -1
+hd__57
+  rotate: false
+  xy: 102, 19
+  size: 77, 80
+  orig: 77, 80
+  offset: 0, 0
+  index: -1

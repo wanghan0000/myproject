@@ -1,0 +1,82 @@
+{
+  "ver": "2.3.0",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "a94da76c-cd26-4d8b-b988-82f1f881029b",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "24217": {
+      "importer": "gltf-scene",
+      "uuid": "a94da76c-cd26-4d8b-b988-82f1f881029b@24217",
+      "displayName": "",
+      "id": "24217",
+      "name": "female_ch.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2942b": {
+      "importer": "gltf-animation",
+      "uuid": "a94da76c-cd26-4d8b-b988-82f1f881029b@2942b",
+      "displayName": "",
+      "id": "2942b",
+      "name": "zhuanchang.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 4.5
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "animationImportSettings": [
+      {
+        "name": "Take 001",
+        "duration": 4.5,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "zhuanchang",
+            "from": 0,
+            "to": 4.5,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "a94da76c-cd26-4d8b-b988-82f1f881029b@24217",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "a94da76c-cd26-4d8b-b988-82f1f881029b@24217"
+      ]
+    }
+  }
+}

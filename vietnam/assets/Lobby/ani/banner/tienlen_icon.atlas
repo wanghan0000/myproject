@@ -1,0 +1,104 @@
+
+tienlen_icon.png
+size: 560,151
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sy_10
+  rotate: false
+  xy: 436, 33
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+sy_11
+  rotate: true
+  xy: 469, 25
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+sy_12
+  rotate: true
+  xy: 283, 2
+  size: 59, 100
+  orig: 59, 100
+  offset: 0, 0
+  index: -1
+sy_13
+  rotate: false
+  xy: 478, 57
+  size: 76, 94
+  orig: 76, 94
+  offset: 0, 0
+  index: -1
+sy_14
+  rotate: false
+  xy: 283, 61
+  size: 101, 90
+  orig: 101, 90
+  offset: 0, 0
+  index: -1
+sy_15
+  rotate: false
+  xy: 384, 66
+  size: 94, 85
+  orig: 94, 85
+  offset: 0, 0
+  index: -1
+sy_16
+  rotate: false
+  xy: 140, 19
+  size: 143, 132
+  orig: 143, 132
+  offset: 0, 0
+  index: -1
+sy_17
+  rotate: false
+  xy: 0, 10
+  size: 140, 141
+  orig: 140, 141
+  offset: 0, 0
+  index: -1
+sy_2
+  rotate: true
+  xy: 384, 20
+  size: 46, 52
+  orig: 46, 52
+  offset: 0, 0
+  index: -1
+sy_3
+  rotate: false
+  xy: 531, 0
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+sy_4
+  rotate: false
+  xy: 502, 28
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+sy_7
+  rotate: false
+  xy: 531, 28
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+sy_8
+  rotate: false
+  xy: 436, 4
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+sy_9
+  rotate: false
+  xy: 502, 0
+  size: 29, 28
+  orig: 29, 28
+  offset: 0, 0
+  index: -1

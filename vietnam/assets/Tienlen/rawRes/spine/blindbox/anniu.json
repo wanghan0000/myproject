@@ -1,0 +1,97 @@
+{
+"skeleton": { "hash": "vEPrXLY2HUOtyTbD54aFhrmblRc", "spine": "3.6.53", "width": 369, "height": 207, "images": "./images/" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "mh_1", "parent": "root", "length": 98.17, "rotation": 0.49, "x": -4.52, "y": -0.37 }
+],
+"slots": [
+	{ "name": "mh_1", "bone": "mh_1", "attachment": "hanniu_m" },
+	{ "name": "mh_2", "bone": "mh_1", "color": "ffffffa2", "attachment": "hanniu_1", "blend": "additive" }
+],
+"skins": {
+	"default": {
+		"mh_1": {
+			"hanniu_m": { "x": 9.36, "y": -9.89, "rotation": -0.49, "width": 287, "height": 123 }
+		},
+		"mh_2": {
+			"hanniu_1": { "x": 9.36, "y": -9.89, "rotation": -0.49, "width": 369, "height": 207 }
+		}
+	}
+},
+"animations": {
+	"idle": {
+		"slots": {
+			"mh_2": {
+				"color": [
+					{
+						"time": 0,
+						"color": "ffffff1f",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1,
+						"color": "ffffff63",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 2,
+						"color": "ffffff1f",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 3,
+						"color": "ffffff63",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 4, "color": "ffffff1f" }
+				]
+			}
+		},
+		"bones": {
+			"mh_1": {
+				"rotate": [
+					{ "time": 0, "angle": 0, "curve": "stepped" },
+					{ "time": 1, "angle": 0, "curve": "stepped" },
+					{ "time": 2, "angle": 0, "curve": "stepped" },
+					{ "time": 3, "angle": 0, "curve": "stepped" },
+					{ "time": 4, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 1, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 2, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 3, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 4, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{
+						"time": 0,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1,
+						"x": 1.1,
+						"y": 1.1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 2,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 3,
+						"x": 1.1,
+						"y": 1.1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 4, "x": 1, "y": 1 }
+				]
+			}
+		}
+	}
+}
+}

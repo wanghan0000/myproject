@@ -1,0 +1,62 @@
+
+tienlen_hengban_icon.png
+size: 911,161
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sy_44
+  rotate: true
+  xy: 729, 60
+  size: 101, 172
+  orig: 101, 172
+  offset: 0, 0
+  index: -1
+sy_45
+  rotate: false
+  xy: 0, 0
+  size: 129, 161
+  orig: 129, 161
+  offset: 0, 0
+  index: -1
+sy_46
+  rotate: false
+  xy: 129, 7
+  size: 173, 154
+  orig: 173, 154
+  offset: 0, 0
+  index: -1
+sy_47
+  rotate: false
+  xy: 472, 15
+  size: 162, 146
+  orig: 162, 146
+  offset: 0, 0
+  index: -1
+sy_48
+  rotate: true
+  xy: 729, 2
+  size: 58, 96
+  orig: 58, 96
+  offset: 0, 0
+  index: -1
+sy_49
+  rotate: true
+  xy: 825, 20
+  size: 40, 86
+  orig: 40, 86
+  offset: 0, 0
+  index: -1
+sy_50
+  rotate: false
+  xy: 634, 27
+  size: 95, 134
+  orig: 95, 134
+  offset: 0, 0
+  index: -1
+sy_51
+  rotate: false
+  xy: 302, 13
+  size: 170, 148
+  orig: 170, 148
+  offset: 0, 0
+  index: -1

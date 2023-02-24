@@ -1,0 +1,42 @@
+{
+  "ver": "1.0.24",
+  "importer": "image",
+  "imported": true,
+  "uuid": "d9e3d93c-0943-4bf2-a73b-db97c1bd6485",
+  "files": [
+    ".json",
+    ".png"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "d9e3d93c-0943-4bf2-a73b-db97c1bd6485@6c48a",
+      "displayName": "bomb_shadowHunter3Atlas",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "d9e3d93c-0943-4bf2-a73b-db97c1bd6485",
+        "visible": true
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "hasAlpha": true,
+    "type": "texture",
+    "redirect": "d9e3d93c-0943-4bf2-a73b-db97c1bd6485@6c48a",
+    "fixAlphaTransparencyArtifacts": false
+  }
+}

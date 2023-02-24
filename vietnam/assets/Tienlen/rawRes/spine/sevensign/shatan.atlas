@@ -1,0 +1,104 @@
+
+shatan.png
+size: 1267,443
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 1115, 171
+  size: 58, 18
+  orig: 58, 18
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 981, 177
+  size: 66, 12
+  orig: 66, 12
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 836, 35
+  size: 60, 10
+  orig: 60, 10
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 772, 2
+  size: 72, 31
+  orig: 72, 31
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 772, 166
+  size: 207, 23
+  orig: 207, 23
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 1049, 179
+  size: 64, 10
+  orig: 64, 10
+  offset: 0, 0
+  index: -1
+dikuang-1
+  rotate: false
+  xy: 2, 191
+  size: 1263, 250
+  orig: 1263, 250
+  offset: 0, 0
+  index: -1
+qd__30
+  rotate: false
+  xy: 772, 35
+  size: 62, 60
+  orig: 62, 60
+  offset: 0, 0
+  index: -1
+qd__33
+  rotate: false
+  xy: 859, 106
+  size: 56, 58
+  orig: 56, 58
+  offset: 0, 0
+  index: -1
+qd__5
+  rotate: false
+  xy: 917, 109
+  size: 57, 55
+  orig: 57, 55
+  offset: 0, 0
+  index: -1
+qd__6
+  rotate: false
+  xy: 1206, 170
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+qd__66
+  rotate: false
+  xy: 2, 12
+  size: 768, 177
+  orig: 768, 177
+  offset: 0, 0
+  index: -1
+qd__7
+  rotate: false
+  xy: 1175, 161
+  size: 29, 28
+  orig: 29, 28
+  offset: 0, 0
+  index: -1
+qd__85
+  rotate: false
+  xy: 772, 97
+  size: 85, 67
+  orig: 85, 67
+  offset: 0, 0
+  index: -1

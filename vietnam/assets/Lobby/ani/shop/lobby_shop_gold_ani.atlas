@@ -1,0 +1,69 @@
+
+lobby_shop_gold_ani.png
+size: 956,393
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: true
+  xy: 746, 96
+  size: 121, 124
+  orig: 121, 124
+  offset: 0, 0
+  index: -1
+02
+  rotate: false
+  xy: 816, 0
+  size: 120, 93
+  orig: 120, 93
+  offset: 0, 0
+  index: -1
+03
+  rotate: false
+  xy: 602, 8
+  size: 153, 88
+  orig: 153, 88
+  offset: 0, 0
+  index: -1
+04
+  rotate: true
+  xy: 800, 217
+  size: 176, 153
+  orig: 176, 153
+  offset: 0, 0
+  index: -1
+05
+  rotate: false
+  xy: 602, 96
+  size: 144, 141
+  orig: 144, 141
+  offset: 0, 0
+  index: -1
+06
+  rotate: true
+  xy: 870, 93
+  size: 124, 86
+  orig: 124, 86
+  offset: 0, 0
+  index: -1
+07
+  rotate: false
+  xy: 755, 33
+  size: 61, 63
+  orig: 61, 63
+  offset: 0, 0
+  index: -1
+08
+  rotate: false
+  xy: 0, 17
+  size: 602, 376
+  orig: 602, 376
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 602, 237
+  size: 198, 156
+  orig: 198, 156
+  offset: 0, 0
+  index: -1

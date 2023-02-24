@@ -1,0 +1,27 @@
+
+gongxihuode_shangceng.png
+size: 1306,722
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+07
+  rotate: false
+  xy: 733, 59
+  size: 61, 63
+  orig: 61, 63
+  offset: 0, 0
+  index: -1
+guanghuan
+  rotate: true
+  xy: 0, 0
+  size: 722, 733
+  orig: 722, 733
+  offset: 0, 0
+  index: -1
+guangquan
+  rotate: true
+  xy: 733, 122
+  size: 600, 573
+  orig: 600, 573
+  offset: 0, 0
+  index: -1

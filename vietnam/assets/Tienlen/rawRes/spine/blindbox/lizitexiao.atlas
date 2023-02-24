@@ -1,0 +1,48 @@
+
+lizitexiao.png
+size: 332,260
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+257
+  rotate: false
+  xy: 2, 2
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+mh_13
+  rotate: false
+  xy: 260, 186
+  size: 70, 72
+  orig: 70, 72
+  offset: 0, 0
+  index: -1
+mh_14
+  rotate: false
+  xy: 260, 138
+  size: 45, 46
+  orig: 45, 46
+  offset: 0, 0
+  index: -1
+mh_15
+  rotate: false
+  xy: 260, 100
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+mh_16
+  rotate: false
+  xy: 260, 62
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+mh_17
+  rotate: false
+  xy: 260, 31
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,108 @@
+[
+  {
+    "__type__": "cc.AnimationClip",
+    "_name": "anim_fish_102_run",
+    "_objFlags": 0,
+    "_native": "",
+    "sample": 60,
+    "speed": 1,
+    "wrapMode": 2,
+    "_duration": 1.5166666666666666,
+    "_hash": 2769212511,
+    "_tracks": [
+      {
+        "__id__": 1
+      }
+    ],
+    "_events": [],
+    "_exoticAnimation": null
+  },
+  {
+    "__type__": "cc.animation.ObjectTrack",
+    "_binding": {
+      "__type__": "cc.animation.TrackBinding",
+      "path": {
+        "__id__": 2
+      }
+    },
+    "_channel": {
+      "__id__": 4
+    }
+  },
+  {
+    "__type__": "cc.animation.TrackPath",
+    "_paths": [
+      {
+        "__id__": 3
+      },
+      "spriteFrame"
+    ]
+  },
+  {
+    "__type__": "cc.animation.ComponentPath",
+    "component": "cc.Sprite"
+  },
+  {
+    "__type__": "cc.animation.Channel",
+    "_curve": {
+      "__id__": 5
+    }
+  },
+  {
+    "__type__": "cc.ObjectCurve",
+    "_times": [
+      0,
+      0.16666666666666666,
+      0.3333333333333333,
+      0.5,
+      0.6666666666666666,
+      0.8333333333333334,
+      1,
+      1.1666666666666667,
+      1.3333333333333333,
+      1.5
+    ],
+    "_values": [
+      {
+        "__uuid__": "1a8c29e5-a6b0-4ba7-be7c-92ede9a52aeb@b6745",
+        "__expectedType__": "cc.Asset"
+      },
+      {
+        "__uuid__": "1a8c29e5-a6b0-4ba7-be7c-92ede9a52aeb@a5c96",
+        "__expectedType__": "cc.Asset"
+      },
+      {
+        "__uuid__": "1a8c29e5-a6b0-4ba7-be7c-92ede9a52aeb@2d550",
+        "__expectedType__": "cc.Asset"
+      },
+      {
+        "__uuid__": "1a8c29e5-a6b0-4ba7-be7c-92ede9a52aeb@81638",
+        "__expectedType__": "cc.Asset"
+      },
+      {
+        "__uuid__": "1a8c29e5-a6b0-4ba7-be7c-92ede9a52aeb@066aa",
+        "__expectedType__": "cc.Asset"
+      },
+      {
+        "__uuid__": "1a8c29e5-a6b0-4ba7-be7c-92ede9a52aeb@d330c",
+        "__expectedType__": "cc.Asset"
+      },
+      {
+        "__uuid__": "1a8c29e5-a6b0-4ba7-be7c-92ede9a52aeb@89533",
+        "__expectedType__": "cc.Asset"
+      },
+      {
+        "__uuid__": "1a8c29e5-a6b0-4ba7-be7c-92ede9a52aeb@1276e",
+        "__expectedType__": "cc.Asset"
+      },
+      {
+        "__uuid__": "1a8c29e5-a6b0-4ba7-be7c-92ede9a52aeb@25779",
+        "__expectedType__": "cc.Asset"
+      },
+      {
+        "__uuid__": "1a8c29e5-a6b0-4ba7-be7c-92ede9a52aeb@c9046",
+        "__expectedType__": "cc.Asset"
+      }
+    ]
+  }
+]

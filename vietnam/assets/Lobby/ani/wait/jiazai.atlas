@@ -1,0 +1,62 @@
+
+jiazai.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+logo_3
+  rotate: true
+  xy: 178, 45
+  size: 96, 105
+  orig: 96, 105
+  offset: 0, 0
+  index: -1
+logo_4
+  rotate: false
+  xy: 337, 146
+  size: 134, 108
+  orig: 134, 108
+  offset: 0, 0
+  index: -1
+logo_5
+  rotate: true
+  xy: 283, 69
+  size: 72, 63
+  orig: 72, 63
+  offset: 0, 0
+  index: -1
+logo_6
+  rotate: false
+  xy: 346, 85
+  size: 56, 61
+  orig: 56, 61
+  offset: 0, 0
+  index: -1
+logo_7
+  rotate: false
+  xy: 0, 45
+  size: 178, 209
+  orig: 178, 209
+  offset: 0, 0
+  index: -1
+logo_8
+  rotate: false
+  xy: 471, 209
+  size: 22, 45
+  orig: 22, 45
+  offset: 0, 0
+  index: -1
+zi_01
+  rotate: false
+  xy: 178, 141
+  size: 159, 113
+  orig: 159, 113
+  offset: 0, 0
+  index: -1
+zi_03
+  rotate: false
+  xy: 0, 0
+  size: 48, 45
+  orig: 48, 45
+  offset: 0, 0
+  index: -1

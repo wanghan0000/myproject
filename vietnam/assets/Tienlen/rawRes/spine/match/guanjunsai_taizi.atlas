@@ -1,0 +1,55 @@
+
+guanjunsai_taizi.png
+size: 187,132
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gjs__0
+  rotate: true
+  xy: 150, 2
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+gjs__1
+  rotate: false
+  xy: 150, 20
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+gjs__2
+  rotate: false
+  xy: 169, 20
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+gjs__3
+  rotate: false
+  xy: 150, 63
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+gjs__4
+  rotate: false
+  xy: 150, 39
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+gjs__8
+  rotate: false
+  xy: 2, 4
+  size: 146, 126
+  orig: 146, 126
+  offset: 0, 0
+  index: -1
+gjs__9
+  rotate: true
+  xy: 150, 87
+  size: 43, 32
+  orig: 43, 32
+  offset: 0, 0
+  index: -1

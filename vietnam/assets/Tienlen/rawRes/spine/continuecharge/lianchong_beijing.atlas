@@ -1,0 +1,62 @@
+
+lianchong_beijing.png
+size: 1808,1798
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lc_4
+  rotate: false
+  xy: 1065, 496
+  size: 51, 51
+  orig: 51, 51
+  offset: 0, 0
+  index: -1
+lc_41
+  rotate: false
+  xy: 2, 39
+  size: 1167, 378
+  orig: 1167, 378
+  offset: 0, 0
+  index: -1
+lc_46
+  rotate: false
+  xy: 1171, 2
+  size: 282, 249
+  orig: 282, 249
+  offset: 0, 0
+  index: -1
+lc_47
+  rotate: false
+  xy: 1577, 1555
+  size: 148, 241
+  orig: 148, 241
+  offset: 0, 0
+  index: -1
+lc_48
+  rotate: true
+  xy: 1171, 253
+  size: 294, 635
+  orig: 294, 635
+  offset: 0, 0
+  index: -1
+lc_49
+  rotate: false
+  xy: 1065, 549
+  size: 707, 523
+  orig: 707, 523
+  offset: 0, 0
+  index: -1
+lc_51
+  rotate: false
+  xy: 2, 1074
+  size: 1573, 722
+  orig: 1573, 722
+  offset: 0, 0
+  index: -1
+lc_9
+  rotate: false
+  xy: 2, 419
+  size: 1061, 653
+  orig: 1061, 653
+  offset: 0, 0
+  index: -1

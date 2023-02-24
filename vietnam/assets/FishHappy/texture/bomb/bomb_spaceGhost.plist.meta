@@ -1,0 +1,247 @@
+{
+  "ver": "1.0.7",
+  "importer": "sprite-atlas",
+  "imported": true,
+  "uuid": "a112286f-1001-4ff5-9d31-0b9e66413ee6",
+  "files": [
+    ".json"
+  ],
+  "subMetas": {
+    "98028": {
+      "importer": "sprite-frame",
+      "uuid": "a112286f-1001-4ff5-9d31-0b9e66413ee6@98028",
+      "displayName": "",
+      "id": "98028",
+      "name": "bomb_spaceGhost2_01",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": 0,
+        "trimX": 2,
+        "trimY": 133,
+        "width": 134,
+        "height": 129,
+        "rawWidth": 134,
+        "rawHeight": 129,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "9134b854-44d6-455a-b6fc-c737dd23b35d@6c48a",
+        "atlasUuid": "a112286f-1001-4ff5-9d31-0b9e66413ee6",
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        }
+      },
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0e5d9": {
+      "importer": "sprite-frame",
+      "uuid": "a112286f-1001-4ff5-9d31-0b9e66413ee6@0e5d9",
+      "displayName": "",
+      "id": "0e5d9",
+      "name": "bomb_spaceGhost2_00",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 1,
+        "offsetY": 4,
+        "trimX": 136,
+        "trimY": 264,
+        "width": 112,
+        "height": 115,
+        "rawWidth": 134,
+        "rawHeight": 129,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "9134b854-44d6-455a-b6fc-c737dd23b35d@6c48a",
+        "atlasUuid": "a112286f-1001-4ff5-9d31-0b9e66413ee6",
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        }
+      },
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9d2ba": {
+      "importer": "sprite-frame",
+      "uuid": "a112286f-1001-4ff5-9d31-0b9e66413ee6@9d2ba",
+      "displayName": "",
+      "id": "9d2ba",
+      "name": "bomb_spaceGhost2_02",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 1,
+        "offsetY": 0,
+        "trimX": 2,
+        "trimY": 264,
+        "width": 132,
+        "height": 127,
+        "rawWidth": 134,
+        "rawHeight": 129,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "9134b854-44d6-455a-b6fc-c737dd23b35d@6c48a",
+        "atlasUuid": "a112286f-1001-4ff5-9d31-0b9e66413ee6",
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        }
+      },
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0b631": {
+      "importer": "sprite-frame",
+      "uuid": "a112286f-1001-4ff5-9d31-0b9e66413ee6@0b631",
+      "displayName": "",
+      "id": "0b631",
+      "name": "bomb_spaceGhost2_03",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": 2,
+        "trimX": 138,
+        "trimY": 2,
+        "width": 106,
+        "height": 101,
+        "rawWidth": 134,
+        "rawHeight": 129,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "9134b854-44d6-455a-b6fc-c737dd23b35d@6c48a",
+        "atlasUuid": "a112286f-1001-4ff5-9d31-0b9e66413ee6",
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        }
+      },
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "91dd4": {
+      "importer": "sprite-frame",
+      "uuid": "a112286f-1001-4ff5-9d31-0b9e66413ee6@91dd4",
+      "displayName": "",
+      "id": "91dd4",
+      "name": "bomb_spaceGhost2_04",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": 0,
+        "trimX": 2,
+        "trimY": 2,
+        "width": 134,
+        "height": 129,
+        "rawWidth": 134,
+        "rawHeight": 129,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "9134b854-44d6-455a-b6fc-c737dd23b35d@6c48a",
+        "atlasUuid": "a112286f-1001-4ff5-9d31-0b9e66413ee6",
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        }
+      },
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "atlasTextureName": "bomb_spaceGhost.png",
+    "format": 2,
+    "uuid": "a112286f-1001-4ff5-9d31-0b9e66413ee6",
+    "textureUuid": "9134b854-44d6-455a-b6fc-c737dd23b35d@6c48a"
+  }
+}

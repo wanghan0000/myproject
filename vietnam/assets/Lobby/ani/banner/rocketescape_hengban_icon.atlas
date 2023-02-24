@@ -1,0 +1,34 @@
+
+rocketescape_hengban_icon.png
+size: 317,214
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+re__0
+  rotate: false
+  xy: 262, 27
+  size: 34, 35
+  orig: 34, 35
+  offset: 0, 0
+  index: -1
+re__1
+  rotate: false
+  xy: 2, 2
+  size: 258, 210
+  orig: 258, 210
+  offset: 0, 0
+  index: -1
+re__2
+  rotate: true
+  xy: 262, 64
+  size: 56, 46
+  orig: 56, 46
+  offset: 0, 0
+  index: -1
+re__3
+  rotate: true
+  xy: 262, 122
+  size: 90, 53
+  orig: 90, 53
+  offset: 0, 0
+  index: -1

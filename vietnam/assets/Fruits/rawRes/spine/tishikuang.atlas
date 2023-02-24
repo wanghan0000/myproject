@@ -1,0 +1,146 @@
+
+tishikuang.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/zisek_00000
+  rotate: false
+  xy: 2, 762
+  size: 550, 150
+  orig: 550, 150
+  offset: 0, 0
+  index: -1
+images/zisek_00001
+  rotate: false
+  xy: 2, 610
+  size: 550, 150
+  orig: 550, 150
+  offset: 0, 0
+  index: -1
+images/zisek_00002
+  rotate: false
+  xy: 554, 762
+  size: 550, 150
+  orig: 550, 150
+  offset: 0, 0
+  index: -1
+images/zisek_00003
+  rotate: false
+  xy: 2, 458
+  size: 550, 150
+  orig: 550, 150
+  offset: 0, 0
+  index: -1
+images/zisek_00004
+  rotate: false
+  xy: 554, 610
+  size: 550, 150
+  orig: 550, 150
+  offset: 0, 0
+  index: -1
+images/zisek_00005
+  rotate: false
+  xy: 1106, 762
+  size: 550, 150
+  orig: 550, 150
+  offset: 0, 0
+  index: -1
+images/zisek_00006
+  rotate: false
+  xy: 2, 306
+  size: 550, 150
+  orig: 550, 150
+  offset: 0, 0
+  index: -1
+images/zisek_00007
+  rotate: false
+  xy: 554, 458
+  size: 550, 150
+  orig: 550, 150
+  offset: 0, 0
+  index: -1
+images/zisek_00008
+  rotate: false
+  xy: 1106, 610
+  size: 550, 150
+  orig: 550, 150
+  offset: 0, 0
+  index: -1
+images/zisek_00009
+  rotate: false
+  xy: 2, 154
+  size: 550, 150
+  orig: 550, 150
+  offset: 0, 0
+  index: -1
+images/zisek_00010
+  rotate: false
+  xy: 554, 306
+  size: 550, 150
+  orig: 550, 150
+  offset: 0, 0
+  index: -1
+images/zisek_00011
+  rotate: false
+  xy: 1106, 458
+  size: 550, 150
+  orig: 550, 150
+  offset: 0, 0
+  index: -1
+images/zisek_00012
+  rotate: false
+  xy: 2, 2
+  size: 550, 150
+  orig: 550, 150
+  offset: 0, 0
+  index: -1
+images/zisek_00013
+  rotate: false
+  xy: 554, 154
+  size: 550, 150
+  orig: 550, 150
+  offset: 0, 0
+  index: -1
+images/zisek_00014
+  rotate: false
+  xy: 1106, 306
+  size: 550, 150
+  orig: 550, 150
+  offset: 0, 0
+  index: -1
+images/zisek_00015
+  rotate: true
+  xy: 1658, 362
+  size: 550, 150
+  orig: 550, 150
+  offset: 0, 0
+  index: -1
+images/zisek_00016
+  rotate: false
+  xy: 554, 2
+  size: 550, 150
+  orig: 550, 150
+  offset: 0, 0
+  index: -1
+images/zisek_00017
+  rotate: false
+  xy: 1106, 154
+  size: 550, 150
+  orig: 550, 150
+  offset: 0, 0
+  index: -1
+images/zisek_00018
+  rotate: true
+  xy: 1810, 362
+  size: 550, 150
+  orig: 550, 150
+  offset: 0, 0
+  index: -1
+images/zisek_00019
+  rotate: false
+  xy: 1106, 2
+  size: 550, 150
+  orig: 550, 150
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,334 @@
+
+megawin.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/E_Hit_NewRing040_Gemis_00000
+  rotate: false
+  xy: 756, 763
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+images/dishedeng
+  rotate: true
+  xy: 2, 37
+  size: 441, 186
+  orig: 441, 186
+  offset: 0, 0
+  index: -1
+images/guangyun
+  rotate: true
+  xy: 756, 480
+  size: 281, 245
+  orig: 281, 245
+  offset: 0, 0
+  index: -1
+images/jinb/01
+  rotate: false
+  xy: 314, 13
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+images/jinb/02
+  rotate: false
+  xy: 456, 13
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+images/jinb/03
+  rotate: false
+  xy: 598, 13
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+images/jinb/04
+  rotate: false
+  xy: 740, 13
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+images/jinb/05
+  rotate: false
+  xy: 882, 13
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+images/jinb/06
+  rotate: false
+  xy: 739, 338
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+images/jinb/07
+  rotate: false
+  xy: 881, 338
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+images/lizi_zrtb/lizi20001
+  rotate: true
+  xy: 2, 648
+  size: 76, 173
+  orig: 76, 173
+  offset: 0, 0
+  index: -1
+images/lizi_zrtb/lizi20003
+  rotate: true
+  xy: 2, 570
+  size: 76, 173
+  orig: 76, 173
+  offset: 0, 0
+  index: -1
+images/lizi_zrtb/lizi20005
+  rotate: true
+  xy: 2, 492
+  size: 76, 173
+  orig: 76, 173
+  offset: 0, 0
+  index: -1
+images/megadib
+  rotate: false
+  xy: 2, 726
+  size: 752, 293
+  orig: 752, 293
+  offset: 0, 0
+  index: -1
+images/megawin
+  rotate: false
+  xy: 314, 155
+  size: 685, 165
+  orig: 685, 165
+  offset: 0, 0
+  index: -1
+images/mw6
+  rotate: true
+  xy: 2, 2
+  size: 33, 94
+  orig: 33, 94
+  offset: 0, 0
+  index: -1
+images/shandian
+  rotate: false
+  xy: 98, 2
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+images/shandian/dian2_16
+  rotate: true
+  xy: 190, 32
+  size: 288, 122
+  orig: 288, 122
+  offset: 0, 0
+  index: -1
+images/zisdeng
+  rotate: false
+  xy: 190, 322
+  size: 547, 402
+  orig: 547, 402
+  offset: 0, 0
+  index: -1
+
+megawin2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/dengdizuo
+  rotate: false
+  xy: 2, 893
+  size: 682, 100
+  orig: 682, 100
+  offset: 0, 0
+  index: -1
+images/jinb/08
+  rotate: false
+  xy: 292, 503
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+images/jinb/09
+  rotate: false
+  xy: 2, 255
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+images/jinb/10
+  rotate: false
+  xy: 434, 503
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+images/lizi_zrtb/lizi20007
+  rotate: true
+  xy: 686, 917
+  size: 76, 173
+  orig: 76, 173
+  offset: 0, 0
+  index: -1
+images/lizi_zrtb/lizi20009
+  rotate: false
+  xy: 582, 718
+  size: 76, 173
+  orig: 76, 173
+  offset: 0, 0
+  index: -1
+images/lizi_zrtb/lizi20011
+  rotate: true
+  xy: 292, 425
+  size: 76, 173
+  orig: 76, 173
+  offset: 0, 0
+  index: -1
+images/lizi_zrtb/lizi20013
+  rotate: false
+  xy: 2, 80
+  size: 76, 173
+  orig: 76, 173
+  offset: 0, 0
+  index: -1
+images/lizi_zrtb/lizi20015
+  rotate: false
+  xy: 80, 80
+  size: 76, 173
+  orig: 76, 173
+  offset: 0, 0
+  index: -1
+images/lizi_zrtb/lizi20017
+  rotate: true
+  xy: 2, 2
+  size: 76, 173
+  orig: 76, 173
+  offset: 0, 0
+  index: -1
+images/lizi_zrtb/lizi20019
+  rotate: false
+  xy: 158, 125
+  size: 76, 173
+  orig: 76, 173
+  offset: 0, 0
+  index: -1
+images/lizi_zrtb/lizi20021
+  rotate: false
+  xy: 236, 125
+  size: 76, 173
+  orig: 76, 173
+  offset: 0, 0
+  index: -1
+images/lizi_zrtb/lizi20023
+  rotate: true
+  xy: 292, 347
+  size: 76, 173
+  orig: 76, 173
+  offset: 0, 0
+  index: -1
+images/lizi_zrtb/lizi20025
+  rotate: false
+  xy: 467, 328
+  size: 76, 173
+  orig: 76, 173
+  offset: 0, 0
+  index: -1
+images/mw1
+  rotate: false
+  xy: 177, 20
+  size: 106, 103
+  orig: 106, 103
+  offset: 0, 0
+  index: -1
+images/mw2
+  rotate: false
+  xy: 314, 156
+  size: 68, 96
+  orig: 68, 96
+  offset: 0, 0
+  index: -1
+images/mw3
+  rotate: false
+  xy: 582, 622
+  size: 91, 94
+  orig: 91, 94
+  offset: 0, 0
+  index: -1
+images/mw4
+  rotate: false
+  xy: 314, 254
+  size: 96, 91
+  orig: 96, 91
+  offset: 0, 0
+  index: -1
+images/mw5
+  rotate: false
+  xy: 144, 300
+  size: 129, 95
+  orig: 129, 95
+  offset: 0, 0
+  index: -1
+images/mw7
+  rotate: false
+  xy: 576, 518
+  size: 90, 102
+  orig: 90, 102
+  offset: 0, 0
+  index: -1
+images/shandian/dian2_17
+  rotate: false
+  xy: 2, 769
+  size: 288, 122
+  orig: 288, 122
+  offset: 0, 0
+  index: -1
+images/shandian/dian2_18
+  rotate: false
+  xy: 2, 645
+  size: 288, 122
+  orig: 288, 122
+  offset: 0, 0
+  index: -1
+images/shandian/dian2_19
+  rotate: false
+  xy: 292, 769
+  size: 288, 122
+  orig: 288, 122
+  offset: 0, 0
+  index: -1
+images/shandian/dian2_20
+  rotate: false
+  xy: 2, 521
+  size: 288, 122
+  orig: 288, 122
+  offset: 0, 0
+  index: -1
+images/shandian/dian2_21
+  rotate: false
+  xy: 292, 645
+  size: 288, 122
+  orig: 288, 122
+  offset: 0, 0
+  index: -1
+images/shandian/dian2_22
+  rotate: false
+  xy: 2, 397
+  size: 288, 122
+  orig: 288, 122
+  offset: 0, 0
+  index: -1
+images/shizig1
+  rotate: false
+  xy: 861, 882
+  size: 111, 111
+  orig: 111, 111
+  offset: 0, 0
+  index: -1

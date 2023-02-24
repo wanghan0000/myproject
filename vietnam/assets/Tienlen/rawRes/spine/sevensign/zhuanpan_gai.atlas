@@ -1,0 +1,83 @@
+
+zhuanpan_gai.png
+size: 684,520
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+deng-liang
+  rotate: false
+  xy: 354, 54
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+deng-liang-xiao
+  rotate: false
+  xy: 662, 498
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+go
+  rotate: false
+  xy: 516, 97
+  size: 157, 93
+  orig: 157, 93
+  offset: 0, 0
+  index: -1
+goa
+  rotate: false
+  xy: 516, 2
+  size: 157, 93
+  orig: 157, 93
+  offset: 0, 0
+  index: -1
+guangquan_0
+  rotate: false
+  xy: 458, 321
+  size: 202, 197
+  orig: 202, 197
+  offset: 0, 0
+  index: -1
+guangquan_1
+  rotate: false
+  xy: 2, 263
+  size: 274, 255
+  orig: 274, 255
+  offset: 0, 0
+  index: -1
+qd__38
+  rotate: false
+  xy: 193, 49
+  size: 159, 212
+  orig: 159, 212
+  offset: 0, 0
+  index: -1
+qd__38a
+  rotate: false
+  xy: 516, 192
+  size: 124, 127
+  orig: 124, 127
+  offset: 0, 0
+  index: -1
+qd__40
+  rotate: false
+  xy: 354, 90
+  size: 160, 197
+  orig: 160, 197
+  offset: 0, 0
+  index: -1
+qd__41
+  rotate: false
+  xy: 278, 289
+  size: 178, 229
+  orig: 178, 229
+  offset: 0, 0
+  index: -1
+qd__42
+  rotate: false
+  xy: 2, 16
+  size: 189, 245
+  orig: 189, 245
+  offset: 0, 0
+  index: -1

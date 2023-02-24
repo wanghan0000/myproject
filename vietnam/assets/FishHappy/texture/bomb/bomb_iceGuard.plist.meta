@@ -1,0 +1,247 @@
+{
+  "ver": "1.0.7",
+  "importer": "sprite-atlas",
+  "imported": true,
+  "uuid": "a99f07b4-1507-443b-a7b6-5cbc8b738613",
+  "files": [
+    ".json"
+  ],
+  "subMetas": {
+    "7c3dd": {
+      "importer": "sprite-frame",
+      "uuid": "a99f07b4-1507-443b-a7b6-5cbc8b738613@7c3dd",
+      "displayName": "",
+      "id": "7c3dd",
+      "name": "bomb_iceGuard_00",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 14,
+        "offsetY": -9,
+        "trimX": 523,
+        "trimY": 263,
+        "width": 232,
+        "height": 242,
+        "rawWidth": 260,
+        "rawHeight": 260,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "1ac77ade-fff1-450e-8ea1-6be37fedb943@6c48a",
+        "atlasUuid": "a99f07b4-1507-443b-a7b6-5cbc8b738613",
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        }
+      },
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b4236": {
+      "importer": "sprite-frame",
+      "uuid": "a99f07b4-1507-443b-a7b6-5cbc8b738613@b4236",
+      "displayName": "",
+      "id": "b4236",
+      "name": "bomb_iceGuard_01",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": true,
+        "offsetX": 0,
+        "offsetY": -1,
+        "trimX": 263,
+        "trimY": 263,
+        "width": 260,
+        "height": 258,
+        "rawWidth": 260,
+        "rawHeight": 260,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "1ac77ade-fff1-450e-8ea1-6be37fedb943@6c48a",
+        "atlasUuid": "a99f07b4-1507-443b-a7b6-5cbc8b738613",
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        }
+      },
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "de07d": {
+      "importer": "sprite-frame",
+      "uuid": "a99f07b4-1507-443b-a7b6-5cbc8b738613@de07d",
+      "displayName": "",
+      "id": "de07d",
+      "name": "bomb_iceGuard_02",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": 0,
+        "trimX": 1,
+        "trimY": 1,
+        "width": 260,
+        "height": 260,
+        "rawWidth": 260,
+        "rawHeight": 260,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "1ac77ade-fff1-450e-8ea1-6be37fedb943@6c48a",
+        "atlasUuid": "a99f07b4-1507-443b-a7b6-5cbc8b738613",
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        }
+      },
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b27b4": {
+      "importer": "sprite-frame",
+      "uuid": "a99f07b4-1507-443b-a7b6-5cbc8b738613@b27b4",
+      "displayName": "",
+      "id": "b27b4",
+      "name": "bomb_iceGuard_03",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": 0,
+        "trimX": 1,
+        "trimY": 263,
+        "width": 260,
+        "height": 260,
+        "rawWidth": 260,
+        "rawHeight": 260,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "1ac77ade-fff1-450e-8ea1-6be37fedb943@6c48a",
+        "atlasUuid": "a99f07b4-1507-443b-a7b6-5cbc8b738613",
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        }
+      },
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2743b": {
+      "importer": "sprite-frame",
+      "uuid": "a99f07b4-1507-443b-a7b6-5cbc8b738613@2743b",
+      "displayName": "",
+      "id": "2743b",
+      "name": "bomb_iceGuard_04",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": 0,
+        "trimX": 263,
+        "trimY": 1,
+        "width": 260,
+        "height": 260,
+        "rawWidth": 260,
+        "rawHeight": 260,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "1ac77ade-fff1-450e-8ea1-6be37fedb943@6c48a",
+        "atlasUuid": "a99f07b4-1507-443b-a7b6-5cbc8b738613",
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        }
+      },
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "atlasTextureName": "bomb_iceGuard.png",
+    "format": 3,
+    "uuid": "a99f07b4-1507-443b-a7b6-5cbc8b738613",
+    "textureUuid": "1ac77ade-fff1-450e-8ea1-6be37fedb943@6c48a"
+  }
+}

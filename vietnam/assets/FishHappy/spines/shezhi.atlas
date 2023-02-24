@@ -1,0 +1,20 @@
+
+shezhi.png
+size: 95,53
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sz1
+  rotate: false
+  xy: 53, 11
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+sz2
+  rotate: false
+  xy: 2, 2
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1

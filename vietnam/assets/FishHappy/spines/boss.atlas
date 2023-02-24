@@ -1,0 +1,41 @@
+
+boss.png
+size: 1973,535
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+d
+  rotate: false
+  xy: 2, 2
+  size: 1280, 531
+  orig: 1280, 531
+  offset: 0, 0
+  index: -1
+guanhqun
+  rotate: false
+  xy: 1284, 38
+  size: 260, 296
+  orig: 260, 296
+  offset: 0, 0
+  index: -1
+jiantou1
+  rotate: false
+  xy: 1794, 65
+  size: 177, 269
+  orig: 177, 269
+  offset: 0, 0
+  index: -1
+jiantou11_2
+  rotate: false
+  xy: 1546, 44
+  size: 246, 290
+  orig: 246, 290
+  offset: 0, 0
+  index: -1
+z
+  rotate: false
+  xy: 1284, 336
+  size: 521, 197
+  orig: 521, 197
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,125 @@
+
+chaojidajiang.png
+size: 1431,913
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/3_00000
+  rotate: true
+  xy: 516, 105
+  size: 409, 261
+  orig: 500, 281
+  offset: 50, 10
+  index: -1
+images/E_Hit_NewRing040_Gemis_00000
+  rotate: false
+  xy: 2, 2
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+images/guangyun
+  rotate: false
+  xy: 779, 105
+  size: 529, 408
+  orig: 561, 490
+  offset: 30, 40
+  index: -1
+images/hsediguang
+  rotate: false
+  xy: 854, 515
+  size: 575, 396
+  orig: 578, 398
+  offset: 1, 0
+  index: -1
+images/jinb/01
+  rotate: false
+  xy: 1310, 397
+  size: 117, 116
+  orig: 140, 140
+  offset: 14, 10
+  index: -1
+images/jinb/02
+  rotate: false
+  xy: 1310, 277
+  size: 103, 118
+  orig: 140, 140
+  offset: 28, 9
+  index: -1
+images/jinb/03
+  rotate: true
+  xy: 643, 17
+  size: 86, 119
+  orig: 140, 140
+  offset: 38, 9
+  index: -1
+images/jinb/04
+  rotate: true
+  xy: 764, 39
+  size: 64, 119
+  orig: 140, 140
+  offset: 48, 9
+  index: -1
+images/jinb/05
+  rotate: true
+  xy: 1009, 54
+  size: 49, 119
+  orig: 140, 140
+  offset: 54, 9
+  index: -1
+images/jinb/06
+  rotate: true
+  xy: 764, 3
+  size: 34, 119
+  orig: 140, 140
+  offset: 60, 9
+  index: -1
+images/jinb/07
+  rotate: true
+  xy: 1130, 64
+  size: 39, 123
+  orig: 140, 140
+  offset: 49, 7
+  index: -1
+images/jinb/08
+  rotate: true
+  xy: 885, 53
+  size: 50, 122
+  orig: 140, 140
+  offset: 40, 8
+  index: -1
+images/jinb/09
+  rotate: false
+  xy: 1310, 154
+  size: 82, 121
+  orig: 140, 140
+  offset: 21, 8
+  index: -1
+images/jinb/10
+  rotate: true
+  xy: 516, 2
+  size: 101, 125
+  orig: 140, 140
+  offset: 14, 6
+  index: -1
+images/jinsedig
+  rotate: false
+  xy: 2, 516
+  size: 850, 395
+  orig: 882, 402
+  offset: 13, 2
+  index: -1
+images/sgxx
+  rotate: false
+  xy: 885, 18
+  size: 33, 33
+  orig: 39, 35
+  offset: 3, 1
+  index: -1
+images/zuanshi
+  rotate: false
+  xy: 1310, 113
+  size: 38, 39
+  orig: 38, 39
+  offset: 0, 0
+  index: -1

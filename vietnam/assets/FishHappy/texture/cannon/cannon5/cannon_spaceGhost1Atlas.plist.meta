@@ -1,0 +1,247 @@
+{
+  "ver": "1.0.7",
+  "importer": "sprite-atlas",
+  "imported": true,
+  "uuid": "9ebec7e7-2c78-4613-97ae-8dedea284937",
+  "files": [
+    ".json"
+  ],
+  "subMetas": {
+    "e9d1e": {
+      "importer": "sprite-frame",
+      "uuid": "9ebec7e7-2c78-4613-97ae-8dedea284937@e9d1e",
+      "displayName": "",
+      "id": "e9d1e",
+      "name": "cannon_spaceGhost1_00",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": -3,
+        "offsetY": 8,
+        "trimX": 2,
+        "trimY": 758,
+        "width": 231,
+        "height": 167,
+        "rawWidth": 247,
+        "rawHeight": 241,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "cea15f97-1cb4-4675-9e7e-c12cb8e8055c@6c48a",
+        "atlasUuid": "9ebec7e7-2c78-4613-97ae-8dedea284937",
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        }
+      },
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f2d1d": {
+      "importer": "sprite-frame",
+      "uuid": "9ebec7e7-2c78-4613-97ae-8dedea284937@f2d1d",
+      "displayName": "",
+      "id": "f2d1d",
+      "name": "cannon_spaceGhost1_01",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": -3,
+        "offsetY": 21,
+        "trimX": 2,
+        "trimY": 394,
+        "width": 231,
+        "height": 193,
+        "rawWidth": 247,
+        "rawHeight": 241,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "cea15f97-1cb4-4675-9e7e-c12cb8e8055c@6c48a",
+        "atlasUuid": "9ebec7e7-2c78-4613-97ae-8dedea284937",
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        }
+      },
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8f199": {
+      "importer": "sprite-frame",
+      "uuid": "9ebec7e7-2c78-4613-97ae-8dedea284937@8f199",
+      "displayName": "",
+      "id": "8f199",
+      "name": "cannon_spaceGhost1_02",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": -3,
+        "offsetY": 21,
+        "trimX": 2,
+        "trimY": 199,
+        "width": 231,
+        "height": 193,
+        "rawWidth": 247,
+        "rawHeight": 241,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "cea15f97-1cb4-4675-9e7e-c12cb8e8055c@6c48a",
+        "atlasUuid": "9ebec7e7-2c78-4613-97ae-8dedea284937",
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        }
+      },
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e240a": {
+      "importer": "sprite-frame",
+      "uuid": "9ebec7e7-2c78-4613-97ae-8dedea284937@e240a",
+      "displayName": "",
+      "id": "e240a",
+      "name": "cannon_spaceGhost1_03",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": -3,
+        "offsetY": 22,
+        "trimX": 2,
+        "trimY": 2,
+        "width": 231,
+        "height": 195,
+        "rawWidth": 247,
+        "rawHeight": 241,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "cea15f97-1cb4-4675-9e7e-c12cb8e8055c@6c48a",
+        "atlasUuid": "9ebec7e7-2c78-4613-97ae-8dedea284937",
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        }
+      },
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f88d0": {
+      "importer": "sprite-frame",
+      "uuid": "9ebec7e7-2c78-4613-97ae-8dedea284937@f88d0",
+      "displayName": "",
+      "id": "f88d0",
+      "name": "cannon_spaceGhost1_04",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": -3,
+        "offsetY": 7,
+        "trimX": 2,
+        "trimY": 589,
+        "width": 231,
+        "height": 167,
+        "rawWidth": 247,
+        "rawHeight": 241,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "cea15f97-1cb4-4675-9e7e-c12cb8e8055c@6c48a",
+        "atlasUuid": "9ebec7e7-2c78-4613-97ae-8dedea284937",
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        }
+      },
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "atlasTextureName": "cannon_spaceGhost1Atlas.png",
+    "format": 2,
+    "uuid": "9ebec7e7-2c78-4613-97ae-8dedea284937",
+    "textureUuid": "cea15f97-1cb4-4675-9e7e-c12cb8e8055c@6c48a"
+  }
+}

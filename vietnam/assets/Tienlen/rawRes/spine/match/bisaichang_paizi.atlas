@@ -1,0 +1,27 @@
+
+bisaichang_paizi.png
+size: 1584,182
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+paizi/a00
+  rotate: false
+  xy: 732, 59
+  size: 464, 123
+  orig: 464, 123
+  offset: 0, 0
+  index: -1
+paizi/a03
+  rotate: false
+  xy: 0, 0
+  size: 732, 182
+  orig: 732, 182
+  offset: 0, 0
+  index: -1
+paizi/gs
+  rotate: true
+  xy: 1196, 98
+  size: 84, 388
+  orig: 84, 388
+  offset: 0, 0
+  index: -1

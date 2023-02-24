@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "protobufjs": "^6.11.3"
+  },
+  "name": "vietname",
+  "type": "3d",
+  "uuid": "759de164-2e15-4127-a435-f7518cf46495",
+  "version": "3.6.0",
+  "creator": {
+    "version": "3.6.0"
+  },
+  "scripts": {
+    "build-gamehall:pbjs": "pbjs --dependency protobufjs/minimal.js --no-service --no-convert  --no-delimited --no-create --no-beautify  --no-verify  --target static-module --wrap commonjs --out ./assets/ScriptCore/protocol/gamehall.js ../proto/gamehall/*.proto",
+    "build-gamehall:pbts": "pbts --main --out ./assets/ScriptCore/protocol/gamehall.d.ts ./assets/ScriptCore/protocol/gamehall.js",
+    "build-gamehall-again:pbjs": "pbjs --dependency protobufjs/minimal.js --no-service --no-convert --no-comments --no-delimited --no-create --no-beautify  --no-verify  --target static-module --wrap commonjs --out ./assets/ScriptCore/protocol/gamehall.js ../proto/gamehall/*.proto",
+    "build-login:pbjs": "pbjs --dependency protobufjs/minimal.js --target static-module --wrap commonjs --out ./assets/ScriptCore/protocol/login.js ../proto/login/*.proto",
+    "build-login:pbts": "pbts --main --out ./assets/ScriptCore/protocol/login.d.ts ./assets/ScriptCore/protocol/login.js",
+    "build-login-again:pbjs": "pbjs --dependency protobufjs/minimal.js --target static-module --wrap commonjs --out ./assets/ScriptCore/protocol/login.js ../proto/login/*.proto",
+    "build-player:pbjs": "pbjs --dependency protobufjs/minimal.js --force-number --no-service --no-convert  --no-delimited --no-create --no-beautify  --no-verify --target static-module --wrap commonjs --out ./assets/ScriptCore/protocol/player.js ../proto/player/*.proto",
+    "build-player:pbts": "pbts --main --out ./assets/ScriptCore/protocol/player.d.ts ./assets/ScriptCore/protocol/player.js",
+    "build-player:again": "pbjs --dependency protobufjs/minimal.js --force-number --no-service --no-convert --no-comments --no-delimited --no-create --no-beautify  --no-verify --target static-module --wrap commonjs --out ./assets/ScriptCore/protocol/player.js ../proto/player/*.proto",
+    "build-server:pbjs": "pbjs --dependency protobufjs/minimal.js --force-number --no-service --target static-module --wrap commonjs --out ./assets/ScriptCore/protocol/server.js ../proto/server/*.proto",
+    "build-server:pbts": "pbts --main --out ./assets/ScriptCore/protocol/server.d.ts ./assets/ScriptCore/protocol/server.js",
+    "build-server:again": "pbjs --dependency protobufjs/minimal.js --force-number --no-service --no-comments --target static-module --wrap commonjs --out ./assets/ScriptCore/protocol/server.js ../proto/server/*.proto",
+    "build-fishing:pbjs": "pbjs --dependency protobufjs/minimal.js --target static-module --wrap commonjs --out ./assets/FishHappy/script/protocol/fishing.js ../proto/fishing/*.proto",
+    "build-fishing:pbts": "pbts --main --out ./assets/FishHappy/script/protocol/fishing.d.ts ./assets/FishHappy/script/protocol/fishing.js",
+    "build-tienlen:pbjs": "pbjs --dependency protobufjs/minimal.js --target static-module --wrap commonjs --out ./assets/Tienlen/script/protocol/tienlen.js ../proto/tienlen/*.proto",
+    "build-tienlen:pbts": "pbts --out ./assets/Tienlen/script/protocol/tienlen.d.ts ./assets/Tienlen/script/protocol/tienlen.js",
+    "build-shop:pbjs": "pbjs --dependency protobufjs/minimal.js --force-number --no-service --no-convert  --no-delimited --no-create --no-beautify  --no-verify  --target static-module --wrap commonjs --out ../protocol/shop/shop.js ../proto/shop/*.proto",
+    "build-shop:pbts": "pbts --main --out ../protocol/shop/shop.d.ts ../protocol/shop/shop.js",
+    "build-shop-again:pbjs": "pbjs --dependency protobufjs/minimal.js --force-number --no-service --no-convert --no-comments --no-delimited --no-create --no-beautify  --no-verify  --target static-module --wrap commonjs --out ../protocol/shop/shop.js ../proto/shop/*.proto",
+    "build-testproto:pbjs": "pbjs --dependency protobufjs/minimal.js --force-long --no-service --no-convert  --no-delimited --no-create --no-beautify  --no-verify  --target static-module --wrap commonjs --out ../protocol/testproto/testproto.js ../proto/testproto/*.proto",
+    "build-testproto:pbts": "pbts --main --out ../protocol/testproto/testproto.d.ts ../protocol/testproto/testproto.js",
+    "build-testproto-again:pbjs": "pbjs --dependency protobufjs/minimal.js --force-long --no-service --no-convert --no-comments --no-delimited --no-create --no-beautify  --no-verify  --target static-module --wrap commonjs --out ../protocol/testproto/testproto.js ../proto/testproto/*.proto",
+    "build-pets:pbjs": "pbjs --dependency protobufjs/minimal.js --no-service --no-convert  --no-delimited --no-create --no-beautify  --no-verify  --target static-module --wrap commonjs --out ../protocol/pets/pets.js ../proto/pets/*.proto",
+    "build-pets:pbts": "pbts --main --out ../protocol/pets/pets.d.ts ../protocol/pets/pets.js",
+    "build-pets-again:pbjs": "pbjs --dependency protobufjs/minimal.js --no-service --no-convert --no-comments --no-delimited --no-create --no-beautify  --no-verify  --target static-module --wrap commonjs --out ../protocol/pets/pets.js ../proto/pets/*.proto",
+    "build-bag:pbjs": "pbjs --dependency protobufjs/minimal.js --no-service --no-convert  --no-delimited --no-create --no-beautify  --no-verify  --target static-module --wrap commonjs --out ../protocol/bag/bag.js ../proto/bag/*.proto",
+    "build-bag:pbts": "pbts --main --out ../protocol/bag/bag.d.ts ../protocol/bag/bag.js",
+    "build-bag-again:pbjs": "pbjs --dependency protobufjs/minimal.js --no-service --no-convert --no-comments --no-delimited --no-create --no-beautify  --no-verify  --target static-module --wrap commonjs --out ../protocol/bag/bag.js ../proto/bag/*.proto",
+    "build-message:pbjs": "pbjs --dependency protobufjs/minimal.js --no-service --no-convert  --no-delimited --no-create --no-beautify  --no-verify  --target static-module --wrap commonjs --out ../protocol/message/message.js ../proto/message/*.proto",
+    "build-message:pbts": "pbts --main --out ../protocol/message/message.d.ts ../protocol/message/message.js",
+    "build-message-again:pbjs": "pbjs --dependency protobufjs/minimal.js --no-service --no-convert --no-comments --no-delimited --no-create --no-beautify  --no-verify  --target static-module --wrap commonjs --out ../protocol/message/message.js ../proto/message/*.proto"
+  }
+}

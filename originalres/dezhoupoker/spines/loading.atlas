@@ -1,0 +1,160 @@
+
+loading.png
+size: 4096,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dzll_01
+  rotate: false
+  xy: 2, 435
+  size: 518, 300
+  orig: 518, 300
+  offset: 0, 0
+  index: -1
+dzll_02
+  rotate: false
+  xy: 2, 133
+  size: 518, 300
+  orig: 518, 300
+  offset: 0, 0
+  index: -1
+dzll_03
+  rotate: false
+  xy: 1220, 697
+  size: 518, 300
+  orig: 518, 300
+  offset: 0, 0
+  index: -1
+dzll_04
+  rotate: false
+  xy: 1740, 697
+  size: 518, 300
+  orig: 518, 300
+  offset: 0, 0
+  index: -1
+dzll_05
+  rotate: false
+  xy: 2260, 697
+  size: 518, 300
+  orig: 518, 300
+  offset: 0, 0
+  index: -1
+dzll_06
+  rotate: false
+  xy: 2780, 697
+  size: 518, 300
+  orig: 518, 300
+  offset: 0, 0
+  index: -1
+dzll_07
+  rotate: false
+  xy: 3300, 697
+  size: 518, 300
+  orig: 518, 300
+  offset: 0, 0
+  index: -1
+dzll_08
+  rotate: false
+  xy: 585, 511
+  size: 518, 300
+  orig: 518, 300
+  offset: 0, 0
+  index: -1
+dzll_09
+  rotate: false
+  xy: 522, 209
+  size: 518, 300
+  orig: 518, 300
+  offset: 0, 0
+  index: -1
+dzpk_1
+  rotate: false
+  xy: 2, 68
+  size: 353, 63
+  orig: 353, 63
+  offset: 0, 0
+  index: -1
+dzpk_10
+  rotate: false
+  xy: 3820, 836
+  size: 151, 161
+  orig: 151, 161
+  offset: 0, 0
+  index: -1
+dzpk_11
+  rotate: false
+  xy: 3820, 683
+  size: 161, 151
+  orig: 161, 151
+  offset: 0, 0
+  index: -1
+dzpk_12
+  rotate: false
+  xy: 1401, 575
+  size: 145, 120
+  orig: 145, 120
+  offset: 0, 0
+  index: -1
+dzpk_2
+  rotate: false
+  xy: 522, 185
+  size: 171, 22
+  orig: 171, 22
+  offset: 0, 0
+  index: -1
+dzpk_3
+  rotate: false
+  xy: 1244, 577
+  size: 155, 118
+  orig: 155, 118
+  offset: 0, 0
+  index: -1
+dzpk_4
+  rotate: false
+  xy: 522, 682
+  size: 52, 53
+  orig: 52, 53
+  offset: 0, 0
+  index: -1
+dzpk_5
+  rotate: false
+  xy: 1042, 452
+  size: 53, 57
+  orig: 53, 57
+  offset: 0, 0
+  index: -1
+dzpk_6
+  rotate: false
+  xy: 585, 813
+  size: 633, 184
+  orig: 633, 184
+  offset: 0, 0
+  index: -1
+dzpk_7
+  rotate: false
+  xy: 2, 737
+  size: 581, 260
+  orig: 581, 260
+  offset: 0, 0
+  index: -1
+dzpk_8
+  rotate: false
+  xy: 1105, 680
+  size: 104, 131
+  orig: 104, 131
+  offset: 0, 0
+  index: -1
+dzpk_9
+  rotate: false
+  xy: 1105, 523
+  size: 137, 155
+  orig: 137, 155
+  offset: 0, 0
+  index: -1
+glowSphere
+  rotate: false
+  xy: 2, 2
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1

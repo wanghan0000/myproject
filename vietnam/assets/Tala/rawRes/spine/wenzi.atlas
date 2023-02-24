@@ -1,0 +1,160 @@
+
+wenzi.png
+size: 625,269
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/Deflated
+  rotate: false
+  xy: 201, 43
+  size: 97, 51
+  orig: 97, 51
+  offset: 0, 0
+  index: -1
+images/Drawing cards
+  rotate: false
+  xy: 300, 105
+  size: 176, 32
+  orig: 176, 32
+  offset: 0, 0
+  index: -1
+images/FIRST
+  rotate: false
+  xy: 478, 89
+  size: 136, 48
+  orig: 136, 48
+  offset: 0, 0
+  index: -1
+images/FIRST-bg
+  rotate: false
+  xy: 2, 140
+  size: 333, 75
+  orig: 333, 75
+  offset: 0, 0
+  index: -1
+images/Fourth place
+  rotate: false
+  xy: 300, 24
+  size: 161, 45
+  orig: 161, 45
+  offset: 0, 0
+  index: -1
+images/LAST
+  rotate: false
+  xy: 529, 182
+  size: 94, 38
+  orig: 94, 38
+  offset: 0, 0
+  index: -1
+images/PASS
+  rotate: false
+  xy: 529, 142
+  size: 94, 38
+  orig: 94, 38
+  offset: 0, 0
+  index: -1
+images/Playing cards
+  rotate: false
+  xy: 300, 71
+  size: 167, 32
+  orig: 167, 32
+  offset: 0, 0
+  index: -1
+images/SECOND
+  rotate: false
+  xy: 459, 222
+  size: 162, 45
+  orig: 162, 45
+  offset: 0, 0
+  index: -1
+images/SECOND2
+  rotate: false
+  xy: 337, 139
+  size: 190, 76
+  orig: 190, 76
+  offset: 0, 0
+  index: -1
+images/THIRD
+  rotate: false
+  xy: 463, 2
+  size: 121, 45
+  orig: 121, 45
+  offset: 0, 0
+  index: -1
+images/THIRD2
+  rotate: false
+  xy: 201, 3
+  size: 75, 38
+  orig: 75, 38
+  offset: 0, 0
+  index: -1
+images/WAITING
+  rotate: false
+  xy: 469, 49
+  size: 140, 38
+  orig: 140, 38
+  offset: 0, 0
+  index: -1
+images/Waiting For Other Players...
+  rotate: false
+  xy: 2, 217
+  size: 455, 50
+  orig: 455, 50
+  offset: 0, 0
+  index: -1
+images/dk
+  rotate: false
+  xy: 2, 96
+  size: 296, 42
+  orig: 296, 42
+  offset: 0, 0
+  index: -1
+images/gd
+  rotate: false
+  xy: 278, 11
+  size: 20, 30
+  orig: 20, 30
+  offset: 0, 0
+  index: -1
+images/guang
+  rotate: true
+  xy: 2, 22
+  size: 72, 197
+  orig: 72, 197
+  offset: 0, 0
+  index: -1
+images/jt1
+  rotate: true
+  xy: 2, 6
+  size: 14, 24
+  orig: 14, 24
+  offset: 0, 0
+  index: -1
+images/jt2
+  rotate: false
+  xy: 586, 23
+  size: 14, 24
+  orig: 14, 24
+  offset: 0, 0
+  index: -1
+images/y1
+  rotate: false
+  xy: 323, 10
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+images/y2
+  rotate: false
+  xy: 28, 8
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+images/•
+  rotate: false
+  xy: 300, 2
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1

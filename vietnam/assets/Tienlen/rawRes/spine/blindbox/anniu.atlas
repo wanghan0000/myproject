@@ -1,0 +1,20 @@
+
+anniu.png
+size: 373,336
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hanniu_1
+  rotate: false
+  xy: 2, 127
+  size: 369, 207
+  orig: 369, 207
+  offset: 0, 0
+  index: -1
+hanniu_m
+  rotate: false
+  xy: 2, 2
+  size: 287, 123
+  orig: 287, 123
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+huodong_feiting.png
+size: 625,260
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+SF4_dds_0075
+  rotate: true
+  xy: 2, 2
+  size: 256, 512
+  orig: 256, 512
+  offset: 0, 0
+  index: -1
+feiting
+  rotate: true
+  xy: 516, 54
+  size: 204, 107
+  orig: 204, 107
+  offset: 0, 0
+  index: -1
+huo
+  rotate: false
+  xy: 516, 25
+  size: 71, 27
+  orig: 71, 27
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+duzhu_dikuang.png
+size: 512,173
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A6
+  rotate: false
+  xy: 254, 2
+  size: 256, 64
+  orig: 256, 64
+  offset: 0, 0
+  index: -1
+du_d
+  rotate: false
+  xy: 254, 68
+  size: 218, 103
+  orig: 218, 103
+  offset: 0, 0
+  index: -1
+du_d1
+  rotate: false
+  xy: 2, 34
+  size: 250, 137
+  orig: 250, 137
+  offset: 0, 0
+  index: -1

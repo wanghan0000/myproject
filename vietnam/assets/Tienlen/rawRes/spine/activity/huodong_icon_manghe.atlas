@@ -1,0 +1,41 @@
+
+huodong_icon_manghe.png
+size: 166,276
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hd__27
+  rotate: true
+  xy: 2, 33
+  size: 134, 78
+  orig: 134, 78
+  offset: 0, 0
+  index: -1
+mh01
+  rotate: false
+  xy: 2, 2
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+mh02
+  rotate: false
+  xy: 117, 226
+  size: 47, 48
+  orig: 47, 48
+  offset: 0, 0
+  index: -1
+mh03
+  rotate: true
+  xy: 82, 44
+  size: 123, 72
+  orig: 123, 72
+  offset: 0, 0
+  index: -1
+mh04
+  rotate: false
+  xy: 2, 169
+  size: 113, 105
+  orig: 113, 105
+  offset: 0, 0
+  index: -1

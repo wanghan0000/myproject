@@ -1,0 +1,82 @@
+{
+  "ver": "2.3.0",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "baeebe7d-8a99-4535-a509-89985e6dc9a7",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "d4450": {
+      "importer": "gltf-animation",
+      "uuid": "baeebe7d-8a99-4535-a509-89985e6dc9a7@d4450",
+      "displayName": "",
+      "id": "d4450",
+      "name": "chuchang.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 5.9666666984558105
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "54a94": {
+      "importer": "gltf-scene",
+      "uuid": "baeebe7d-8a99-4535-a509-89985e6dc9a7@54a94",
+      "displayName": "",
+      "id": "54a94",
+      "name": "chicken_ch.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "animationImportSettings": [
+      {
+        "name": "Take 001",
+        "duration": 5.9666666984558105,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "chuchang",
+            "from": 0,
+            "to": 5.9666666984558105,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "baeebe7d-8a99-4535-a509-89985e6dc9a7@54a94",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "baeebe7d-8a99-4535-a509-89985e6dc9a7@54a94"
+      ]
+    }
+  }
+}

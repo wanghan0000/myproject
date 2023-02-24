@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name" translatable="false">Mango</string>
+    <string name="facebook_app_id" translatable="false">871713650455589</string>
+    <string name="facebook_client_token" translatable="false">34d9647334f66d5976428e3cf6a54bc1</string>
+</resources>

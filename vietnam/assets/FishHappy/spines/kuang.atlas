@@ -1,0 +1,20 @@
+
+kuang.png
+size: 368,563
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beijiguang_001@2x
+  rotate: false
+  xy: 2, 2
+  size: 162, 559
+  orig: 162, 559
+  offset: 0, 0
+  index: -1
+guang
+  rotate: false
+  xy: 166, 361
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1

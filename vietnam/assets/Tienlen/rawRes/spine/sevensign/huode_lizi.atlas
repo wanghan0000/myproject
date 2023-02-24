@@ -1,0 +1,76 @@
+
+huode_lizi.png
+size: 1512,456
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/10002
+  rotate: false
+  xy: 2, 229
+  size: 300, 225
+  orig: 300, 225
+  offset: 0, 0
+  index: -1
+tx/10003
+  rotate: false
+  xy: 2, 2
+  size: 300, 225
+  orig: 300, 225
+  offset: 0, 0
+  index: -1
+tx/10004
+  rotate: false
+  xy: 304, 229
+  size: 300, 225
+  orig: 300, 225
+  offset: 0, 0
+  index: -1
+tx/10005
+  rotate: false
+  xy: 304, 2
+  size: 300, 225
+  orig: 300, 225
+  offset: 0, 0
+  index: -1
+tx/10006
+  rotate: false
+  xy: 606, 229
+  size: 300, 225
+  orig: 300, 225
+  offset: 0, 0
+  index: -1
+tx/10007
+  rotate: false
+  xy: 606, 2
+  size: 300, 225
+  orig: 300, 225
+  offset: 0, 0
+  index: -1
+tx/10008
+  rotate: false
+  xy: 908, 229
+  size: 300, 225
+  orig: 300, 225
+  offset: 0, 0
+  index: -1
+tx/10009
+  rotate: false
+  xy: 908, 2
+  size: 300, 225
+  orig: 300, 225
+  offset: 0, 0
+  index: -1
+tx/10010
+  rotate: false
+  xy: 1210, 229
+  size: 300, 225
+  orig: 300, 225
+  offset: 0, 0
+  index: -1
+tx/10011
+  rotate: false
+  xy: 1210, 2
+  size: 300, 225
+  orig: 300, 225
+  offset: 0, 0
+  index: -1

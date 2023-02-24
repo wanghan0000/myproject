@@ -1,0 +1,104 @@
+
+ziyouzhou.png
+size: 534,203
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: false
+  xy: 293, 11
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+02
+  rotate: false
+  xy: 433, 95
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+03
+  rotate: true
+  xy: 510, 19
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+04
+  rotate: false
+  xy: 510, 42
+  size: 20, 24
+  orig: 20, 24
+  offset: 0, 0
+  index: -1
+05
+  rotate: false
+  xy: 316, 15
+  size: 23, 16
+  orig: 23, 16
+  offset: 0, 0
+  index: -1
+c01
+  rotate: false
+  xy: 433, 115
+  size: 36, 37
+  orig: 36, 37
+  offset: 0, 0
+  index: -1
+c02
+  rotate: true
+  xy: 510, 68
+  size: 25, 22
+  orig: 25, 22
+  offset: 0, 0
+  index: -1
+c03
+  rotate: false
+  xy: 257, 2
+  size: 34, 29
+  orig: 34, 29
+  offset: 0, 0
+  index: -1
+c04
+  rotate: false
+  xy: 454, 95
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+cc
+  rotate: false
+  xy: 257, 154
+  size: 225, 47
+  orig: 225, 47
+  offset: 0, 0
+  index: -1
+dt
+  rotate: false
+  xy: 257, 33
+  size: 174, 119
+  orig: 174, 119
+  offset: 0, 0
+  index: -1
+yz
+  rotate: true
+  xy: 433, 33
+  size: 60, 75
+  orig: 60, 75
+  offset: 0, 0
+  index: -1
+zt
+  rotate: true
+  xy: 484, 95
+  size: 106, 46
+  orig: 106, 46
+  offset: 0, 0
+  index: -1
+zz
+  rotate: false
+  xy: 2, 6
+  size: 253, 195
+  orig: 253, 195
+  offset: 0, 0
+  index: -1

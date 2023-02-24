@@ -1,0 +1,62 @@
+
+loading_1.png
+size: 1212,114
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+logo_1
+  rotate: false
+  xy: 444, 3
+  size: 305, 109
+  orig: 305, 109
+  offset: 0, 0
+  index: -1
+logo_2
+  rotate: false
+  xy: 2, 7
+  size: 440, 105
+  orig: 440, 105
+  offset: 0, 0
+  index: -1
+logo_3
+  rotate: false
+  xy: 1112, 70
+  size: 98, 42
+  orig: 98, 42
+  offset: 0, 0
+  index: -1
+logo_4
+  rotate: false
+  xy: 894, 27
+  size: 78, 85
+  orig: 78, 85
+  offset: 0, 0
+  index: -1
+logo_5
+  rotate: false
+  xy: 751, 2
+  size: 141, 110
+  orig: 141, 110
+  offset: 0, 0
+  index: -1
+sc_1
+  rotate: false
+  xy: 1062, 22
+  size: 48, 90
+  orig: 48, 90
+  offset: 0, 0
+  index: -1
+sc_2
+  rotate: false
+  xy: 1112, 23
+  size: 57, 45
+  orig: 57, 45
+  offset: 0, 0
+  index: -1
+sc_3
+  rotate: false
+  xy: 974, 40
+  size: 86, 72
+  orig: 86, 72
+  offset: 0, 0
+  index: -1

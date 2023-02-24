@@ -1,0 +1,76 @@
+
+dezhou_pipeizhong.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 665, 82
+  size: 31, 32
+  orig: 31, 32
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 35, 14
+  size: 31, 32
+  orig: 31, 32
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 665, 48
+  size: 31, 32
+  orig: 31, 32
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 698, 82
+  size: 31, 32
+  orig: 31, 32
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 68, 14
+  size: 31, 32
+  orig: 31, 32
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 698, 48
+  size: 31, 32
+  orig: 31, 32
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 2, 13
+  size: 31, 33
+  orig: 31, 33
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 731, 82
+  size: 31, 32
+  orig: 31, 32
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 2, 2
+  size: 7, 9
+  orig: 7, 9
+  offset: 0, 0
+  index: -1
+d
+  rotate: false
+  xy: 2, 48
+  size: 661, 66
+  orig: 661, 66
+  offset: 0, 0
+  index: -1

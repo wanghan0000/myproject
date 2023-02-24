@@ -1,0 +1,202 @@
+
+putongjiang.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/123456
+  rotate: true
+  xy: 611, 53
+  size: 62, 65
+  orig: 62, 65
+  offset: 0, 0
+  index: -1
+images/bjg
+  rotate: false
+  xy: 2, 2
+  size: 527, 504
+  orig: 527, 504
+  offset: 0, 0
+  index: -1
+images/jinb/01
+  rotate: false
+  xy: 644, 329
+  size: 78, 78
+  orig: 78, 78
+  offset: 0, 0
+  index: -1
+images/jinb/02
+  rotate: false
+  xy: 531, 135
+  size: 78, 78
+  orig: 78, 78
+  offset: 0, 0
+  index: -1
+images/jinb/03
+  rotate: false
+  xy: 724, 329
+  size: 78, 78
+  orig: 78, 78
+  offset: 0, 0
+  index: -1
+images/jinb/04
+  rotate: false
+  xy: 531, 55
+  size: 78, 78
+  orig: 78, 78
+  offset: 0, 0
+  index: -1
+images/jinb/05
+  rotate: false
+  xy: 804, 329
+  size: 78, 78
+  orig: 78, 78
+  offset: 0, 0
+  index: -1
+images/jinb/06
+  rotate: false
+  xy: 884, 329
+  size: 78, 78
+  orig: 78, 78
+  offset: 0, 0
+  index: -1
+images/jinb/07
+  rotate: false
+  xy: 736, 249
+  size: 78, 78
+  orig: 78, 78
+  offset: 0, 0
+  index: -1
+images/jinb/08
+  rotate: false
+  xy: 816, 249
+  size: 78, 78
+  orig: 78, 78
+  offset: 0, 0
+  index: -1
+images/jinb/09
+  rotate: false
+  xy: 896, 249
+  size: 78, 78
+  orig: 78, 78
+  offset: 0, 0
+  index: -1
+images/jinb/10
+  rotate: false
+  xy: 621, 183
+  size: 78, 78
+  orig: 78, 78
+  offset: 0, 0
+  index: -1
+images/jinbi/000
+  rotate: false
+  xy: 964, 362
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+images/jinbi/002
+  rotate: false
+  xy: 602, 6
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+images/jinbi/004
+  rotate: false
+  xy: 649, 6
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+images/jinbi/006
+  rotate: false
+  xy: 731, 202
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+images/jinbi/008
+  rotate: false
+  xy: 778, 202
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+images/jinbi/010
+  rotate: false
+  xy: 825, 202
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+images/jinbi/012
+  rotate: false
+  xy: 872, 202
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+images/jinbi/014
+  rotate: false
+  xy: 919, 202
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+images/kuang
+  rotate: false
+  xy: 531, 409
+  size: 475, 97
+  orig: 475, 97
+  offset: 0, 0
+  index: -1
+images/p1
+  rotate: true
+  xy: 644, 263
+  size: 64, 90
+  orig: 64, 90
+  offset: 0, 0
+  index: -1
+images/p2
+  rotate: true
+  xy: 678, 72
+  size: 43, 42
+  orig: 43, 42
+  offset: 0, 0
+  index: -1
+images/p3
+  rotate: true
+  xy: 701, 218
+  size: 43, 28
+  orig: 43, 28
+  offset: 0, 0
+  index: -1
+images/p4
+  rotate: false
+  xy: 611, 117
+  size: 78, 64
+  orig: 78, 64
+  offset: 0, 0
+  index: -1
+images/p5
+  rotate: true
+  xy: 531, 13
+  size: 40, 69
+  orig: 40, 69
+  offset: 0, 0
+  index: -1
+images/p6
+  rotate: false
+  xy: 531, 215
+  size: 88, 79
+  orig: 88, 79
+  offset: 0, 0
+  index: -1
+images/xx
+  rotate: false
+  xy: 531, 296
+  size: 111, 111
+  orig: 111, 111
+  offset: 0, 0
+  index: -1

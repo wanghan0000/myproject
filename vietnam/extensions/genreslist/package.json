@@ -1,0 +1,37 @@
+{
+  "name": "genreslist",
+  "package_version": 2,
+  "version": "0.0.1",
+  "description": "The package template for generator reslist.",
+  "author": "Cocos Creator",
+  "main": "./main.js",
+
+  "contributions":{
+    "messages": {
+      "open": {
+          "public":true,
+          "methods":["open"]
+      }
+    },
+    "menu":[
+      {
+        "path":"项目工具",
+        "label":"生成reslist",
+        "message":"open"
+      }
+    ]
+  },
+  "panels": {
+    "default":{
+      "main": "./panel/index.js",
+      "type": "dockable",
+      "title": "genreslist",
+      "size":{
+        "width": 800,
+        "height": 300,
+        "min-width":800,
+        "min-height":300
+      }
+    }
+  }
+}

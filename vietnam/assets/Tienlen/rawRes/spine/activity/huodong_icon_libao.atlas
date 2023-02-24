@@ -1,0 +1,104 @@
+
+huodong_icon_libao.png
+size: 320,142
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hd__29
+  rotate: false
+  xy: 61, 28
+  size: 57, 32
+  orig: 57, 32
+  offset: 0, 0
+  index: -1
+hd__30
+  rotate: false
+  xy: 238, 33
+  size: 62, 21
+  orig: 62, 21
+  offset: 0, 0
+  index: -1
+hd__31
+  rotate: false
+  xy: 120, 20
+  size: 84, 39
+  orig: 84, 39
+  offset: 0, 0
+  index: -1
+hd__32
+  rotate: true
+  xy: 284, 89
+  size: 51, 34
+  orig: 51, 34
+  offset: 0, 0
+  index: -1
+hd__33
+  rotate: false
+  xy: 2, 2
+  size: 57, 58
+  orig: 57, 58
+  offset: 0, 0
+  index: -1
+hd__34
+  rotate: false
+  xy: 284, 61
+  size: 33, 26
+  orig: 33, 26
+  offset: 0, 0
+  index: -1
+hd__35
+  rotate: true
+  xy: 238, 9
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+hd__36
+  rotate: true
+  xy: 206, 6
+  size: 53, 30
+  orig: 53, 30
+  offset: 0, 0
+  index: -1
+hd__37
+  rotate: false
+  xy: 61, 3
+  size: 32, 23
+  orig: 32, 23
+  offset: 0, 0
+  index: -1
+hd__38
+  rotate: true
+  xy: 302, 32
+  size: 27, 15
+  orig: 27, 15
+  offset: 0, 0
+  index: -1
+hd__39
+  rotate: false
+  xy: 267, 9
+  size: 25, 22
+  orig: 25, 22
+  offset: 0, 0
+  index: -1
+hd__40
+  rotate: false
+  xy: 146, 61
+  size: 91, 79
+  orig: 91, 79
+  offset: 0, 0
+  index: -1
+hd__41
+  rotate: true
+  xy: 239, 56
+  size: 84, 43
+  orig: 84, 43
+  offset: 0, 0
+  index: -1
+hd__42
+  rotate: false
+  xy: 2, 62
+  size: 142, 78
+  orig: 142, 78
+  offset: 0, 0
+  index: -1

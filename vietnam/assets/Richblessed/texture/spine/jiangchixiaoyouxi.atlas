@@ -1,0 +1,62 @@
+
+jiangchixiaoyouxi.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/dajinbi
+  rotate: false
+  xy: 669, 121
+  size: 171, 171
+  orig: 171, 171
+  offset: 0, 0
+  index: -1
+images/guang1_00000
+  rotate: false
+  xy: 485, 111
+  size: 182, 181
+  orig: 182, 181
+  offset: 0, 0
+  index: -1
+images/hongwa
+  rotate: false
+  xy: 288, 294
+  size: 196, 196
+  orig: 196, 196
+  offset: 0, 0
+  index: -1
+images/lanwa
+  rotate: false
+  xy: 486, 294
+  size: 196, 196
+  orig: 196, 196
+  offset: 0, 0
+  index: -1
+images/lizizheng
+  rotate: false
+  xy: 2, 246
+  size: 284, 244
+  orig: 284, 244
+  offset: 0, 0
+  index: -1
+images/lvwa
+  rotate: false
+  xy: 684, 294
+  size: 196, 196
+  orig: 196, 196
+  offset: 0, 0
+  index: -1
+images/quanquan
+  rotate: false
+  xy: 2, 2
+  size: 245, 242
+  orig: 245, 242
+  offset: 0, 0
+  index: -1
+images/ziwa
+  rotate: false
+  xy: 288, 97
+  size: 195, 195
+  orig: 195, 195
+  offset: 0, 0
+  index: -1

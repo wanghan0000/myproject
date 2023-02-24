@@ -1,0 +1,62 @@
+
+lianchong_caidai.png
+size: 282,126
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lc_1
+  rotate: true
+  xy: 141, 33
+  size: 91, 74
+  orig: 91, 74
+  offset: 0, 0
+  index: -1
+lc_10
+  rotate: true
+  xy: 217, 4
+  size: 36, 63
+  orig: 36, 63
+  offset: 0, 0
+  index: -1
+lc_11
+  rotate: true
+  xy: 217, 42
+  size: 82, 60
+  orig: 82, 60
+  offset: 0, 0
+  index: -1
+lc_2
+  rotate: false
+  xy: 2, 11
+  size: 137, 113
+  orig: 137, 113
+  offset: 0, 0
+  index: -1
+lc_42
+  rotate: false
+  xy: 141, 15
+  size: 32, 16
+  orig: 32, 16
+  offset: 0, 0
+  index: -1
+lc_43
+  rotate: false
+  xy: 141, 2
+  size: 19, 11
+  orig: 19, 11
+  offset: 0, 0
+  index: -1
+lc_44
+  rotate: true
+  xy: 194, 4
+  size: 27, 13
+  orig: 27, 13
+  offset: 0, 0
+  index: -1
+lc_45
+  rotate: true
+  xy: 175, 10
+  size: 21, 17
+  orig: 21, 17
+  offset: 0, 0
+  index: -1

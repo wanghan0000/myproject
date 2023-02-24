@@ -1,0 +1,202 @@
+
+mianfeiyouxi.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/10
+  rotate: false
+  xy: 1016, 492
+  size: 222, 138
+  orig: 222, 138
+  offset: 0, 0
+  index: -1
+images/101
+  rotate: false
+  xy: 2, 2
+  size: 215, 123
+  orig: 215, 123
+  offset: 0, 0
+  index: -1
+images/20
+  rotate: false
+  xy: 714, 492
+  size: 300, 138
+  orig: 300, 138
+  offset: 0, 0
+  index: -1
+images/202
+  rotate: true
+  xy: 1329, 656
+  size: 293, 123
+  orig: 293, 123
+  offset: 0, 0
+  index: -1
+images/555
+  rotate: false
+  xy: 1047, 352
+  size: 160, 138
+  orig: 160, 138
+  offset: 0, 0
+  index: -1
+images/5h
+  rotate: true
+  xy: 215, 223
+  size: 150, 123
+  orig: 150, 123
+  offset: 0, 0
+  index: -1
+images/aw/aw_00000
+  rotate: false
+  xy: 285, 377
+  size: 368, 61
+  orig: 368, 61
+  offset: 0, 0
+  index: -1
+images/aw/aw_00001
+  rotate: false
+  xy: 900, 632
+  size: 368, 61
+  orig: 368, 61
+  offset: 0, 0
+  index: -1
+images/aw/aw_00002
+  rotate: false
+  xy: 1599, 949
+  size: 368, 61
+  orig: 368, 61
+  offset: 0, 0
+  index: -1
+images/aw/aw_00003
+  rotate: false
+  xy: 1571, 886
+  size: 368, 61
+  orig: 368, 61
+  offset: 0, 0
+  index: -1
+images/aw/aw_00004
+  rotate: false
+  xy: 1571, 823
+  size: 368, 61
+  orig: 368, 61
+  offset: 0, 0
+  index: -1
+images/aw/aw_00005
+  rotate: false
+  xy: 1571, 760
+  size: 368, 61
+  orig: 368, 61
+  offset: 0, 0
+  index: -1
+images/aw/aw_00006
+  rotate: false
+  xy: 1571, 697
+  size: 368, 61
+  orig: 368, 61
+  offset: 0, 0
+  index: -1
+images/bjg
+  rotate: false
+  xy: 2, 632
+  size: 896, 137
+  orig: 896, 137
+  offset: 0, 0
+  index: -1
+images/dig
+  rotate: false
+  xy: 2, 771
+  size: 896, 239
+  orig: 896, 239
+  offset: 0, 0
+  index: -1
+images/fr/fr_00000
+  rotate: false
+  xy: 900, 887
+  size: 427, 62
+  orig: 427, 62
+  offset: 0, 0
+  index: -1
+images/fr/fr_00001
+  rotate: false
+  xy: 285, 568
+  size: 427, 62
+  orig: 427, 62
+  offset: 0, 0
+  index: -1
+images/fr/fr_00002
+  rotate: false
+  xy: 900, 823
+  size: 427, 62
+  orig: 427, 62
+  offset: 0, 0
+  index: -1
+images/fr/fr_00003
+  rotate: false
+  xy: 285, 504
+  size: 427, 62
+  orig: 427, 62
+  offset: 0, 0
+  index: -1
+images/fr/fr_00004
+  rotate: false
+  xy: 900, 759
+  size: 427, 62
+  orig: 427, 62
+  offset: 0, 0
+  index: -1
+images/fr/fr_00005
+  rotate: false
+  xy: 285, 440
+  size: 427, 62
+  orig: 427, 62
+  offset: 0, 0
+  index: -1
+images/fr/fr_00006
+  rotate: false
+  xy: 900, 695
+  size: 427, 62
+  orig: 427, 62
+  offset: 0, 0
+  index: -1
+images/gxiao
+  rotate: false
+  xy: 900, 951
+  size: 697, 59
+  orig: 697, 59
+  offset: 0, 0
+  index: -1
+images/gyun
+  rotate: false
+  xy: 2, 375
+  size: 281, 255
+  orig: 281, 255
+  offset: 0, 0
+  index: -1
+images/lizi
+  rotate: true
+  xy: 1454, 677
+  size: 272, 115
+  orig: 272, 115
+  offset: 0, 0
+  index: -1
+images/niug
+  rotate: false
+  xy: 714, 400
+  size: 331, 90
+  orig: 331, 90
+  offset: 0, 0
+  index: -1
+images/qguang
+  rotate: false
+  xy: 2, 127
+  size: 211, 246
+  orig: 211, 246
+  offset: 0, 0
+  index: -1
+images/xx
+  rotate: false
+  xy: 340, 264
+  size: 111, 111
+  orig: 111, 111
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+jindutiao.png
+size: 551,48
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+c01
+  rotate: false
+  xy: 2, 16
+  size: 372, 30
+  orig: 372, 30
+  offset: 0, 0
+  index: -1
+cz_8
+  rotate: false
+  xy: 527, 25
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+cz_9
+  rotate: false
+  xy: 376, 2
+  size: 149, 44
+  orig: 149, 44
+  offset: 0, 0
+  index: -1

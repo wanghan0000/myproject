@@ -1,0 +1,55 @@
+
+loading.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hlby_1
+  rotate: false
+  xy: 640, 229
+  size: 116, 118
+  orig: 116, 118
+  offset: 0, 0
+  index: -1
+hlby_2
+  rotate: false
+  xy: 2, 212
+  size: 636, 261
+  orig: 636, 261
+  offset: 0, 0
+  index: -1
+hlby_3
+  rotate: false
+  xy: 778, 395
+  size: 105, 78
+  orig: 105, 78
+  offset: 0, 0
+  index: -1
+hlby_4
+  rotate: false
+  xy: 640, 349
+  size: 136, 124
+  orig: 136, 124
+  offset: 0, 0
+  index: -1
+paopaoxiangshang
+  rotate: false
+  xy: 212, 20
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+s
+  rotate: false
+  xy: 2, 2
+  size: 208, 208
+  orig: 208, 208
+  offset: 0, 0
+  index: -1
+s2
+  rotate: false
+  xy: 212, 82
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

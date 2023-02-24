@@ -1,0 +1,48 @@
+
+loading.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dzpk_1
+  rotate: false
+  xy: 2, 43
+  size: 266, 188
+  orig: 266, 188
+  offset: 0, 0
+  index: -1
+dzpk_2
+  rotate: false
+  xy: 305, 787
+  size: 98, 110
+  orig: 98, 110
+  offset: 0, 0
+  index: -1
+dzpk_3
+  rotate: false
+  xy: 2, 2
+  size: 98, 39
+  orig: 98, 39
+  offset: 0, 0
+  index: -1
+dzpk_4
+  rotate: false
+  xy: 270, 164
+  size: 30, 67
+  orig: 30, 67
+  offset: 0, 0
+  index: -1
+dzpk_5
+  rotate: false
+  xy: 2, 233
+  size: 301, 664
+  orig: 301, 664
+  offset: 0, 0
+  index: -1
+shengli_star
+  rotate: false
+  xy: 305, 726
+  size: 58, 59
+  orig: 58, 59
+  offset: 0, 0
+  index: -1

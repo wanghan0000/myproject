@@ -1,0 +1,293 @@
+{
+  "ver": "1.0.7",
+  "importer": "sprite-atlas",
+  "imported": true,
+  "uuid": "f5a309d1-3604-4b07-b3e2-32c510bf8eb9",
+  "files": [
+    ".json"
+  ],
+  "subMetas": {
+    "5e7c5": {
+      "importer": "sprite-frame",
+      "uuid": "f5a309d1-3604-4b07-b3e2-32c510bf8eb9@5e7c5",
+      "displayName": "",
+      "id": "5e7c5",
+      "name": "bomb_specter_00",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": -1,
+        "offsetY": 6,
+        "trimX": 2,
+        "trimY": 981,
+        "width": 167,
+        "height": 165,
+        "rawWidth": 223,
+        "rawHeight": 209,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "0e1dc211-5eed-4903-9309-2b9423866173@6c48a",
+        "atlasUuid": "f5a309d1-3604-4b07-b3e2-32c510bf8eb9",
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        }
+      },
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7e217": {
+      "importer": "sprite-frame",
+      "uuid": "f5a309d1-3604-4b07-b3e2-32c510bf8eb9@7e217",
+      "displayName": "",
+      "id": "7e217",
+      "name": "bomb_specter_01",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": 5,
+        "trimX": 2,
+        "trimY": 800,
+        "width": 179,
+        "height": 179,
+        "rawWidth": 223,
+        "rawHeight": 209,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "0e1dc211-5eed-4903-9309-2b9423866173@6c48a",
+        "atlasUuid": "f5a309d1-3604-4b07-b3e2-32c510bf8eb9",
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        }
+      },
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6cb0b": {
+      "importer": "sprite-frame",
+      "uuid": "f5a309d1-3604-4b07-b3e2-32c510bf8eb9@6cb0b",
+      "displayName": "",
+      "id": "6cb0b",
+      "name": "bomb_specter_02",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": 4,
+        "trimX": 2,
+        "trimY": 619,
+        "width": 181,
+        "height": 179,
+        "rawWidth": 223,
+        "rawHeight": 209,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "0e1dc211-5eed-4903-9309-2b9423866173@6c48a",
+        "atlasUuid": "f5a309d1-3604-4b07-b3e2-32c510bf8eb9",
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        }
+      },
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3506c": {
+      "importer": "sprite-frame",
+      "uuid": "f5a309d1-3604-4b07-b3e2-32c510bf8eb9@3506c",
+      "displayName": "",
+      "id": "3506c",
+      "name": "bomb_specter_03",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": true,
+        "offsetX": -7,
+        "offsetY": 2,
+        "trimX": 2,
+        "trimY": 225,
+        "width": 205,
+        "height": 193,
+        "rawWidth": 223,
+        "rawHeight": 209,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "0e1dc211-5eed-4903-9309-2b9423866173@6c48a",
+        "atlasUuid": "f5a309d1-3604-4b07-b3e2-32c510bf8eb9",
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        }
+      },
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "38f93": {
+      "importer": "sprite-frame",
+      "uuid": "f5a309d1-3604-4b07-b3e2-32c510bf8eb9@38f93",
+      "displayName": "",
+      "id": "38f93",
+      "name": "bomb_specter_04",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": true,
+        "offsetX": -1,
+        "offsetY": 2,
+        "trimX": 2,
+        "trimY": 2,
+        "width": 221,
+        "height": 195,
+        "rawWidth": 223,
+        "rawHeight": 209,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "0e1dc211-5eed-4903-9309-2b9423866173@6c48a",
+        "atlasUuid": "f5a309d1-3604-4b07-b3e2-32c510bf8eb9",
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        }
+      },
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9134c": {
+      "importer": "sprite-frame",
+      "uuid": "f5a309d1-3604-4b07-b3e2-32c510bf8eb9@9134c",
+      "displayName": "",
+      "id": "9134c",
+      "name": "bomb_specter_05",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": 4,
+        "trimX": 2,
+        "trimY": 432,
+        "width": 189,
+        "height": 185,
+        "rawWidth": 223,
+        "rawHeight": 209,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "0e1dc211-5eed-4903-9309-2b9423866173@6c48a",
+        "atlasUuid": "f5a309d1-3604-4b07-b3e2-32c510bf8eb9",
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        }
+      },
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "atlasTextureName": "bomb_specter.png",
+    "format": 2,
+    "uuid": "f5a309d1-3604-4b07-b3e2-32c510bf8eb9",
+    "textureUuid": "0e1dc211-5eed-4903-9309-2b9423866173@6c48a"
+  }
+}

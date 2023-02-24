@@ -1,0 +1,194 @@
+syntax = "proto3";
+package tala;
+option go_package = ".;tala";
+
+//操作结果
+enum OpResultCode {
+    OPRC_Sucess = 0; //成功
+    OPRC_Error = 1; //失败
+}
+
+//tala
+enum TaLaPacketID {
+    PACKET_TaLaZERO = 0;// 弃用消息号
+    PACKET_SCTaLaRoomInfo = 5530;//房间信息
+    PACKET_SCTaLaRoomState = 5531;//房间状态
+    PACKET_CSTaLaPlayerOp = 5532;//玩家操作
+    PACKET_SCTaLaPlayerOp = 5533;//玩家操作
+    PACKET_SCTaLaPlayerEnter = 5534;//玩家进入
+    PACKET_SCTaLaPlayerLeave = 5535;//玩家离开
+    PACKET_SCTaLaHandCard = 5536;//发手牌
+    PACKET_SCTaLaShowPhom = 5537;//亮phom
+    PACKET_SCTaLaOpPhom = 5538;//组phom
+    PACKET_SCTaLaGameBilled = 5539;//结算
+    PACKET_SCTaLaCurOpPos = 5540;//当前操作的玩家位置
+    PACKET_SCTaLaSmallGameBilled = 5541;//小结算
+    PACKET_SCTaLaUpdateMasterSnid = 5542;//房主更换
+    PACKET_SCTaLaUpdateCardsNum = 5543;//更新桩牌数
+    PACKET_SCTaLaMoveCard = 5544;//移牌
+    PACKET_SCTaLaRecommendPhom = 5545;//推荐的phoms
+}
+
+
+//玩家信息
+message  TaLaPlayerData {
+    string Name = 1;    //名字
+    int32 SnId = 2;    //账号
+    int32 Head = 3;    //头像
+    int32 Sex = 4;     //性别
+    repeated string Params = 5; //其他数据 如:昵称 头像 性别 ip 等
+    int64 Coin = 6;    //金币
+    int32 Pos = 7;        //座位位置
+    int32 Flag = 8;    //二进制标记 详见:数据字典
+    int32 Longitude = 9;//经度
+    int32 Latitude = 10;//纬度
+    string City = 11;    //城市 例:伦敦
+    int32 LastOp = 12;  //如上:玩家操作
+    int32 VIP = 13;    //玩家VIP等级
+    int32 HeadOutLine = 14;  //头像框
+    int32 NiceId = 15; //靓号[机器人用]
+    int64 GameCoin = 16;    //游戏内带入的金币
+    int32 RoleId = 17; //使用中的角色id
+    map<int32,int32>Items = 18;
+    repeated int32 Cards = 19;    //手牌
+    repeated int32 ChiCards = 20; //已吃的牌
+    repeated int32 DelCards = 21; //出过的手牌
+    repeated Phoms Phoms = 22;//亮出的phom
+    repeated int32 Chi2Phom = 23;//因吃牌而组成phom的牌
+}
+
+message LastDelCard {
+    repeated int32 Cards = 1;
+}
+
+//房间信息
+message SCTaLaRoomInfo {
+    int32 RoomId = 1;    //房间id
+    int32 Creator = 2;    //创建者SnId
+    int32 GameId = 3;    //游戏id
+    int32 RoomMode = 4;//游戏模式
+    repeated int32 Params = 5;    //规则参数
+    int32 BankerPos = 6;//庄家位置
+    int32 State = 7;    //房间当前状态,如上
+    int32 TimeOut = 8;    //等待剩余时间 单位:秒
+    repeated TaLaPlayerData Players = 9;    //房间内的玩家信息
+    int32 AudienceNum = 10;        //当前观战人数
+    int32 CurOpIdx = 11;      //当前等待操作的玩家
+    repeated LastDelCard LastDelCards = 12;    //上两手出的牌
+    int32 NumOfGames = 13;     //当前局数
+    int32 TotalOfGames = 14;   //总局数
+    int32 MasterSnid = 15;//房主
+    int32 BaseScore = 16 ;//游戏底分
+    int32 MaxPlayerNum = 17 ;//最大游戏人数
+    int32 CardsNum = 18 ;//桩牌数
+    bool IsLast = 19 ;//是不是最后一轮
+}
+
+//房间状态更新
+message SCTaLaRoomState {
+    int32 State = 1;                //房间当前状态
+    repeated int64 Params = 2;      //参数
+}
+
+//玩家操作
+message CSTaLaPlayerOp {
+    int32 OpCode = 1;               //1.吃住 2.抽牌 3.出牌 4.组phom 5.亮phom
+    repeated int64 OpParam = 2;
+}
+message SCTaLaPlayerOp {
+    int32 OpCode = 1;                   //1.吃住 2.抽牌 3.出牌 4.组phom 5.亮phom
+    repeated int64 OpParam = 2;         //参数
+    int32 SnId = 3;                      //玩家位置
+    OpResultCode OpRetCode = 4;         //返回错误码,详见:enums.proto
+}
+
+//玩家进入
+message SCTaLaPlayerEnter {
+    TaLaPlayerData Data = 1; //玩家数据
+}
+
+//玩家离开
+message SCTaLaPlayerLeave {
+    int32 Pos = 1;    //玩家位置
+}
+
+//结算结果
+message TaLaPlayerGameBilled {
+    int32 SnId = 1; //玩家
+    repeated int32 Cards = 2; // 手牌
+    int64 WinCoin = 3;//输赢金额
+    int64 GameCoin = 4;//结算后身上余额
+    int32 IsWin = 5; //输赢  赢1 输2 平0
+    int32 Rank = 6;//排名  -1：有胡的玩家 0123->1234排名 4最后一名是瘪
+    repeated Phoms Phoms = 7; //组成的所有phom
+}
+
+message SCTaLaGameBilled {
+    repeated TaLaPlayerGameBilled Datas = 1;
+}
+
+//小结算结果
+message SCTaLaSmallGameBilled {
+    int32 WinPos = 1; //赢家
+    int64 WinPosCoin = 2;//结算后赢家身上余额
+    int32 LosePos = 3; //输家
+    int64 LosePosCoin = 4;//结算后输家身上余额
+    int64 WinCoin = 5;//赢金额
+    int64 LoseCoin = 6;//输金额
+}
+
+//发手牌
+message SCTaLaHandCard {
+    repeated int32 Cards = 1;    //手牌
+}
+
+message Phoms {
+    repeated int32 Phom = 1;
+}
+
+//ShowPhom
+message SCTaLaShowPhom {
+    int32 Snid = 1;
+    repeated int32 Cards = 2;    //垃圾牌
+    repeated Phoms Phoms = 3;    //组成的所有phom
+    OpResultCode OpRetCode = 4;         //返回错误码
+}
+
+message MapSnidCards {
+    map<int32,int32> SnidCard = 1;//key:snid value:card
+}
+
+//组Phom
+message SCTaLaOpPhom {
+    int32 Snid = 1;
+    repeated MapSnidCards MapSnidCard = 2;
+    OpResultCode OpRetCode = 3;         //返回错误码
+}
+
+message SCTaLaCurOpPos{
+    int32 Pos = 1;                  //座位位置
+    int32 Card = 2;       //上家出的牌
+}
+
+message SCTaLaUpdateMasterSnid{
+    int32 MasterSnid = 1;//房主
+}
+
+message SCTaLaUpdateCardsNum{
+    int32 CardsNum = 1;//桩牌数
+    bool IsLast = 2;//最后一轮
+}
+
+message SCTaLaMoveCard{
+    int32 Snid = 1;//移牌的玩家snid
+    int32 DstSnid = 2;//目标玩家
+    int32 Card = 3;//移动的牌
+}
+
+//RecommendPhom
+message SCTaLaRecommendPhom {
+    int32 Snid = 1;
+    repeated int32 cards = 2;
+}
+
+

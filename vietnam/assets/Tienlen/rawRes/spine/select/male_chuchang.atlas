@@ -1,0 +1,307 @@
+
+male_chuchang.png
+size: 1294,202
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Energy 030 Slash Right_00001
+  rotate: false
+  xy: 800, 2
+  size: 74, 100
+  orig: 74, 100
+  offset: 0, 0
+  index: -1
+Energy 035 Ray Up/Energy 035 Ray Up_00
+  rotate: false
+  xy: 0, 0
+  size: 100, 40
+  orig: 100, 40
+  offset: 0, 0
+  index: -1
+Energy 035 Ray Up/Energy 035 Ray Up_01
+  rotate: false
+  xy: 100, 0
+  size: 100, 40
+  orig: 100, 40
+  offset: 0, 0
+  index: -1
+Energy 035 Ray Up/Energy 035 Ray Up_02
+  rotate: false
+  xy: 200, 0
+  size: 100, 40
+  orig: 100, 40
+  offset: 0, 0
+  index: -1
+Energy 035 Ray Up/Energy 035 Ray Up_03
+  rotate: false
+  xy: 300, 0
+  size: 100, 40
+  orig: 100, 40
+  offset: 0, 0
+  index: -1
+Energy 035 Ray Up/Energy 035 Ray Up_04
+  rotate: false
+  xy: 400, 0
+  size: 100, 40
+  orig: 100, 40
+  offset: 0, 0
+  index: -1
+Energy 035 Ray Up/Energy 035 Ray Up_05
+  rotate: false
+  xy: 500, 0
+  size: 100, 40
+  orig: 100, 40
+  offset: 0, 0
+  index: -1
+Energy 035 Ray Up/Energy 035 Ray Up_06
+  rotate: false
+  xy: 600, 3
+  size: 100, 40
+  orig: 100, 40
+  offset: 0, 0
+  index: -1
+Energy 035 Ray Up/Energy 035 Ray Up_07
+  rotate: false
+  xy: 700, 4
+  size: 100, 40
+  orig: 100, 40
+  offset: 0, 0
+  index: -1
+Energy 035 Ray Up/Energy 035 Ray Up_08
+  rotate: true
+  xy: 823, 102
+  size: 100, 40
+  orig: 100, 40
+  offset: 0, 0
+  index: -1
+Energy 035 Ray Up/Energy 035 Ray Up_09
+  rotate: true
+  xy: 863, 102
+  size: 100, 40
+  orig: 100, 40
+  offset: 0, 0
+  index: -1
+Energy 035 Ray Up/Energy 035 Ray Up_10
+  rotate: true
+  xy: 874, 2
+  size: 100, 40
+  orig: 100, 40
+  offset: 0, 0
+  index: -1
+Energy 035 Ray Up/Energy 035 Ray Up_11
+  rotate: true
+  xy: 903, 102
+  size: 100, 40
+  orig: 100, 40
+  offset: 0, 0
+  index: -1
+Energy 035 Ray Up/Energy 035 Ray Up_12
+  rotate: true
+  xy: 914, 2
+  size: 100, 40
+  orig: 100, 40
+  offset: 0, 0
+  index: -1
+Energy 035 Ray Up/Energy 035 Ray Up_13
+  rotate: true
+  xy: 943, 102
+  size: 100, 40
+  orig: 100, 40
+  offset: 0, 0
+  index: -1
+Energy 035 Ray Up/Energy 035 Ray Up_14
+  rotate: true
+  xy: 954, 2
+  size: 100, 40
+  orig: 100, 40
+  offset: 0, 0
+  index: -1
+Energy 035 Ray Up/Energy 035 Ray Up_15
+  rotate: true
+  xy: 983, 102
+  size: 100, 40
+  orig: 100, 40
+  offset: 0, 0
+  index: -1
+Energy 035 Ray Up/Energy 035 Ray Up_16
+  rotate: true
+  xy: 994, 2
+  size: 100, 40
+  orig: 100, 40
+  offset: 0, 0
+  index: -1
+Energy 035 Ray Up/Energy 035 Ray Up_17
+  rotate: true
+  xy: 1023, 102
+  size: 100, 40
+  orig: 100, 40
+  offset: 0, 0
+  index: -1
+Energy 035 Ray Up/Energy 035 Ray Up_18
+  rotate: true
+  xy: 1034, 2
+  size: 100, 40
+  orig: 100, 40
+  offset: 0, 0
+  index: -1
+Energy 035 Ray Up/Energy 035 Ray Up_19
+  rotate: true
+  xy: 1063, 102
+  size: 100, 40
+  orig: 100, 40
+  offset: 0, 0
+  index: -1
+Energy 035 Ray Up/Energy 035 Ray Up_20
+  rotate: true
+  xy: 1074, 2
+  size: 100, 40
+  orig: 100, 40
+  offset: 0, 0
+  index: -1
+Energy 035 Ray Up/Energy 035 Ray Up_21
+  rotate: true
+  xy: 1103, 102
+  size: 100, 40
+  orig: 100, 40
+  offset: 0, 0
+  index: -1
+FX_WhiteDust
+  rotate: true
+  xy: 659, 74
+  size: 128, 64
+  orig: 128, 64
+  offset: 0, 0
+  index: -1
+Liquid 023 Splash Trail Right Loop/Liquid 023 Splash Trail Right Loop_00000
+  rotate: false
+  xy: 723, 102
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+Liquid 042 Impact Splash Explosion Up/Liquid 042 Impact Splash Explosion Up_00000
+  rotate: false
+  xy: 659, 44
+  size: 90, 30
+  orig: 90, 30
+  offset: 0, 0
+  index: -1
+Liquid 042 Impact Splash Explosion Up/Liquid 042 Impact Splash Explosion Up_00001
+  rotate: true
+  xy: 1114, 12
+  size: 90, 30
+  orig: 90, 30
+  offset: 0, 0
+  index: -1
+Liquid 042 Impact Splash Explosion Up/Liquid 042 Impact Splash Explosion Up_00002
+  rotate: true
+  xy: 1143, 112
+  size: 90, 30
+  orig: 90, 30
+  offset: 0, 0
+  index: -1
+Liquid 042 Impact Splash Explosion Up/Liquid 042 Impact Splash Explosion Up_00003
+  rotate: true
+  xy: 1144, 22
+  size: 90, 30
+  orig: 90, 30
+  offset: 0, 0
+  index: -1
+Liquid 042 Impact Splash Explosion Up/Liquid 042 Impact Splash Explosion Up_00004
+  rotate: true
+  xy: 1173, 112
+  size: 90, 30
+  orig: 90, 30
+  offset: 0, 0
+  index: -1
+Liquid 042 Impact Splash Explosion Up/Liquid 042 Impact Splash Explosion Up_00005
+  rotate: false
+  xy: 1203, 172
+  size: 90, 30
+  orig: 90, 30
+  offset: 0, 0
+  index: -1
+Liquid 042 Impact Splash Explosion Up/Liquid 042 Impact Splash Explosion Up_00006
+  rotate: false
+  xy: 1203, 142
+  size: 90, 30
+  orig: 90, 30
+  offset: 0, 0
+  index: -1
+Liquid 042 Impact Splash Explosion Up/Liquid 042 Impact Splash Explosion Up_00007
+  rotate: false
+  xy: 1203, 112
+  size: 90, 30
+  orig: 90, 30
+  offset: 0, 0
+  index: -1
+Liquid 042 Impact Splash Explosion Up/Liquid 042 Impact Splash Explosion Up_00008
+  rotate: true
+  xy: 1174, 22
+  size: 90, 30
+  orig: 90, 30
+  offset: 0, 0
+  index: -1
+Liquid 042 Impact Splash Explosion Up/Liquid 042 Impact Splash Explosion Up_00009
+  rotate: false
+  xy: 1204, 82
+  size: 90, 30
+  orig: 90, 30
+  offset: 0, 0
+  index: -1
+Liquid 042 Impact Splash Explosion Up/Liquid 042 Impact Splash Explosion Up_00010
+  rotate: false
+  xy: 1204, 52
+  size: 90, 30
+  orig: 90, 30
+  offset: 0, 0
+  index: -1
+Liquid 042 Impact Splash Explosion Up/Liquid 042 Impact Splash Explosion Up_00011
+  rotate: false
+  xy: 1204, 22
+  size: 90, 30
+  orig: 90, 30
+  offset: 0, 0
+  index: -1
+beijiguang_001@2x
+  rotate: true
+  xy: 0, 40
+  size: 162, 559
+  orig: 162, 559
+  offset: 0, 0
+  index: -1
+shuidi/Particle_Slime_Drops_01_000
+  rotate: false
+  xy: 559, 43
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+shuidi/Particle_Slime_Drops_01_001
+  rotate: false
+  xy: 572, 43
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+shuidi/Particle_Slime_Drops_01_002
+  rotate: false
+  xy: 585, 43
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+shuidi/Particle_Slime_Drops_01_003
+  rotate: false
+  xy: 598, 43
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+shuihuan@2x
+  rotate: true
+  xy: 559, 56
+  size: 146, 100
+  orig: 146, 100
+  offset: 0, 0
+  index: -1

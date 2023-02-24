@@ -1,0 +1,76 @@
+
+huodong_icon_lihe.png
+size: 187,285
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hd__18
+  rotate: true
+  xy: 134, 74
+  size: 60, 42
+  orig: 60, 42
+  offset: 0, 0
+  index: -1
+hd__19
+  rotate: false
+  xy: 69, 88
+  size: 53, 35
+  orig: 53, 35
+  offset: 0, 0
+  index: -1
+hd__20
+  rotate: false
+  xy: 134, 136
+  size: 50, 39
+  orig: 50, 39
+  offset: 0, 0
+  index: -1
+hd__21
+  rotate: false
+  xy: 2, 86
+  size: 65, 37
+  orig: 65, 37
+  offset: 0, 0
+  index: -1
+hd__22
+  rotate: true
+  xy: 138, 227
+  size: 56, 47
+  orig: 56, 47
+  offset: 0, 0
+  index: -1
+hd__23
+  rotate: true
+  xy: 138, 177
+  size: 48, 46
+  orig: 48, 46
+  offset: 0, 0
+  index: -1
+hd__24
+  rotate: false
+  xy: 91, 11
+  size: 92, 61
+  orig: 92, 61
+  offset: 0, 0
+  index: -1
+hd__25
+  rotate: false
+  xy: 2, 125
+  size: 130, 78
+  orig: 130, 78
+  offset: 0, 0
+  index: -1
+hd__26
+  rotate: false
+  xy: 2, 2
+  size: 87, 70
+  orig: 87, 70
+  offset: 0, 0
+  index: -1
+hd__27
+  rotate: false
+  xy: 2, 205
+  size: 134, 78
+  orig: 134, 78
+  offset: 0, 0
+  index: -1

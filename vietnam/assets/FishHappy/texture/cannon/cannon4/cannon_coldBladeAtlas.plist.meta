@@ -1,0 +1,247 @@
+{
+  "ver": "1.0.7",
+  "importer": "sprite-atlas",
+  "imported": true,
+  "uuid": "07f40a77-0fe5-40e9-8478-2d26d950e826",
+  "files": [
+    ".json"
+  ],
+  "subMetas": {
+    "0a5fa": {
+      "importer": "sprite-frame",
+      "uuid": "07f40a77-0fe5-40e9-8478-2d26d950e826@0a5fa",
+      "displayName": "",
+      "id": "0a5fa",
+      "name": "cannon_coldBlade_00",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": true,
+        "offsetX": -1,
+        "offsetY": 2,
+        "trimX": 1,
+        "trimY": 1,
+        "width": 192,
+        "height": 182,
+        "rawWidth": 194,
+        "rawHeight": 186,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "90953ed5-ed36-4ee8-8bae-ff56130f288d@6c48a",
+        "atlasUuid": "07f40a77-0fe5-40e9-8478-2d26d950e826",
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        }
+      },
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "29e96": {
+      "importer": "sprite-frame",
+      "uuid": "07f40a77-0fe5-40e9-8478-2d26d950e826@29e96",
+      "displayName": "",
+      "id": "29e96",
+      "name": "cannon_coldBlade_01",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": true,
+        "offsetX": -1,
+        "offsetY": 2,
+        "trimX": 185,
+        "trimY": 1,
+        "width": 192,
+        "height": 182,
+        "rawWidth": 194,
+        "rawHeight": 186,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "90953ed5-ed36-4ee8-8bae-ff56130f288d@6c48a",
+        "atlasUuid": "07f40a77-0fe5-40e9-8478-2d26d950e826",
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        }
+      },
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6e1d3": {
+      "importer": "sprite-frame",
+      "uuid": "07f40a77-0fe5-40e9-8478-2d26d950e826@6e1d3",
+      "displayName": "",
+      "id": "6e1d3",
+      "name": "cannon_coldBlade_02",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": true,
+        "offsetX": -1,
+        "offsetY": 2,
+        "trimX": 369,
+        "trimY": 1,
+        "width": 192,
+        "height": 182,
+        "rawWidth": 194,
+        "rawHeight": 186,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "90953ed5-ed36-4ee8-8bae-ff56130f288d@6c48a",
+        "atlasUuid": "07f40a77-0fe5-40e9-8478-2d26d950e826",
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        }
+      },
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "aa226": {
+      "importer": "sprite-frame",
+      "uuid": "07f40a77-0fe5-40e9-8478-2d26d950e826@aa226",
+      "displayName": "",
+      "id": "aa226",
+      "name": "cannon_coldBlade_03",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": true,
+        "offsetX": -1,
+        "offsetY": 2,
+        "trimX": 553,
+        "trimY": 1,
+        "width": 192,
+        "height": 182,
+        "rawWidth": 194,
+        "rawHeight": 186,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "90953ed5-ed36-4ee8-8bae-ff56130f288d@6c48a",
+        "atlasUuid": "07f40a77-0fe5-40e9-8478-2d26d950e826",
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        }
+      },
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "57ea2": {
+      "importer": "sprite-frame",
+      "uuid": "07f40a77-0fe5-40e9-8478-2d26d950e826@57ea2",
+      "displayName": "",
+      "id": "57ea2",
+      "name": "cannon_coldBlade_04",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": true,
+        "offsetX": -1,
+        "offsetY": 2,
+        "trimX": 737,
+        "trimY": 1,
+        "width": 192,
+        "height": 182,
+        "rawWidth": 194,
+        "rawHeight": 186,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "90953ed5-ed36-4ee8-8bae-ff56130f288d@6c48a",
+        "atlasUuid": "07f40a77-0fe5-40e9-8478-2d26d950e826",
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        }
+      },
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "atlasTextureName": "cannon_coldBladeAtlas.png",
+    "format": 3,
+    "uuid": "07f40a77-0fe5-40e9-8478-2d26d950e826",
+    "textureUuid": "90953ed5-ed36-4ee8-8bae-ff56130f288d@6c48a"
+  }
+}

@@ -1,0 +1,160 @@
+
+kuang.png
+size: 1613,779
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+11
+  rotate: false
+  xy: 0, 10
+  size: 272, 372
+  orig: 272, 372
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 272, 10
+  size: 272, 372
+  orig: 272, 372
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 314, 407
+  size: 272, 372
+  orig: 272, 372
+  offset: 0, 0
+  index: -1
+14
+  rotate: false
+  xy: 544, 35
+  size: 272, 372
+  orig: 272, 372
+  offset: 0, 0
+  index: -1
+15
+  rotate: false
+  xy: 586, 407
+  size: 272, 372
+  orig: 272, 372
+  offset: 0, 0
+  index: -1
+16
+  rotate: false
+  xy: 816, 35
+  size: 272, 372
+  orig: 272, 372
+  offset: 0, 0
+  index: -1
+17
+  rotate: false
+  xy: 858, 407
+  size: 272, 372
+  orig: 272, 372
+  offset: 0, 0
+  index: -1
+21
+  rotate: false
+  xy: 314, 389
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+31
+  rotate: true
+  xy: 1292, 596
+  size: 183, 96
+  orig: 183, 96
+  offset: 0, 0
+  index: -1
+32
+  rotate: true
+  xy: 1130, 517
+  size: 262, 162
+  orig: 262, 162
+  offset: 0, 0
+  index: -1
+33
+  rotate: true
+  xy: 1088, 144
+  size: 263, 126
+  orig: 263, 126
+  offset: 0, 0
+  index: -1
+34
+  rotate: true
+  xy: 1214, 146
+  size: 261, 134
+  orig: 261, 134
+  offset: 0, 0
+  index: -1
+35
+  rotate: true
+  xy: 1540, 306
+  size: 134, 73
+  orig: 134, 73
+  offset: 0, 0
+  index: -1
+41
+  rotate: true
+  xy: 1088, 0
+  size: 144, 135
+  orig: 144, 135
+  offset: 0, 0
+  index: -1
+42
+  rotate: false
+  xy: 1223, 5
+  size: 169, 141
+  orig: 169, 141
+  offset: 0, 0
+  index: -1
+43
+  rotate: false
+  xy: 1392, 619
+  size: 221, 160
+  orig: 221, 160
+  offset: 0, 0
+  index: -1
+44
+  rotate: true
+  xy: 1348, 178
+  size: 235, 192
+  orig: 235, 192
+  offset: 0, 0
+  index: -1
+51
+  rotate: true
+  xy: 1292, 413
+  size: 183, 150
+  orig: 183, 150
+  offset: 0, 0
+  index: -1
+52
+  rotate: true
+  xy: 1442, 440
+  size: 179, 154
+  orig: 179, 154
+  offset: 0, 0
+  index: -1
+53
+  rotate: false
+  xy: 1392, 52
+  size: 179, 126
+  orig: 179, 126
+  offset: 0, 0
+  index: -1
+54
+  rotate: true
+  xy: 1130, 407
+  size: 110, 112
+  orig: 110, 112
+  offset: 0, 0
+  index: -1
+kuang_11
+  rotate: false
+  xy: 0, 382
+  size: 314, 397
+  orig: 314, 397
+  offset: 0, 0
+  index: -1

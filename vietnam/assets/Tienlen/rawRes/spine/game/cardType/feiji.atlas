@@ -1,0 +1,62 @@
+
+feiji.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Fire 061 Projectile Right Loop MIX_00000
+  rotate: false
+  xy: 326, 84
+  size: 192, 108
+  orig: 192, 108
+  offset: 0, 0
+  index: -1
+Fire 061 Projectile Right Loop MIX_00001
+  rotate: false
+  xy: 627, 144
+  size: 192, 108
+  orig: 192, 108
+  offset: 0, 0
+  index: -1
+Fire 061 Projectile Right Loop MIX_00002
+  rotate: false
+  xy: 819, 144
+  size: 192, 108
+  orig: 192, 108
+  offset: 0, 0
+  index: -1
+Fire 061 Projectile Right Loop MIX_00003
+  rotate: true
+  xy: 518, 0
+  size: 192, 108
+  orig: 192, 108
+  offset: 0, 0
+  index: -1
+Fire 061 Projectile Right Loop MIX_00004
+  rotate: false
+  xy: 626, 36
+  size: 192, 108
+  orig: 192, 108
+  offset: 0, 0
+  index: -1
+feiji
+  rotate: false
+  xy: 0, 31
+  size: 326, 221
+  orig: 326, 221
+  offset: 0, 0
+  index: -1
+feiji/feiji_0000
+  rotate: false
+  xy: 326, 192
+  size: 301, 60
+  orig: 301, 60
+  offset: 0, 0
+  index: -1
+yan/yan_0000
+  rotate: false
+  xy: 818, 49
+  size: 100, 95
+  orig: 100, 95
+  offset: 0, 0
+  index: -1

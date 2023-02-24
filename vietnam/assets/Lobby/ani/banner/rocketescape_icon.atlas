@@ -1,0 +1,27 @@
+
+rocketescape_icon.png
+size: 561,348
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+re__4
+  rotate: false
+  xy: 417, 147
+  size: 46, 52
+  orig: 46, 52
+  offset: 0, 0
+  index: -1
+re__5
+  rotate: true
+  xy: 2, 2
+  size: 344, 413
+  orig: 344, 413
+  offset: 0, 0
+  index: -1
+re__6
+  rotate: false
+  xy: 417, 201
+  size: 142, 145
+  orig: 142, 145
+  offset: 0, 0
+  index: -1

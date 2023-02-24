@@ -1,0 +1,82 @@
+{
+  "ver": "2.3.0",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "3bd21122-8039-4aea-84bc-b4b377b019aa",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "79bc4": {
+      "importer": "gltf-animation",
+      "uuid": "3bd21122-8039-4aea-84bc-b4b377b019aa@79bc4",
+      "displayName": "",
+      "id": "79bc4",
+      "name": "daiji.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1.6666666269302368
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "cf9bc": {
+      "importer": "gltf-scene",
+      "uuid": "3bd21122-8039-4aea-84bc-b4b377b019aa@cf9bc",
+      "displayName": "",
+      "id": "cf9bc",
+      "name": "male_dj.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "animationImportSettings": [
+      {
+        "name": "Take 001",
+        "duration": 1.6666666269302368,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "daiji",
+            "from": 0,
+            "to": 1.6666666269302368,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "3bd21122-8039-4aea-84bc-b4b377b019aa@cf9bc",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "3bd21122-8039-4aea-84bc-b4b377b019aa@cf9bc"
+      ]
+    }
+  }
+}

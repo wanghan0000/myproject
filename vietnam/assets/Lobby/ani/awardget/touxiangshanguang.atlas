@@ -1,0 +1,20 @@
+
+touxiangshanguang.png
+size: 185,121
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: true
+  xy: 0, 0
+  size: 121, 124
+  orig: 121, 124
+  offset: 0, 0
+  index: -1
+07
+  rotate: false
+  xy: 124, 58
+  size: 61, 63
+  orig: 61, 63
+  offset: 0, 0
+  index: -1

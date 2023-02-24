@@ -1,0 +1,20 @@
+
+hezi.png
+size: 402,332
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mh_18
+  rotate: false
+  xy: 2, 2
+  size: 352, 328
+  orig: 352, 328
+  offset: 0, 0
+  index: -1
+mhyy
+  rotate: true
+  xy: 356, 177
+  size: 153, 44
+  orig: 153, 44
+  offset: 0, 0
+  index: -1

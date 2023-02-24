@@ -1,0 +1,114 @@
+syntax = "proto3";
+package gradeshop;
+option go_package = ".;gradeshop";
+
+//操作结果
+enum OpResultCode {
+  OPRC_Sucess = 0; //成功
+  OPRC_Error = 1; //失败
+  //积分商城
+  OPRC_GradeShop_ShopIsNil = 1120;//商品已关闭或者不存在
+  OPRC_GradeShop_GradeNotEnough = 1121;//积分不足
+  OPRC_GradeShop_StockNotEnough = 1122;//库存不足
+  OPRC_GradeShop_MailIsFull = 1123;//邮件已满不能兑换虚拟商品
+  OPRC_ExchangeMultiple = 1124;//兑换的时候必须输入基数的整数倍
+}
+//积分商城
+enum GradeShopPacketID {
+  PACKET_GradeShop_ZERO = 0;                       // 弃用消息号
+  PACKET_CS_GRADESHOP_INFO = 2500;//请求积分商场商品信息
+  PACKET_SC_GRADESHOP_INFO = 2501;//积分商场商品信息
+  PACKET_CS_GRADESHOP_ADDRINFO = 2502;//修改收货人信息
+  PACKET_SC_GRADESHOP_ADDRINFO = 2503;//修改收货人信息
+  PACKET_SC_GRADESHOP_CONFUPDATE = 2504;//商品配置更新
+  PACKET_CS_GRADESHOP_EXCHANGE = 2505;//请求兑换
+  PACKET_SC_GRADESHOP_EXCHANGE = 2506;//返回兑换结果
+  PACKET_CS_GRADESHOP_LIST = 2507;//请求积分详情列表
+  PACKET_SC_GRADESHOP_LIST = 2508;//返回积分详情列表
+  PACKET_CS_GRADESHOP_EXIT = 2509;//退出积分商城
+  PACKET_CS_GRADESHOP_DAYNUM = 2510;//请求个人商品兑换数量
+  PACKET_SC_GRADESHOP_DAYNUM = 2511;//返回个人商品兑换数量
+}
+//PACKET_CS_GRADESHOP_INFO
+message CSGradeShopInfo {
+}
+message GradeShopInfo{
+  int32 ShopId = 1;//商品ID
+  string ShopName = 2;//商品名字
+  int32 ExchangeScore = 3;//兑换商品需要的积分数量
+  string ShopInfo = 4;//商品说明
+  string ShopIcoUrl = 5;//商品ico地址
+  int32 ExchangedNum = 6;//总平台剩余可兑换次数
+  int32 DayLimit = 7;//每人每天可兑换次数
+  int32 ShopType = 8;//0.虚拟 1.实物
+  int32 DayNum = 9;//今天已经兑换的数量
+}
+//商品信息
+//PACKET_SC_GRADESHOP_INFO
+message SCGradeShopInfo {
+  string Name = 1;//收货人名字
+  string Tel = 2;//收货人电话
+  string Addr = 3;//收货人地址
+  repeated GradeShopInfo GradeShopInfo = 4;//商品信息
+}
+//商品配置更新
+//PACKET_SC_GRADESHOP_CONFUPDATE
+message SCGradeShopConfUpdate{
+  repeated GradeShopInfo GradeShopInfo = 1;//商品信息
+}
+//请求修改收货人信息
+//PACKET_CS_GRADESHOP_ADDRINFO
+message CSGradeShopAddrInfo {
+  string Name = 1;//收货人名字
+  string Tel = 2;//收货人电话
+  string Addr = 3;//收货人地址
+}
+//PACKET_SC_GRADESHOP_ADDRINFO
+message SCGradeShopAddrInfo {
+  OpResultCode OpRetCode = 1;//操作结果
+}
+//兑换商品
+//PACKET_CS_GRADESHOP_EXCHANGE
+message CSGradeShopExchange {
+  int32 ShopId = 1;//商品Id
+  string Name = 2;//收货人名字
+  string Tel = 3;//收货人电话
+  string Addr = 4;//收货人地址
+}
+//PACKET_SC_GRADESHOP_EXCHANGE
+message SCGradeShopExchange {
+  OpResultCode OpRetCode = 1;//操作结果
+}
+//请求积分详情
+//PACKET_CS_GRADESHOP_LIST
+message CSGradeShopList {
+  int32 LogType = 1;//0.订单记录 1.账变记录
+  int32 PageNo = 2; //当前页
+}
+message GradeShopList{
+  int64 RecordTime = 1;//记录时间
+  string RecordId = 2;//记录Id
+  string RecordName = 3;//记录名称
+  int64 GradeNum = 4;//变化积分
+  int32 State = 5;//状态 0.创建 3.取消订单 4.异常 9.已发货
+}
+//PACKET_SC_GRADESHOP_LIST
+message SCGradeShopList {
+  int32 LogType = 1;//0.订单记录 1.账变记录
+  repeated GradeShopList GradeShopRecordList = 2;//积分详情列表
+  int32 PageNo = 3; //当前页
+  int32 PageSize = 4; //每页数量
+  int32 PageNum = 5; //总页数
+}
+//PACKET_CS_GRADESHOP_EXIT
+message CSGradeShopExit {
+}
+//PACKET_CS_GRADESHOP_DAYNUM
+message CSGradeShopDayNum {
+  int32 ShopId = 1;//商品ID
+}
+//PACKET_SC_GRADESHOP_DAYNUM
+message SCGradeShopDayNum {
+  int32 ShopId = 1;//商品ID
+  int32 DayNum = 2;//今天已经兑换的数量
+}

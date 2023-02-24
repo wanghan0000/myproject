@@ -1,0 +1,247 @@
+{
+  "ver": "1.0.7",
+  "importer": "sprite-atlas",
+  "imported": true,
+  "uuid": "437e31ba-6255-4c53-80dd-cc4b1601533e",
+  "files": [
+    ".json"
+  ],
+  "subMetas": {
+    "91469": {
+      "importer": "sprite-frame",
+      "uuid": "437e31ba-6255-4c53-80dd-cc4b1601533e@91469",
+      "displayName": "",
+      "id": "91469",
+      "name": "cannon_specter_pharaoh_03",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": 12,
+        "trimX": 2,
+        "trimY": 450,
+        "width": 247,
+        "height": 217,
+        "rawWidth": 247,
+        "rawHeight": 241,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "0738f488-ea66-486c-8777-0c09f7f9be1c@6c48a",
+        "atlasUuid": "437e31ba-6255-4c53-80dd-cc4b1601533e",
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        }
+      },
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c8b0f": {
+      "importer": "sprite-frame",
+      "uuid": "437e31ba-6255-4c53-80dd-cc4b1601533e@c8b0f",
+      "displayName": "",
+      "id": "c8b0f",
+      "name": "cannon_specter_pharaoh_00",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": 9,
+        "trimX": 2,
+        "trimY": 669,
+        "width": 247,
+        "height": 211,
+        "rawWidth": 247,
+        "rawHeight": 241,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "0738f488-ea66-486c-8777-0c09f7f9be1c@6c48a",
+        "atlasUuid": "437e31ba-6255-4c53-80dd-cc4b1601533e",
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        }
+      },
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f006c": {
+      "importer": "sprite-frame",
+      "uuid": "437e31ba-6255-4c53-80dd-cc4b1601533e@f006c",
+      "displayName": "",
+      "id": "f006c",
+      "name": "cannon_specter_pharaoh_01",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": 11,
+        "trimX": 2,
+        "trimY": 229,
+        "width": 247,
+        "height": 219,
+        "rawWidth": 247,
+        "rawHeight": 241,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "0738f488-ea66-486c-8777-0c09f7f9be1c@6c48a",
+        "atlasUuid": "437e31ba-6255-4c53-80dd-cc4b1601533e",
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        }
+      },
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b9caf": {
+      "importer": "sprite-frame",
+      "uuid": "437e31ba-6255-4c53-80dd-cc4b1601533e@b9caf",
+      "displayName": "",
+      "id": "b9caf",
+      "name": "cannon_specter_pharaoh_02",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": 8,
+        "trimX": 2,
+        "trimY": 2,
+        "width": 247,
+        "height": 225,
+        "rawWidth": 247,
+        "rawHeight": 241,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "0738f488-ea66-486c-8777-0c09f7f9be1c@6c48a",
+        "atlasUuid": "437e31ba-6255-4c53-80dd-cc4b1601533e",
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        }
+      },
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "aa1e1": {
+      "importer": "sprite-frame",
+      "uuid": "437e31ba-6255-4c53-80dd-cc4b1601533e@aa1e1",
+      "displayName": "",
+      "id": "aa1e1",
+      "name": "cannon_specter_pharaoh_04",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": 8,
+        "trimX": 2,
+        "trimY": 882,
+        "width": 247,
+        "height": 189,
+        "rawWidth": 247,
+        "rawHeight": 241,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "0738f488-ea66-486c-8777-0c09f7f9be1c@6c48a",
+        "atlasUuid": "437e31ba-6255-4c53-80dd-cc4b1601533e",
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        }
+      },
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "atlasTextureName": "cannon_specter_pharaohAtlas.png",
+    "format": 2,
+    "uuid": "437e31ba-6255-4c53-80dd-cc4b1601533e",
+    "textureUuid": "0738f488-ea66-486c-8777-0c09f7f9be1c@6c48a"
+  }
+}

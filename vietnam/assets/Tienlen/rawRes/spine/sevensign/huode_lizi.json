@@ -1,0 +1,82 @@
+{
+"skeleton": { "hash": "OXLmyi/cYg5AKf52MqXgWJztKuY", "spine": "3.6.53", "width": 0, "height": 0, "images": "./images/" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "bone15", "parent": "root", "length": 181.22, "x": -28, "y": 18.71 },
+	{ "name": "bone3", "parent": "bone15", "length": 101.86, "rotation": -90, "x": 26.16, "y": -18.05 },
+	{
+		"name": "bone27",
+		"parent": "bone15",
+		"length": 101.86,
+		"rotation": -90,
+		"x": 26.16,
+		"y": -18.05,
+		"scaleX": 1.12,
+		"scaleY": 1.12
+	}
+],
+"slots": [
+	{ "name": "tx/10002", "bone": "bone3" },
+	{ "name": "tx/10003", "bone": "bone27" }
+],
+"skins": {
+	"default": {
+		"tx/10002": {
+			"tx/10002": { "rotation": 90, "width": 300, "height": 225 },
+			"tx/10003": { "rotation": 90, "width": 300, "height": 225 },
+			"tx/10004": { "rotation": 90, "width": 300, "height": 225 },
+			"tx/10005": { "rotation": 90, "width": 300, "height": 225 },
+			"tx/10006": { "rotation": 90, "width": 300, "height": 225 },
+			"tx/10007": { "rotation": 90, "width": 300, "height": 225 },
+			"tx/10008": { "rotation": 90, "width": 300, "height": 225 },
+			"tx/10009": { "rotation": 90, "width": 300, "height": 225 },
+			"tx/10010": { "rotation": 90, "width": 300, "height": 225 },
+			"tx/10011": { "rotation": 90, "width": 300, "height": 225 }
+		},
+		"tx/10003": {
+			"tx/10002": { "rotation": 90, "width": 300, "height": 225 },
+			"tx/10003": { "rotation": 90, "width": 300, "height": 225 },
+			"tx/10004": { "rotation": 90, "width": 300, "height": 225 },
+			"tx/10005": { "rotation": 90, "width": 300, "height": 225 },
+			"tx/10006": { "rotation": 90, "width": 300, "height": 225 },
+			"tx/10007": { "rotation": 90, "width": 300, "height": 225 },
+			"tx/10008": { "rotation": 90, "width": 300, "height": 225 },
+			"tx/10009": { "rotation": 90, "width": 300, "height": 225 },
+			"tx/10010": { "rotation": 90, "width": 300, "height": 225 },
+			"tx/10011": { "rotation": 90, "width": 300, "height": 225 }
+		}
+	}
+},
+"animations": {
+	"idle": {
+		"slots": {
+			"tx/10002": {
+				"attachment": [
+					{ "time": 0, "name": "tx/10002" },
+					{ "time": 0.0333, "name": "tx/10003" },
+					{ "time": 0.0667, "name": "tx/10004" },
+					{ "time": 0.1, "name": "tx/10006" },
+					{ "time": 0.1333, "name": "tx/10007" },
+					{ "time": 0.1667, "name": "tx/10008" },
+					{ "time": 0.2, "name": "tx/10009" },
+					{ "time": 0.2333, "name": "tx/10011" },
+					{ "time": 0.2667, "name": null }
+				]
+			},
+			"tx/10003": {
+				"attachment": [
+					{ "time": 0, "name": "tx/10002" },
+					{ "time": 0.0333, "name": "tx/10003" },
+					{ "time": 0.0667, "name": "tx/10004" },
+					{ "time": 0.1, "name": "tx/10006" },
+					{ "time": 0.1333, "name": "tx/10007" },
+					{ "time": 0.1667, "name": "tx/10008" },
+					{ "time": 0.2, "name": "tx/10009" },
+					{ "time": 0.2333, "name": "tx/10011" },
+					{ "time": 0.2667, "name": null }
+				]
+			}
+		}
+	}
+}
+}

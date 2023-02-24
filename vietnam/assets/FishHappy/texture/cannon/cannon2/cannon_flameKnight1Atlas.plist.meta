@@ -1,0 +1,247 @@
+{
+  "ver": "1.0.7",
+  "importer": "sprite-atlas",
+  "imported": true,
+  "uuid": "e46264f0-de6f-480a-a67e-84a7c6b5fa59",
+  "files": [
+    ".json"
+  ],
+  "subMetas": {
+    "5a104": {
+      "importer": "sprite-frame",
+      "uuid": "e46264f0-de6f-480a-a67e-84a7c6b5fa59@5a104",
+      "displayName": "",
+      "id": "5a104",
+      "name": "cannon_flameKnight1_00",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": -8,
+        "trimX": 1,
+        "trimY": 1,
+        "width": 205,
+        "height": 189,
+        "rawWidth": 205,
+        "rawHeight": 205,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "748262f3-3f0e-4f3f-97c7-270572860632@6c48a",
+        "atlasUuid": "e46264f0-de6f-480a-a67e-84a7c6b5fa59",
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        }
+      },
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9a755": {
+      "importer": "sprite-frame",
+      "uuid": "e46264f0-de6f-480a-a67e-84a7c6b5fa59@9a755",
+      "displayName": "",
+      "id": "9a755",
+      "name": "cannon_flameKnight1_01",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": -8,
+        "trimX": 1,
+        "trimY": 192,
+        "width": 205,
+        "height": 189,
+        "rawWidth": 205,
+        "rawHeight": 205,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "748262f3-3f0e-4f3f-97c7-270572860632@6c48a",
+        "atlasUuid": "e46264f0-de6f-480a-a67e-84a7c6b5fa59",
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        }
+      },
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8427a": {
+      "importer": "sprite-frame",
+      "uuid": "e46264f0-de6f-480a-a67e-84a7c6b5fa59@8427a",
+      "displayName": "",
+      "id": "8427a",
+      "name": "cannon_flameKnight1_02",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": -8,
+        "trimX": 1,
+        "trimY": 383,
+        "width": 205,
+        "height": 189,
+        "rawWidth": 205,
+        "rawHeight": 205,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "748262f3-3f0e-4f3f-97c7-270572860632@6c48a",
+        "atlasUuid": "e46264f0-de6f-480a-a67e-84a7c6b5fa59",
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        }
+      },
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "fdae0": {
+      "importer": "sprite-frame",
+      "uuid": "e46264f0-de6f-480a-a67e-84a7c6b5fa59@fdae0",
+      "displayName": "",
+      "id": "fdae0",
+      "name": "cannon_flameKnight1_03",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": -8,
+        "trimX": 1,
+        "trimY": 574,
+        "width": 205,
+        "height": 189,
+        "rawWidth": 205,
+        "rawHeight": 205,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "748262f3-3f0e-4f3f-97c7-270572860632@6c48a",
+        "atlasUuid": "e46264f0-de6f-480a-a67e-84a7c6b5fa59",
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        }
+      },
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c96dc": {
+      "importer": "sprite-frame",
+      "uuid": "e46264f0-de6f-480a-a67e-84a7c6b5fa59@c96dc",
+      "displayName": "",
+      "id": "c96dc",
+      "name": "cannon_flameKnight1_04",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": -8,
+        "trimX": 1,
+        "trimY": 765,
+        "width": 205,
+        "height": 189,
+        "rawWidth": 205,
+        "rawHeight": 205,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "748262f3-3f0e-4f3f-97c7-270572860632@6c48a",
+        "atlasUuid": "e46264f0-de6f-480a-a67e-84a7c6b5fa59",
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        }
+      },
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "atlasTextureName": "cannon_flameKnight1Atlas.png",
+    "format": 3,
+    "uuid": "e46264f0-de6f-480a-a67e-84a7c6b5fa59",
+    "textureUuid": "748262f3-3f0e-4f3f-97c7-270572860632@6c48a"
+  }
+}

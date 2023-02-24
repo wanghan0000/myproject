@@ -1,0 +1,118 @@
+
+jinruxiaoyouxi.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/E_Hit_NewRing040_Gemis_00000
+  rotate: false
+  xy: 445, 204
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+images/baopen2
+  rotate: false
+  xy: 703, 336
+  size: 248, 124
+  orig: 248, 124
+  offset: 0, 0
+  index: -1
+images/guangyun
+  rotate: false
+  xy: 2, 12
+  size: 281, 245
+  orig: 281, 245
+  offset: 0, 0
+  index: -1
+images/jinb/01
+  rotate: false
+  xy: 703, 264
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+images/jinb/02
+  rotate: false
+  xy: 285, 74
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+images/jinb/03
+  rotate: false
+  xy: 775, 264
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+images/jinb/04
+  rotate: false
+  xy: 847, 264
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+images/jinb/05
+  rotate: false
+  xy: 285, 2
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+images/jinb/06
+  rotate: false
+  xy: 703, 192
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+images/jinb/07
+  rotate: false
+  xy: 775, 192
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+images/jinb/08
+  rotate: false
+  xy: 847, 192
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+images/jinb/09
+  rotate: false
+  xy: 357, 74
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+images/jinb/10
+  rotate: false
+  xy: 357, 2
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+images/jinsedig
+  rotate: false
+  xy: 2, 259
+  size: 441, 201
+  orig: 441, 201
+  offset: 0, 0
+  index: -1
+images/shizig1
+  rotate: false
+  xy: 285, 146
+  size: 111, 111
+  orig: 111, 111
+  offset: 0, 0
+  index: -1
+images/zuanshi
+  rotate: false
+  xy: 953, 421
+  size: 38, 39
+  orig: 38, 39
+  offset: 0, 0
+  index: -1

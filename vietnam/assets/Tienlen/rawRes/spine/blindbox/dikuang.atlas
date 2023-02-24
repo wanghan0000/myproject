@@ -1,0 +1,76 @@
+
+dikuang.png
+size: 455,1036
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ham7a
+  rotate: false
+  xy: 2, 46
+  size: 305, 177
+  orig: 305, 177
+  offset: 0, 0
+  index: -1
+mh_27
+  rotate: false
+  xy: 2, 2
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+mh_29
+  rotate: false
+  xy: 2, 2
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+mh_30
+  rotate: false
+  xy: 2, 2
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+mh_31
+  rotate: false
+  xy: 2, 2
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+mh_32
+  rotate: false
+  xy: 2, 2
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+mh_33
+  rotate: false
+  xy: 2, 2
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+mh_28
+  rotate: false
+  xy: 309, 186
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+mh_34
+  rotate: true
+  xy: 2, 225
+  size: 809, 356
+  orig: 809, 356
+  offset: 0, 0
+  index: -1
+mh_35
+  rotate: true
+  xy: 360, 207
+  size: 827, 93
+  orig: 827, 93
+  offset: 0, 0
+  index: -1

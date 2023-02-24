@@ -1,0 +1,90 @@
+
+beijing.png
+size: 1935,444
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mh_19
+  rotate: false
+  xy: 1452, 110
+  size: 38, 40
+  orig: 38, 40
+  offset: 0, 0
+  index: -1
+mh_2
+  rotate: false
+  xy: 1138, 196
+  size: 5, 86
+  orig: 5, 86
+  offset: 0, 0
+  index: -1
+mh_20
+  rotate: false
+  xy: 1381, 32
+  size: 59, 47
+  orig: 59, 47
+  offset: 0, 0
+  index: -1
+mh_22
+  rotate: false
+  xy: 1381, 81
+  size: 69, 69
+  orig: 69, 69
+  offset: 0, 0
+  index: -1
+mh_24
+  rotate: false
+  xy: 590, 33
+  size: 546, 249
+  orig: 546, 249
+  offset: 0, 0
+  index: -1
+mh_25
+  rotate: true
+  xy: 1684, 160
+  size: 282, 249
+  orig: 282, 249
+  offset: 0, 0
+  index: -1
+mh_26
+  rotate: true
+  xy: 1145, 152
+  size: 290, 537
+  orig: 290, 537
+  offset: 0, 0
+  index: -1
+mh_3
+  rotate: true
+  xy: 1684, 153
+  size: 5, 86
+  orig: 5, 86
+  offset: 0, 0
+  index: -1
+mh_36
+  rotate: true
+  xy: 1138, 2
+  size: 148, 241
+  orig: 148, 241
+  offset: 0, 0
+  index: -1
+mh_37
+  rotate: false
+  xy: 2, 284
+  size: 1141, 158
+  orig: 1141, 158
+  offset: 0, 0
+  index: -1
+mh_4
+  rotate: true
+  xy: 590, 26
+  size: 5, 86
+  orig: 5, 86
+  offset: 0, 0
+  index: -1
+mh_48
+  rotate: false
+  xy: 2, 3
+  size: 586, 279
+  orig: 586, 279
+  offset: 0, 0
+  index: -1

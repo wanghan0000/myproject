@@ -1,0 +1,118 @@
+
+huodong_icon_zhuanpan.png
+size: 260,269
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hd__1
+  rotate: false
+  xy: 201, 129
+  size: 57, 58
+  orig: 57, 58
+  offset: 0, 0
+  index: -1
+hd__10
+  rotate: false
+  xy: 2, 153
+  size: 112, 114
+  orig: 112, 114
+  offset: 0, 0
+  index: -1
+hd__11
+  rotate: false
+  xy: 55, 11
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+hd__12
+  rotate: true
+  xy: 201, 76
+  size: 25, 29
+  orig: 25, 29
+  offset: 0, 0
+  index: -1
+hd__13
+  rotate: true
+  xy: 99, 25
+  size: 79, 81
+  orig: 79, 81
+  offset: 0, 0
+  index: -1
+hd__14
+  rotate: true
+  xy: 116, 106
+  size: 81, 83
+  orig: 81, 83
+  offset: 0, 0
+  index: -1
+hd__15
+  rotate: false
+  xy: 2, 49
+  size: 95, 102
+  orig: 95, 102
+  offset: 0, 0
+  index: -1
+hd__16
+  rotate: false
+  xy: 116, 189
+  size: 142, 78
+  orig: 142, 78
+  offset: 0, 0
+  index: -1
+hd__2
+  rotate: false
+  xy: 201, 58
+  size: 29, 16
+  orig: 29, 16
+  offset: 0, 0
+  index: -1
+hd__3
+  rotate: true
+  xy: 201, 103
+  size: 24, 29
+  orig: 24, 29
+  offset: 0, 0
+  index: -1
+hd__4
+  rotate: true
+  xy: 182, 43
+  size: 29, 17
+  orig: 29, 17
+  offset: 0, 0
+  index: -1
+hd__5
+  rotate: false
+  xy: 124, 4
+  size: 31, 19
+  orig: 31, 19
+  offset: 0, 0
+  index: -1
+hd__6
+  rotate: true
+  xy: 182, 74
+  size: 30, 17
+  orig: 30, 17
+  offset: 0, 0
+  index: -1
+hd__7
+  rotate: true
+  xy: 232, 96
+  size: 31, 18
+  orig: 31, 18
+  offset: 0, 0
+  index: -1
+hd__8
+  rotate: false
+  xy: 93, 2
+  size: 29, 21
+  orig: 29, 21
+  offset: 0, 0
+  index: -1
+hd__9
+  rotate: false
+  xy: 2, 14
+  size: 51, 33
+  orig: 51, 33
+  offset: 0, 0
+  index: -1

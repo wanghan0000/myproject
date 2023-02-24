@@ -1,0 +1,128 @@
+[
+  {
+    "__type__": "cc.AnimationClip",
+    "_name": "anim_fish_134_run",
+    "_objFlags": 0,
+    "_native": "",
+    "sample": 60,
+    "speed": 1,
+    "wrapMode": 2,
+    "_duration": 2.183333333333333,
+    "_hash": 3904969067,
+    "_tracks": [
+      {
+        "__id__": 1
+      }
+    ],
+    "_events": [],
+    "_exoticAnimation": null
+  },
+  {
+    "__type__": "cc.animation.ObjectTrack",
+    "_binding": {
+      "__type__": "cc.animation.TrackBinding",
+      "path": {
+        "__id__": 2
+      }
+    },
+    "_channel": {
+      "__id__": 4
+    }
+  },
+  {
+    "__type__": "cc.animation.TrackPath",
+    "_paths": [
+      {
+        "__id__": 3
+      },
+      "spriteFrame"
+    ]
+  },
+  {
+    "__type__": "cc.animation.ComponentPath",
+    "component": "cc.Sprite"
+  },
+  {
+    "__type__": "cc.animation.Channel",
+    "_curve": {
+      "__id__": 5
+    }
+  },
+  {
+    "__type__": "cc.ObjectCurve",
+    "_times": [
+      0,
+      0.16666666666666666,
+      0.3333333333333333,
+      0.5,
+      0.6666666666666666,
+      0.8333333333333334,
+      1,
+      1.1666666666666667,
+      1.3333333333333333,
+      1.5,
+      1.6666666666666667,
+      1.8333333333333333,
+      2,
+      2.1666666666666665
+    ],
+    "_values": [
+      {
+        "__uuid__": "5901437e-8b38-4246-8adb-0016dbd7db19@d5a4e",
+        "__expectedType__": "cc.Asset"
+      },
+      {
+        "__uuid__": "5901437e-8b38-4246-8adb-0016dbd7db19@e7b3e",
+        "__expectedType__": "cc.Asset"
+      },
+      {
+        "__uuid__": "5901437e-8b38-4246-8adb-0016dbd7db19@b389c",
+        "__expectedType__": "cc.Asset"
+      },
+      {
+        "__uuid__": "5901437e-8b38-4246-8adb-0016dbd7db19@9dc83",
+        "__expectedType__": "cc.Asset"
+      },
+      {
+        "__uuid__": "5901437e-8b38-4246-8adb-0016dbd7db19@5cb98",
+        "__expectedType__": "cc.Asset"
+      },
+      {
+        "__uuid__": "5901437e-8b38-4246-8adb-0016dbd7db19@3356d",
+        "__expectedType__": "cc.Asset"
+      },
+      {
+        "__uuid__": "5901437e-8b38-4246-8adb-0016dbd7db19@9f4b2",
+        "__expectedType__": "cc.Asset"
+      },
+      {
+        "__uuid__": "5901437e-8b38-4246-8adb-0016dbd7db19@51856",
+        "__expectedType__": "cc.Asset"
+      },
+      {
+        "__uuid__": "5901437e-8b38-4246-8adb-0016dbd7db19@c365f",
+        "__expectedType__": "cc.Asset"
+      },
+      {
+        "__uuid__": "5901437e-8b38-4246-8adb-0016dbd7db19@e720d",
+        "__expectedType__": "cc.Asset"
+      },
+      {
+        "__uuid__": "5901437e-8b38-4246-8adb-0016dbd7db19@20608",
+        "__expectedType__": "cc.Asset"
+      },
+      {
+        "__uuid__": "5901437e-8b38-4246-8adb-0016dbd7db19@b15c7",
+        "__expectedType__": "cc.Asset"
+      },
+      {
+        "__uuid__": "5901437e-8b38-4246-8adb-0016dbd7db19@4f723",
+        "__expectedType__": "cc.Asset"
+      },
+      {
+        "__uuid__": "5901437e-8b38-4246-8adb-0016dbd7db19@b01e4",
+        "__expectedType__": "cc.Asset"
+      }
+    ]
+  }
+]

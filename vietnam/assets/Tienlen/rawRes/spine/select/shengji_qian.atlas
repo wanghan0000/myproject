@@ -1,0 +1,412 @@
+
+shengji_qian.png
+size: 2012,1256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1/light_000
+  rotate: false
+  xy: 2, 1154
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+1/light_001
+  rotate: false
+  xy: 2, 1154
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+1/light_002
+  rotate: false
+  xy: 104, 1154
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+1/light_003
+  rotate: false
+  xy: 206, 1154
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+1/light_004
+  rotate: false
+  xy: 308, 1154
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+1/light_005
+  rotate: false
+  xy: 410, 1154
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+1/light_006
+  rotate: false
+  xy: 512, 1154
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+1/light_007
+  rotate: false
+  xy: 614, 1154
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+1/light_008
+  rotate: false
+  xy: 716, 1154
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+1/light_009
+  rotate: false
+  xy: 818, 1154
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+1/light_010
+  rotate: false
+  xy: 920, 1154
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+1/light_011
+  rotate: false
+  xy: 1022, 1154
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+1/light_012
+  rotate: false
+  xy: 1124, 1154
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+1/light_013
+  rotate: false
+  xy: 1226, 1154
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+1/light_014
+  rotate: false
+  xy: 1328, 1154
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+1/light_015
+  rotate: false
+  xy: 1430, 1154
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+1/light_016
+  rotate: false
+  xy: 1532, 1154
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+1/light_017
+  rotate: false
+  xy: 1634, 1154
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+1/light_018
+  rotate: false
+  xy: 1736, 1154
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+shangsheng/上升粒子b_10
+  rotate: true
+  xy: 154, 810
+  size: 200, 400
+  orig: 200, 400
+  offset: 0, 0
+  index: -1
+shangsheng/上升粒子b_11
+  rotate: true
+  xy: 556, 810
+  size: 200, 400
+  orig: 200, 400
+  offset: 0, 0
+  index: -1
+shangsheng/上升粒子b_12
+  rotate: true
+  xy: 958, 810
+  size: 200, 400
+  orig: 200, 400
+  offset: 0, 0
+  index: -1
+shangsheng/上升粒子b_13
+  rotate: true
+  xy: 1360, 810
+  size: 200, 400
+  orig: 200, 400
+  offset: 0, 0
+  index: -1
+shangsheng/上升粒子b_14
+  rotate: true
+  xy: 2, 608
+  size: 200, 400
+  orig: 200, 400
+  offset: 0, 0
+  index: -1
+shangsheng/上升粒子b_15
+  rotate: true
+  xy: 404, 608
+  size: 200, 400
+  orig: 200, 400
+  offset: 0, 0
+  index: -1
+shangsheng/上升粒子b_16
+  rotate: true
+  xy: 806, 608
+  size: 200, 400
+  orig: 200, 400
+  offset: 0, 0
+  index: -1
+shangsheng/上升粒子b_17
+  rotate: true
+  xy: 1208, 608
+  size: 200, 400
+  orig: 200, 400
+  offset: 0, 0
+  index: -1
+shangsheng/上升粒子b_18
+  rotate: true
+  xy: 1610, 608
+  size: 200, 400
+  orig: 200, 400
+  offset: 0, 0
+  index: -1
+shangsheng/上升粒子b_19
+  rotate: true
+  xy: 2, 406
+  size: 200, 400
+  orig: 200, 400
+  offset: 0, 0
+  index: -1
+shangsheng/上升粒子b_20
+  rotate: true
+  xy: 404, 406
+  size: 200, 400
+  orig: 200, 400
+  offset: 0, 0
+  index: -1
+shangsheng/上升粒子b_21
+  rotate: true
+  xy: 806, 406
+  size: 200, 400
+  orig: 200, 400
+  offset: 0, 0
+  index: -1
+shangsheng/上升粒子b_22
+  rotate: true
+  xy: 1208, 406
+  size: 200, 400
+  orig: 200, 400
+  offset: 0, 0
+  index: -1
+shangsheng/上升粒子b_23
+  rotate: true
+  xy: 1610, 406
+  size: 200, 400
+  orig: 200, 400
+  offset: 0, 0
+  index: -1
+shangsheng/上升粒子b_24
+  rotate: true
+  xy: 2, 204
+  size: 200, 400
+  orig: 200, 400
+  offset: 0, 0
+  index: -1
+shangsheng/上升粒子b_25
+  rotate: true
+  xy: 404, 204
+  size: 200, 400
+  orig: 200, 400
+  offset: 0, 0
+  index: -1
+shangsheng/上升粒子b_26
+  rotate: true
+  xy: 806, 204
+  size: 200, 400
+  orig: 200, 400
+  offset: 0, 0
+  index: -1
+shangsheng/上升粒子b_27
+  rotate: true
+  xy: 1208, 204
+  size: 200, 400
+  orig: 200, 400
+  offset: 0, 0
+  index: -1
+shangsheng/上升粒子b_28
+  rotate: true
+  xy: 1610, 204
+  size: 200, 400
+  orig: 200, 400
+  offset: 0, 0
+  index: -1
+shangsheng/上升粒子b_29
+  rotate: true
+  xy: 2, 2
+  size: 200, 400
+  orig: 200, 400
+  offset: 0, 0
+  index: -1
+shangsheng/上升粒子b_30
+  rotate: true
+  xy: 404, 2
+  size: 200, 400
+  orig: 200, 400
+  offset: 0, 0
+  index: -1
+shangsheng/上升粒子b_31
+  rotate: true
+  xy: 806, 2
+  size: 200, 400
+  orig: 200, 400
+  offset: 0, 0
+  index: -1
+shangsheng/上升粒子b_32
+  rotate: true
+  xy: 1208, 2
+  size: 200, 400
+  orig: 200, 400
+  offset: 0, 0
+  index: -1
+shangsheng/上升粒子b_33
+  rotate: true
+  xy: 1610, 2
+  size: 200, 400
+  orig: 200, 400
+  offset: 0, 0
+  index: -1
+升级光效/升级光效3h_08
+  rotate: true
+  xy: 1838, 1114
+  size: 140, 150
+  orig: 140, 150
+  offset: 0, 0
+  index: -1
+升级光效/升级光效3h_09
+  rotate: true
+  xy: 2, 1012
+  size: 140, 150
+  orig: 140, 150
+  offset: 0, 0
+  index: -1
+升级光效/升级光效3h_10
+  rotate: true
+  xy: 154, 1012
+  size: 140, 150
+  orig: 140, 150
+  offset: 0, 0
+  index: -1
+升级光效/升级光效3h_11
+  rotate: true
+  xy: 306, 1012
+  size: 140, 150
+  orig: 140, 150
+  offset: 0, 0
+  index: -1
+升级光效/升级光效3h_12
+  rotate: true
+  xy: 458, 1012
+  size: 140, 150
+  orig: 140, 150
+  offset: 0, 0
+  index: -1
+升级光效/升级光效3h_13
+  rotate: true
+  xy: 610, 1012
+  size: 140, 150
+  orig: 140, 150
+  offset: 0, 0
+  index: -1
+升级光效/升级光效3h_14
+  rotate: true
+  xy: 762, 1012
+  size: 140, 150
+  orig: 140, 150
+  offset: 0, 0
+  index: -1
+升级光效/升级光效3h_15
+  rotate: true
+  xy: 914, 1012
+  size: 140, 150
+  orig: 140, 150
+  offset: 0, 0
+  index: -1
+升级光效/升级光效3h_16
+  rotate: true
+  xy: 1066, 1012
+  size: 140, 150
+  orig: 140, 150
+  offset: 0, 0
+  index: -1
+升级光效/升级光效3h_17
+  rotate: true
+  xy: 1218, 1012
+  size: 140, 150
+  orig: 140, 150
+  offset: 0, 0
+  index: -1
+升级光效/升级光效3h_18
+  rotate: true
+  xy: 1370, 1012
+  size: 140, 150
+  orig: 140, 150
+  offset: 0, 0
+  index: -1
+升级光效/升级光效3h_19
+  rotate: true
+  xy: 1522, 1012
+  size: 140, 150
+  orig: 140, 150
+  offset: 0, 0
+  index: -1
+升级光效/升级光效3h_20
+  rotate: true
+  xy: 1674, 1012
+  size: 140, 150
+  orig: 140, 150
+  offset: 0, 0
+  index: -1
+升级光效/升级光效3h_21
+  rotate: true
+  xy: 1826, 972
+  size: 140, 150
+  orig: 140, 150
+  offset: 0, 0
+  index: -1
+升级光效/升级光效3h_22
+  rotate: true
+  xy: 2, 870
+  size: 140, 150
+  orig: 140, 150
+  offset: 0, 0
+  index: -1

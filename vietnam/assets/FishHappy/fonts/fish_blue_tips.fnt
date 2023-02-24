@@ -1,0 +1,30 @@
+info face="" size=22 bold=0 italic=0 charset="" unicode=0 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=1,1
+common lineHeight=24 base=26 scaleW=128 scaleH=128 pages=1 packed=0 alphaChnl=1 redChnl=0 greenChnl=0 blueChnl=0
+page id=0 file="fish_blue_tips.png"
+chars count=24
+char id=48 x=25 y=27 width=15 height=19 xoffset=0 yoffset=5 xadvance=11 page=0 chnl=0 letter="0"
+char id=49 x=72 y=0 width=10 height=19 xoffset=0 yoffset=5 xadvance=6 page=0 chnl=0 letter="1"
+char id=50 x=63 y=98 width=14 height=20 xoffset=0 yoffset=4 xadvance=10 page=0 chnl=0 letter="2"
+char id=51 x=63 y=78 width=14 height=19 xoffset=0 yoffset=5 xadvance=10 page=0 chnl=0 letter="3"
+char id=52 x=48 y=38 width=15 height=19 xoffset=0 yoffset=5 xadvance=11 page=0 chnl=0 letter="4"
+char id=53 x=63 y=58 width=14 height=19 xoffset=0 yoffset=5 xadvance=10 page=0 chnl=0 letter="5"
+char id=54 x=57 y=0 width=14 height=19 xoffset=0 yoffset=5 xadvance=10 page=0 chnl=0 letter="6"
+char id=55 x=48 y=58 width=14 height=19 xoffset=0 yoffset=5 xadvance=10 page=0 chnl=0 letter="7"
+char id=56 x=41 y=17 width=15 height=20 xoffset=0 yoffset=4 xadvance=11 page=0 chnl=0 letter="8"
+char id=57 x=47 y=97 width=15 height=19 xoffset=0 yoffset=5 xadvance=11 page=0 chnl=0 letter="9"
+char id=46 x=42 y=0 width=8 height=8 xoffset=0 yoffset=16 xadvance=4 page=0 chnl=0 letter="."
+char id=43 x=25 y=0 width=16 height=16 xoffset=0 yoffset=8 xadvance=12 page=0 chnl=0 letter="+"
+char id=45 x=25 y=17 width=15 height=9 xoffset=0 yoffset=12 xadvance=11 page=0 chnl=0 letter="-"
+char id=47 x=64 y=20 width=13 height=19 xoffset=0 yoffset=5 xadvance=9 page=0 chnl=0 letter="/"
+char id=24403 x=24 y=97 width=22 height=23 xoffset=0 yoffset=3 xadvance=18 page=0 chnl=0 letter="当"
+char id=21069 x=24 y=73 width=23 height=23 xoffset=0 yoffset=3 xadvance=19 page=0 chnl=0 letter="前"
+char id=22870 x=0 y=25 width=24 height=23 xoffset=0 yoffset=3 xadvance=20 page=0 chnl=0 letter="奖"
+char id=27744 x=0 y=97 width=23 height=23 xoffset=0 yoffset=3 xadvance=19 page=0 chnl=0 letter="池"
+char id=21319 x=24 y=49 width=23 height=23 xoffset=0 yoffset=3 xadvance=19 page=0 chnl=0 letter="升"
+char id=32423 x=0 y=49 width=23 height=23 xoffset=0 yoffset=3 xadvance=19 page=0 chnl=0 letter="级"
+char id=20493 x=0 y=0 width=24 height=24 xoffset=0 yoffset=2 xadvance=20 page=0 chnl=0 letter="倍"
+char id=28846 x=0 y=73 width=23 height=23 xoffset=0 yoffset=3 xadvance=19 page=0 chnl=0 letter="炮"
+char id=32 x=0 y=0 width=0 height=0 xoffset=0 yoffset=0 xadvance=0 page=0 chnl=0 letter=" "
+char id=9 x=0 y=0 width=0 height=0 xoffset=0 yoffset=0 xadvance=0 page=0 chnl=0 letter="	"
+
+kernings count=0

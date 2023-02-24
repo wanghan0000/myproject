@@ -1,0 +1,60 @@
+/**
+ * Note: The original script has been commented out, due to the large number of changes in the script, there may be missing in the conversion, you need to convert it manually
+ */
+const ErrorCodeMap:any =  {
+    "-1":"Mã xác nhận đã hết thời gian sử dụng!",
+    "-2":"Mã xác nhận không chính xác!",
+    "-10":"Thẻ này không được hệ thống chấp nhận!",
+    "-11":"Bạn đã hết số lượt quay trong ngày!",
+    "-13":"Thông tin thẻ không chính xác hoặc đã được sử dụng!",
+    "-14":"Giao dịch không hợp lệ!",
+    "-15":"Thông tin thẻ nạp không hợp lệ!",
+    "-16":"Hệ thống đã ghi nhận thẻ, vui lòng đợi trong ít phút!",
+    "-20":"Tên tài khoản không đúng quy định!",
+    "-30":"Mật khẩu không đúng quy định!",
+    "-31":"Mật khẩu cũ không đúng!",
+    "-40":"Tên hiển thị này đã tồn tại!",
+    "-51":"Thông tin đăng nhập chưa đúng!",
+    "-52":"Định dạng chứng minh thư chưa đúng!",
+    "-53":"Định dạng email chưa đúng!",
+    "-54":"Định dạng số điện thoại di động chưa đúng!",
+    "-55":"Giftcode không hợp lệ hãy kiểm tra lại!",
+    "-56":"Giftcode không chính xác hãy kiểm tra lại!",
+    "-57":"Tên tài khoản đã tồn tại!",
+    "-58":"Tên tài khoản không tồn tại!",
+    "-59":"Số điện thoại này đã được sử dụng!",
+    "-60":"Mã OTP không chính xác, vui lòng kiểm tra lại!",
+    "-61":"Số dư không đủ để gửi két!",
+    "-62":"Số dư không đủ!",
+    "-65":"Tài khoản của bạn đã bị khóa!",
+    "-70":"Chỉ có thể nhận mã OTP 2 phút một lần!",
+    "-71":"Bạn cần đăng ký sử dụng số điện thoại để sử dung SMS OTP!",
+    "-72":"Thiết bị này không được cho phép đăng nhập SMS OTP!",
+    "-80":"Số WIN chuyển khoản tối thiểu là 10.000!",
+    "-88":"Rút tối thiểu 100k!",
+    "-99":"Hệ thống đang bận, xin vui lòng thử lại sau!",
+    "-100":"Loại thẻ này không chính xác",
+    "-101":"Xin vui lòng đợi hệ thống duyệt!",
+    "-102":"Giftcode đã được sử dụng!",
+    "-103":"Bạn cần kích hoạt số điện thoại!",
+    "-104":"Phần thưởng này đã được nhận!",
+    "-105":"Chưa đủ điều kiện nhận quà!",
+    "-212":"Cược sai!",
+    "-215":"Chưa thể bắt đầu ván mới!",
+    "-218":"Không thể đặt cược lúc này!",
+    "0":"Xin vui lòng đợi trong ít phút, thẻ đang được duyệt!",
+    "-107":"Mỗi tài khoản 1 ngày chỉ được sử dụng giftcode 1 lần!",
+    "-108":"Bạn đã bị cấm chơi game này!",
+    "-109":"Giftcode đã hết hạn sử dụng!",
+    "-1001":"Tài khoản Bạn chưa đủ điều kiện thực hiện giao dịch!",
+    "-1002":"Đã hết số lần giao dịch trong ngày!",
+    "-1003":"Số tiền không được vượt quá 100.000đ!",
+    "-1009":"Bạn phải đạt Vip 2 để chuyển cho người chơi khác, tối thiểu 500.000đ!",
+    "-1010":"Chuyển cho Đại lý tối thiểu 100.000đ!",
+}
+
+export class ErrorCode{
+    public static get(key:string):string{
+        return ErrorCodeMap[key];
+    }
+}

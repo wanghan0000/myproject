@@ -1,0 +1,41 @@
+
+dizuo.png
+size: 1576,283
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bsc_16
+  rotate: false
+  xy: 1091, 23
+  size: 485, 126
+  orig: 485, 126
+  offset: 0, 0
+  index: -1
+bsc_17
+  rotate: false
+  xy: 548, 10
+  size: 543, 139
+  orig: 543, 139
+  offset: 0, 0
+  index: -1
+guang_
+  rotate: false
+  xy: 0, 149
+  size: 1123, 134
+  orig: 1123, 134
+  offset: 0, 0
+  index: -1
+jx
+  rotate: false
+  xy: 1123, 267
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+taizi
+  rotate: false
+  xy: 0, 0
+  size: 548, 149
+  orig: 548, 149
+  offset: 0, 0
+  index: -1

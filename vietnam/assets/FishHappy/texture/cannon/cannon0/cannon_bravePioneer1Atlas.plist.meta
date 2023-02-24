@@ -1,0 +1,201 @@
+{
+  "ver": "1.0.7",
+  "importer": "sprite-atlas",
+  "imported": true,
+  "uuid": "20947d95-502e-4ff9-bb97-e3cf1e8fb14f",
+  "files": [
+    ".json"
+  ],
+  "subMetas": {
+    "aa5a3": {
+      "importer": "sprite-frame",
+      "uuid": "20947d95-502e-4ff9-bb97-e3cf1e8fb14f@aa5a3",
+      "displayName": "",
+      "id": "aa5a3",
+      "name": "cannon_bravePioneer1_00",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": 1,
+        "trimX": 1,
+        "trimY": 1,
+        "width": 102,
+        "height": 142,
+        "rawWidth": 110,
+        "rawHeight": 150,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "5314ce11-cbcf-422d-9a8b-75c863cfb539@6c48a",
+        "atlasUuid": "20947d95-502e-4ff9-bb97-e3cf1e8fb14f",
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        }
+      },
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "23e9d": {
+      "importer": "sprite-frame",
+      "uuid": "20947d95-502e-4ff9-bb97-e3cf1e8fb14f@23e9d",
+      "displayName": "",
+      "id": "23e9d",
+      "name": "cannon_bravePioneer1_01",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": -1,
+        "trimX": 1,
+        "trimY": 145,
+        "width": 102,
+        "height": 138,
+        "rawWidth": 110,
+        "rawHeight": 150,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "5314ce11-cbcf-422d-9a8b-75c863cfb539@6c48a",
+        "atlasUuid": "20947d95-502e-4ff9-bb97-e3cf1e8fb14f",
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        }
+      },
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a02f2": {
+      "importer": "sprite-frame",
+      "uuid": "20947d95-502e-4ff9-bb97-e3cf1e8fb14f@a02f2",
+      "displayName": "",
+      "id": "a02f2",
+      "name": "cannon_bravePioneer1_02",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": -3,
+        "trimX": 1,
+        "trimY": 285,
+        "width": 102,
+        "height": 134,
+        "rawWidth": 110,
+        "rawHeight": 150,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "5314ce11-cbcf-422d-9a8b-75c863cfb539@6c48a",
+        "atlasUuid": "20947d95-502e-4ff9-bb97-e3cf1e8fb14f",
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        }
+      },
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "cd8ee": {
+      "importer": "sprite-frame",
+      "uuid": "20947d95-502e-4ff9-bb97-e3cf1e8fb14f@cd8ee",
+      "displayName": "",
+      "id": "cd8ee",
+      "name": "cannon_bravePioneer1_03",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": -1,
+        "trimX": 1,
+        "trimY": 145,
+        "width": 102,
+        "height": 138,
+        "rawWidth": 110,
+        "rawHeight": 150,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "5314ce11-cbcf-422d-9a8b-75c863cfb539@6c48a",
+        "atlasUuid": "20947d95-502e-4ff9-bb97-e3cf1e8fb14f",
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        }
+      },
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "atlasTextureName": "cannon_bravePioneer1Atlas.png",
+    "format": 3,
+    "uuid": "20947d95-502e-4ff9-bb97-e3cf1e8fb14f",
+    "textureUuid": "5314ce11-cbcf-422d-9a8b-75c863cfb539@6c48a"
+  }
+}

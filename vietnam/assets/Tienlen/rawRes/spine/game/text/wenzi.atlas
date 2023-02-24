@@ -1,0 +1,132 @@
+
+wenzi.png
+size: 1522,92
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/FIRST
+  rotate: false
+  xy: 1337, 44
+  size: 136, 48
+  orig: 136, 48
+  offset: 0, 0
+  index: -1
+images/FIRST-bg
+  rotate: false
+  xy: 455, 17
+  size: 333, 75
+  orig: 333, 75
+  offset: 0, 0
+  index: -1
+images/LAST
+  rotate: false
+  xy: 1296, 6
+  size: 94, 38
+  orig: 94, 38
+  offset: 0, 0
+  index: -1
+images/PASS
+  rotate: false
+  xy: 1390, 6
+  size: 94, 38
+  orig: 94, 38
+  offset: 0, 0
+  index: -1
+images/SECOND
+  rotate: false
+  xy: 1175, 47
+  size: 162, 45
+  orig: 162, 45
+  offset: 0, 0
+  index: -1
+images/SECOND2
+  rotate: false
+  xy: 985, 16
+  size: 190, 76
+  orig: 190, 76
+  offset: 0, 0
+  index: -1
+images/THIRD
+  rotate: false
+  xy: 1175, 2
+  size: 121, 45
+  orig: 121, 45
+  offset: 0, 0
+  index: -1
+images/THIRD2
+  rotate: true
+  xy: 1484, 17
+  size: 75, 38
+  orig: 75, 38
+  offset: 0, 0
+  index: -1
+images/WAITING
+  rotate: false
+  xy: 296, 4
+  size: 140, 38
+  orig: 140, 38
+  offset: 0, 0
+  index: -1
+images/Waiting For Other Players...
+  rotate: false
+  xy: 0, 42
+  size: 455, 50
+  orig: 455, 50
+  offset: 0, 0
+  index: -1
+images/dk
+  rotate: false
+  xy: 0, 0
+  size: 296, 42
+  orig: 296, 42
+  offset: 0, 0
+  index: -1
+images/gd
+  rotate: true
+  xy: 788, 0
+  size: 20, 30
+  orig: 20, 30
+  offset: 0, 0
+  index: -1
+images/guang
+  rotate: true
+  xy: 788, 20
+  size: 72, 197
+  orig: 72, 197
+  offset: 0, 0
+  index: -1
+images/jt1
+  rotate: false
+  xy: 436, 18
+  size: 14, 24
+  orig: 14, 24
+  offset: 0, 0
+  index: -1
+images/jt2
+  rotate: true
+  xy: 1484, 3
+  size: 14, 24
+  orig: 14, 24
+  offset: 0, 0
+  index: -1
+images/y1
+  rotate: false
+  xy: 436, 6
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+images/y2
+  rotate: false
+  xy: 1508, 5
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+images/•
+  rotate: false
+  xy: 818, 0
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1

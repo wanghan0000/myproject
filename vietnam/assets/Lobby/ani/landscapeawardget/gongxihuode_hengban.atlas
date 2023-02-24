@@ -1,0 +1,97 @@
+
+gongxihuode_hengban.png
+size: 1636,1028
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+11
+  rotate: true
+  xy: 1557, 383
+  size: 258, 77
+  orig: 258, 77
+  offset: 0, 0
+  index: -1
+13a
+  rotate: true
+  xy: 1028, 380
+  size: 646, 190
+  orig: 646, 190
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 1105, 364
+  size: 18, 14
+  orig: 18, 14
+  offset: 0, 0
+  index: -1
+Xslb_gxhd/gxtx1_00000
+  rotate: true
+  xy: 1028, 70
+  size: 308, 75
+  orig: 308, 75
+  offset: 0, 0
+  index: -1
+Xslb_gxhd/tx3_0000
+  rotate: false
+  xy: 1220, 643
+  size: 381, 383
+  orig: 381, 383
+  offset: 0, 0
+  index: -1
+gongxihuode_5
+  rotate: false
+  xy: 2, 2
+  size: 1024, 1024
+  orig: 1024, 1024
+  offset: 0, 0
+  index: -1
+guangquan_0
+  rotate: true
+  xy: 1381, 102
+  size: 202, 197
+  orig: 202, 197
+  offset: 0, 0
+  index: -1
+guangquan_1
+  rotate: false
+  xy: 1105, 49
+  size: 274, 255
+  orig: 274, 255
+  offset: 0, 0
+  index: -1
+guangquan_2
+  rotate: false
+  xy: 1220, 306
+  size: 335, 335
+  orig: 335, 335
+  offset: 0, 0
+  index: -1
+p1
+  rotate: false
+  xy: 1557, 371
+  size: 16, 10
+  orig: 16, 10
+  offset: 0, 0
+  index: -1
+p21
+  rotate: false
+  xy: 1603, 1012
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+p3
+  rotate: false
+  xy: 1381, 85
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+p5
+  rotate: false
+  xy: 1028, 53
+  size: 19, 15
+  orig: 19, 15
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,97 @@
+
+bisaichang.png
+size: 401,535
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+07
+  rotate: false
+  xy: 336, 66
+  size: 61, 63
+  orig: 61, 63
+  offset: 0, 0
+  index: -1
+c01
+  rotate: true
+  xy: 255, 2
+  size: 127, 32
+  orig: 127, 32
+  offset: 0, 0
+  index: -1
+cao05
+  rotate: false
+  xy: 2, 138
+  size: 254, 137
+  orig: 254, 137
+  offset: 0, 0
+  index: -1
+di01
+  rotate: true
+  xy: 260, 186
+  size: 170, 103
+  orig: 170, 103
+  offset: 0, 0
+  index: -1
+guang
+  rotate: false
+  xy: 2, 277
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+guangdian
+  rotate: true
+  xy: 191, 33
+  size: 103, 62
+  orig: 103, 62
+  offset: 0, 0
+  index: -1
+hong
+  rotate: false
+  xy: 258, 131
+  size: 128, 53
+  orig: 128, 53
+  offset: 0, 0
+  index: -1
+jb
+  rotate: true
+  xy: 260, 358
+  size: 175, 122
+  orig: 175, 122
+  offset: 0, 0
+  index: -1
+jiao
+  rotate: true
+  xy: 336, 5
+  size: 59, 63
+  orig: 59, 63
+  offset: 0, 0
+  index: -1
+pd01
+  rotate: false
+  xy: 365, 206
+  size: 29, 73
+  orig: 29, 73
+  offset: 0, 0
+  index: -1
+pd02
+  rotate: false
+  xy: 365, 281
+  size: 27, 75
+  orig: 27, 75
+  offset: 0, 0
+  index: -1
+pz
+  rotate: false
+  xy: 2, 29
+  size: 187, 107
+  orig: 187, 107
+  offset: 0, 0
+  index: -1
+z
+  rotate: true
+  xy: 289, 22
+  size: 107, 45
+  orig: 107, 45
+  offset: 0, 0
+  index: -1

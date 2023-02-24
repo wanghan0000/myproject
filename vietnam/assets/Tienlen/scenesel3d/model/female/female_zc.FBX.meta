@@ -1,0 +1,83 @@
+{
+  "ver": "2.3.0",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "feaad423-75ed-4863-a396-5f818aed3883",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "d4450": {
+      "importer": "gltf-animation",
+      "uuid": "feaad423-75ed-4863-a396-5f818aed3883@d4450",
+      "displayName": "",
+      "id": "d4450",
+      "name": "chuchang.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 3
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "55f50": {
+      "importer": "gltf-scene",
+      "uuid": "feaad423-75ed-4863-a396-5f818aed3883@55f50",
+      "displayName": "",
+      "id": "55f50",
+      "name": "female_zc.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "animationImportSettings": [
+      {
+        "name": "Take 001",
+        "duration": 3,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "chuchang",
+            "from": 0,
+            "to": 3,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "feaad423-75ed-4863-a396-5f818aed3883@55f50",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "feaad423-75ed-4863-a396-5f818aed3883@55f50"
+      ]
+    }
+  }
+}

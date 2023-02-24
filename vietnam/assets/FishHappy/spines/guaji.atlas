@@ -1,0 +1,20 @@
+
+guaji.png
+size: 78,58
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ren1
+  rotate: false
+  xy: 42, 12
+  size: 34, 44
+  orig: 34, 44
+  offset: 0, 0
+  index: -1
+ren2
+  rotate: false
+  xy: 2, 2
+  size: 38, 54
+  orig: 38, 54
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,1714 @@
+{
+"skeleton": { "hash": "+/ZiyxKVQibUftoiXBix95HWc+4", "spine": "3.6.53", "width": 4583, "height": 1199 },
+"bones": [
+	{ "name": "root" },
+	{ "name": "bone", "parent": "root", "length": 665.18, "rotation": 0.79, "x": -2.22, "y": 491.96 },
+	{ "name": "bone2", "parent": "root", "length": 442.86, "x": 34.5, "y": -382.07, "scaleX": 0.86, "scaleY": 0.86 },
+	{ "name": "bone4", "parent": "bone", "length": 69.44, "rotation": 89.21, "x": 54.11, "y": -605.17, "scaleX": 9, "scaleY": 9 },
+	{ "name": "bone5", "parent": "bone2", "x": 25.48, "y": 348.33 },
+	{ "name": "bone6", "parent": "bone5", "length": 109.05, "x": 3.22, "y": 7.79, "scaleX": 4, "scaleY": 4 },
+	{ "name": "bone7", "parent": "bone5", "length": 329.31, "rotation": -180, "x": -0.3, "y": 0.34 },
+	{ "name": "bone9", "parent": "bone2", "length": 49.54, "x": 32.66, "y": 543.59, "scaleX": 2, "scaleY": 2 },
+	{ "name": "bone10", "parent": "bone2", "length": 49.54, "rotation": 6.55, "x": 44.39, "y": 519.11, "scaleX": 1.5, "scaleY": 1.5 },
+	{ "name": "bone11", "parent": "bone2", "length": 49.54, "rotation": 15.48, "x": 23.13, "y": 564.74 },
+	{ "name": "bone12", "parent": "bone2", "length": 10, "x": 145.58, "y": 76.95, "scaleX": 1.5, "scaleY": 1.5 },
+	{ "name": "bone13", "parent": "bone2", "length": 10, "x": 145.58, "y": 76.95, "scaleX": 1.5, "scaleY": 1.5 },
+	{ "name": "bone14", "parent": "bone2", "length": 10, "x": 145.58, "y": 76.95, "scaleX": 1.5, "scaleY": 1.5 },
+	{ "name": "bone15", "parent": "bone2", "length": 134.38, "rotation": 180, "x": 5.94, "y": 484.18, "scaleX": 9, "scaleY": 9 },
+	{ "name": "bone16", "parent": "bone2", "length": 10, "x": 145.58, "y": 76.95, "scaleX": 1.5, "scaleY": 1.5 },
+	{ "name": "bone17", "parent": "bone2", "length": 10, "x": 145.58, "y": 76.95, "scaleX": 1.5, "scaleY": 1.5 }
+],
+"slots": [
+	{ "name": "images/Energy 036 Ray Right/Energy 036 Ray Right_00", "bone": "bone4", "blend": "additive" },
+	{ "name": "images/HD_sheyao #916655/HD_sheyao #916655_000", "bone": "bone6", "blend": "additive" },
+	{ "name": "images/s_sequence_407/s_sequence_407_000", "bone": "bone7", "blend": "additive" },
+	{ "name": "images/Motion Stroke 03 Comp/Motion Stroke 03 Comp_01", "bone": "bone9", "blend": "additive" },
+	{ "name": "images/Motion Stroke 03 Comp/Motion Stroke 03 Comp_1", "bone": "bone10", "blend": "additive" },
+	{ "name": "images/Motion Stroke 03 Comp/Motion Stroke 03 Comp_2", "bone": "bone11", "blend": "additive" },
+	{ "name": "images/Particle_Moth_01/Particle_Moth_01_000", "bone": "bone12", "blend": "additive" },
+	{ "name": "images/Particle_Moth_01/Particle_Moth_01_4", "bone": "bone17", "color": "ff41a1ff", "blend": "additive" },
+	{ "name": "images/Particle_Moth_01/Particle_Moth_01_0", "bone": "bone13", "color": "c341ffff", "blend": "additive" },
+	{ "name": "images/Particle_Moth_01/Particle_Moth_01_1", "bone": "bone14", "color": "2ef9ffff", "blend": "additive" },
+	{ "name": "images/Particle_Moth_01/Particle_Moth_01_3", "bone": "bone16", "color": "ffd547ff", "blend": "additive" },
+	{ "name": "1", "bone": "bone2", "attachment": "1" },
+	{ "name": "2", "bone": "bone2", "attachment": "1" },
+	{ "name": "3", "bone": "bone2", "attachment": "1" },
+	{ "name": "4", "bone": "bone2", "attachment": "1" },
+	{ "name": "5", "bone": "bone2", "attachment": "1" },
+	{ "name": "images/huaban/huaban_00", "bone": "bone15", "blend": "additive" }
+],
+"path": [
+	{
+		"name": "1",
+		"order": 0,
+		"bones": [ "bone12" ],
+		"target": "1",
+		"rotation": 135.9
+	},
+	{
+		"name": "2",
+		"order": 1,
+		"bones": [ "bone16" ],
+		"target": "2",
+		"rotation": 145.8
+	},
+	{
+		"name": "3",
+		"order": 2,
+		"bones": [ "bone17" ],
+		"target": "3",
+		"rotation": 148.7
+	},
+	{
+		"name": "4",
+		"order": 3,
+		"bones": [ "bone13" ],
+		"target": "4",
+		"rotation": 141.6
+	},
+	{
+		"name": "5",
+		"order": 4,
+		"bones": [ "bone14" ],
+		"target": "5",
+		"rotation": 141.6
+	}
+],
+"skins": {
+	"default": {
+		"1": {
+			"1": {
+				"type": "path",
+				"lengths": [ 593.52, 1289.17 ],
+				"vertexCount": 6,
+				"vertices": [ -7.73, 507.91, 147.16, 543.56, 534.73, 632.77, 365.16, 999.6, 578.2, 1037.59, 776.91, 1073.02 ]
+			}
+		},
+		"2": {
+			"1": {
+				"type": "path",
+				"lengths": [ 753.35, 1523.51 ],
+				"vertexCount": 6,
+				"vertices": [ 8.86, 553.2, 166.55, 532.87, 585.1, 478.92, 319.04, 1125.21, 602.93, 1201.05, 799, 1253.42 ]
+			}
+		},
+		"3": {
+			"1": {
+				"type": "path",
+				"lengths": [ 810.12, 1589.52 ],
+				"vertexCount": 6,
+				"vertices": [ 2.56, 515.86, 159.78, 541.42, 886.02, 659.46, 120.9, 920.73, 570.6, 1213.99, 740.59, 1324.84 ]
+			}
+		},
+		"4": {
+			"1": {
+				"type": "path",
+				"lengths": [ 875.04, 1648.36 ],
+				"vertexCount": 6,
+				"vertices": [ 303.56, 424.54, 190.16, 536.07, 12.56, 710.75, 166.71, 1181.22, 698.12, 1196.77, 903.13, 1202.77 ]
+			}
+		},
+		"5": {
+			"1": {
+				"type": "path",
+				"lengths": [ 639.18, 1386.91 ],
+				"vertexCount": 6,
+				"vertices": [ 242.57, 384.47, 239.56, 543.56, 233.97, 838.96, 267.43, 961.38, 538.12, 1185.02, 695.98, 1315.44 ]
+			}
+		},
+		"images/Energy 036 Ray Right/Energy 036 Ray Right_00": {
+			"images/Energy 036 Ray Right/Energy 036 Ray Right_00": { "x": 8.5, "rotation": -90, "width": 40, "height": 90 },
+			"images/Energy 036 Ray Right/Energy 036 Ray Right_01": { "x": 8.5, "rotation": -90, "width": 40, "height": 90 },
+			"images/Energy 036 Ray Right/Energy 036 Ray Right_02": { "x": 8.5, "rotation": -90, "width": 40, "height": 90 },
+			"images/Energy 036 Ray Right/Energy 036 Ray Right_03": { "x": 8.5, "rotation": -90, "width": 40, "height": 90 },
+			"images/Energy 036 Ray Right/Energy 036 Ray Right_04": { "x": 8.5, "rotation": -90, "width": 40, "height": 90 },
+			"images/Energy 036 Ray Right/Energy 036 Ray Right_05": { "x": 8.5, "rotation": -90, "width": 40, "height": 90 },
+			"images/Energy 036 Ray Right/Energy 036 Ray Right_06": { "x": 8.5, "rotation": -90, "width": 40, "height": 90 },
+			"images/Energy 036 Ray Right/Energy 036 Ray Right_07": { "x": 8.5, "rotation": -90, "width": 40, "height": 90 },
+			"images/Energy 036 Ray Right/Energy 036 Ray Right_08": { "x": 8.5, "rotation": -90, "width": 40, "height": 90 },
+			"images/Energy 036 Ray Right/Energy 036 Ray Right_09": { "x": 8.5, "rotation": -90, "width": 40, "height": 90 }
+		},
+		"images/HD_sheyao #916655/HD_sheyao #916655_000": {
+			"images/HD_sheyao #916655/HD_sheyao #916655_000": { "y": -1.41, "width": 145, "height": 33 },
+			"images/HD_sheyao #916655/HD_sheyao #916655_001": { "y": -1.41, "width": 145, "height": 33 },
+			"images/HD_sheyao #916655/HD_sheyao #916655_002": { "y": -1.41, "width": 145, "height": 33 },
+			"images/HD_sheyao #916655/HD_sheyao #916655_003": { "y": -1.41, "width": 145, "height": 33 },
+			"images/HD_sheyao #916655/HD_sheyao #916655_004": { "y": -1.41, "width": 145, "height": 33 },
+			"images/HD_sheyao #916655/HD_sheyao #916655_005": { "y": -1.41, "width": 145, "height": 33 }
+		},
+		"images/Motion Stroke 03 Comp/Motion Stroke 03 Comp_01": {
+			"images/Motion Stroke 03 Comp/Motion Stroke 03 Comp_01": { "y": 7.17, "width": 172, "height": 58 },
+			"images/Motion Stroke 03 Comp/Motion Stroke 03 Comp_02": { "y": 7.17, "width": 172, "height": 58 },
+			"images/Motion Stroke 03 Comp/Motion Stroke 03 Comp_03": { "y": 7.17, "width": 172, "height": 58 },
+			"images/Motion Stroke 03 Comp/Motion Stroke 03 Comp_04": { "y": 7.17, "width": 172, "height": 58 },
+			"images/Motion Stroke 03 Comp/Motion Stroke 03 Comp_05": { "y": 7.17, "width": 172, "height": 58 },
+			"images/Motion Stroke 03 Comp/Motion Stroke 03 Comp_06": { "y": 7.17, "width": 172, "height": 58 },
+			"images/Motion Stroke 03 Comp/Motion Stroke 03 Comp_07": { "y": 7.17, "width": 172, "height": 58 },
+			"images/Motion Stroke 03 Comp/Motion Stroke 03 Comp_08": { "y": 7.17, "width": 172, "height": 58 },
+			"images/Motion Stroke 03 Comp/Motion Stroke 03 Comp_09": { "y": 7.17, "width": 172, "height": 58 },
+			"images/Motion Stroke 03 Comp/Motion Stroke 03 Comp_10": { "y": 7.17, "width": 172, "height": 58 },
+			"images/Motion Stroke 03 Comp/Motion Stroke 03 Comp_11": { "y": 7.17, "width": 172, "height": 58 },
+			"images/Motion Stroke 03 Comp/Motion Stroke 03 Comp_12": { "y": 7.17, "width": 172, "height": 58 },
+			"images/Motion Stroke 03 Comp/Motion Stroke 03 Comp_13": { "y": 7.17, "width": 172, "height": 58 },
+			"images/Motion Stroke 03 Comp/Motion Stroke 03 Comp_14": { "y": 7.17, "width": 172, "height": 58 },
+			"images/Motion Stroke 03 Comp/Motion Stroke 03 Comp_15": { "y": 7.17, "width": 172, "height": 58 },
+			"images/Motion Stroke 03 Comp/Motion Stroke 03 Comp_16": { "y": 7.17, "width": 172, "height": 58 },
+			"images/Motion Stroke 03 Comp/Motion Stroke 03 Comp_17": { "y": 7.17, "width": 172, "height": 58 },
+			"images/Motion Stroke 03 Comp/Motion Stroke 03 Comp_18": { "y": 7.17, "width": 172, "height": 58 },
+			"images/Motion Stroke 03 Comp/Motion Stroke 03 Comp_19": { "y": 7.17, "width": 172, "height": 58 }
+		},
+		"images/Motion Stroke 03 Comp/Motion Stroke 03 Comp_1": {
+			"images/Motion Stroke 03 Comp/Motion Stroke 03 Comp_01": { "y": 7.17, "width": 172, "height": 58 },
+			"images/Motion Stroke 03 Comp/Motion Stroke 03 Comp_02": { "y": 7.17, "width": 172, "height": 58 },
+			"images/Motion Stroke 03 Comp/Motion Stroke 03 Comp_03": { "y": 7.17, "width": 172, "height": 58 },
+			"images/Motion Stroke 03 Comp/Motion Stroke 03 Comp_04": { "y": 7.17, "width": 172, "height": 58 },
+			"images/Motion Stroke 03 Comp/Motion Stroke 03 Comp_05": { "y": 7.17, "width": 172, "height": 58 },
+			"images/Motion Stroke 03 Comp/Motion Stroke 03 Comp_06": { "y": 7.17, "width": 172, "height": 58 },
+			"images/Motion Stroke 03 Comp/Motion Stroke 03 Comp_07": { "y": 7.17, "width": 172, "height": 58 },
+			"images/Motion Stroke 03 Comp/Motion Stroke 03 Comp_08": { "y": 7.17, "width": 172, "height": 58 },
+			"images/Motion Stroke 03 Comp/Motion Stroke 03 Comp_09": { "y": 7.17, "width": 172, "height": 58 },
+			"images/Motion Stroke 03 Comp/Motion Stroke 03 Comp_10": { "y": 7.17, "width": 172, "height": 58 },
+			"images/Motion Stroke 03 Comp/Motion Stroke 03 Comp_11": { "y": 7.17, "width": 172, "height": 58 },
+			"images/Motion Stroke 03 Comp/Motion Stroke 03 Comp_12": { "y": 7.17, "width": 172, "height": 58 },
+			"images/Motion Stroke 03 Comp/Motion Stroke 03 Comp_13": { "y": 7.17, "width": 172, "height": 58 },
+			"images/Motion Stroke 03 Comp/Motion Stroke 03 Comp_14": { "y": 7.17, "width": 172, "height": 58 },
+			"images/Motion Stroke 03 Comp/Motion Stroke 03 Comp_15": { "y": 7.17, "width": 172, "height": 58 },
+			"images/Motion Stroke 03 Comp/Motion Stroke 03 Comp_16": { "y": 7.17, "width": 172, "height": 58 },
+			"images/Motion Stroke 03 Comp/Motion Stroke 03 Comp_17": { "y": 7.17, "width": 172, "height": 58 },
+			"images/Motion Stroke 03 Comp/Motion Stroke 03 Comp_18": { "y": 7.17, "width": 172, "height": 58 },
+			"images/Motion Stroke 03 Comp/Motion Stroke 03 Comp_19": { "y": 7.17, "width": 172, "height": 58 }
+		},
+		"images/Motion Stroke 03 Comp/Motion Stroke 03 Comp_2": {
+			"images/Motion Stroke 03 Comp/Motion Stroke 03 Comp_01": { "y": 7.17, "width": 172, "height": 58 },
+			"images/Motion Stroke 03 Comp/Motion Stroke 03 Comp_02": { "y": 7.17, "width": 172, "height": 58 },
+			"images/Motion Stroke 03 Comp/Motion Stroke 03 Comp_03": { "y": 7.17, "width": 172, "height": 58 },
+			"images/Motion Stroke 03 Comp/Motion Stroke 03 Comp_04": { "y": 7.17, "width": 172, "height": 58 },
+			"images/Motion Stroke 03 Comp/Motion Stroke 03 Comp_05": { "y": 7.17, "width": 172, "height": 58 },
+			"images/Motion Stroke 03 Comp/Motion Stroke 03 Comp_06": { "y": 7.17, "width": 172, "height": 58 },
+			"images/Motion Stroke 03 Comp/Motion Stroke 03 Comp_07": { "y": 7.17, "width": 172, "height": 58 },
+			"images/Motion Stroke 03 Comp/Motion Stroke 03 Comp_08": { "y": 7.17, "width": 172, "height": 58 },
+			"images/Motion Stroke 03 Comp/Motion Stroke 03 Comp_09": { "y": 7.17, "width": 172, "height": 58 },
+			"images/Motion Stroke 03 Comp/Motion Stroke 03 Comp_10": { "y": 7.17, "width": 172, "height": 58 },
+			"images/Motion Stroke 03 Comp/Motion Stroke 03 Comp_11": { "y": 7.17, "width": 172, "height": 58 },
+			"images/Motion Stroke 03 Comp/Motion Stroke 03 Comp_12": { "y": 7.17, "width": 172, "height": 58 },
+			"images/Motion Stroke 03 Comp/Motion Stroke 03 Comp_13": { "y": 7.17, "width": 172, "height": 58 },
+			"images/Motion Stroke 03 Comp/Motion Stroke 03 Comp_14": { "y": 7.17, "width": 172, "height": 58 },
+			"images/Motion Stroke 03 Comp/Motion Stroke 03 Comp_15": { "y": 7.17, "width": 172, "height": 58 },
+			"images/Motion Stroke 03 Comp/Motion Stroke 03 Comp_16": { "y": 7.17, "width": 172, "height": 58 },
+			"images/Motion Stroke 03 Comp/Motion Stroke 03 Comp_17": { "y": 7.17, "width": 172, "height": 58 },
+			"images/Motion Stroke 03 Comp/Motion Stroke 03 Comp_18": { "y": 7.17, "width": 172, "height": 58 },
+			"images/Motion Stroke 03 Comp/Motion Stroke 03 Comp_19": { "y": 7.17, "width": 172, "height": 58 }
+		},
+		"images/Particle_Moth_01/Particle_Moth_01_0": {
+			"images/Particle_Moth_01/Particle_Moth_01_000": { "y": 1.09, "rotation": 180, "width": 64, "height": 64 },
+			"images/Particle_Moth_01/Particle_Moth_01_001": { "y": 1.09, "rotation": 180, "width": 64, "height": 64 },
+			"images/Particle_Moth_01/Particle_Moth_01_002": { "y": 1.09, "rotation": 180, "width": 64, "height": 64 },
+			"images/Particle_Moth_01/Particle_Moth_01_003": { "y": 1.09, "rotation": 180, "width": 64, "height": 64 }
+		},
+		"images/Particle_Moth_01/Particle_Moth_01_000": {
+			"images/Particle_Moth_01/Particle_Moth_01_000": { "y": 1.09, "rotation": 180, "width": 64, "height": 64 },
+			"images/Particle_Moth_01/Particle_Moth_01_001": { "y": 1.09, "rotation": 180, "width": 64, "height": 64 },
+			"images/Particle_Moth_01/Particle_Moth_01_002": { "y": 1.09, "rotation": 180, "width": 64, "height": 64 },
+			"images/Particle_Moth_01/Particle_Moth_01_003": { "y": 1.09, "rotation": 180, "width": 64, "height": 64 }
+		},
+		"images/Particle_Moth_01/Particle_Moth_01_1": {
+			"images/Particle_Moth_01/Particle_Moth_01_000": { "y": 1.09, "rotation": 180, "width": 64, "height": 64 },
+			"images/Particle_Moth_01/Particle_Moth_01_001": { "y": 1.09, "rotation": 180, "width": 64, "height": 64 },
+			"images/Particle_Moth_01/Particle_Moth_01_002": { "y": 1.09, "rotation": 180, "width": 64, "height": 64 },
+			"images/Particle_Moth_01/Particle_Moth_01_003": { "y": 1.09, "rotation": 180, "width": 64, "height": 64 }
+		},
+		"images/Particle_Moth_01/Particle_Moth_01_3": {
+			"images/Particle_Moth_01/Particle_Moth_01_000": { "y": 1.09, "rotation": 180, "width": 64, "height": 64 },
+			"images/Particle_Moth_01/Particle_Moth_01_001": { "y": 1.09, "rotation": 180, "width": 64, "height": 64 },
+			"images/Particle_Moth_01/Particle_Moth_01_002": { "y": 1.09, "rotation": 180, "width": 64, "height": 64 },
+			"images/Particle_Moth_01/Particle_Moth_01_003": { "y": 1.09, "rotation": 180, "width": 64, "height": 64 }
+		},
+		"images/Particle_Moth_01/Particle_Moth_01_4": {
+			"images/Particle_Moth_01/Particle_Moth_01_000": { "y": 1.09, "rotation": 180, "width": 64, "height": 64 },
+			"images/Particle_Moth_01/Particle_Moth_01_001": { "y": 1.09, "rotation": 180, "width": 64, "height": 64 },
+			"images/Particle_Moth_01/Particle_Moth_01_002": { "y": 1.09, "rotation": 180, "width": 64, "height": 64 },
+			"images/Particle_Moth_01/Particle_Moth_01_003": { "y": 1.09, "rotation": 180, "width": 64, "height": 64 }
+		},
+		"images/huaban/huaban_00": {
+			"images/huaban/huaban_00": { "y": -0.57, "rotation": 180, "width": 94, "height": 167 },
+			"images/huaban/huaban_01": { "y": -0.57, "rotation": 180, "width": 94, "height": 167 },
+			"images/huaban/huaban_02": { "y": -0.57, "rotation": 180, "width": 94, "height": 167 },
+			"images/huaban/huaban_03": { "y": -0.57, "rotation": 180, "width": 94, "height": 167 },
+			"images/huaban/huaban_04": { "y": -0.57, "rotation": 180, "width": 94, "height": 167 },
+			"images/huaban/huaban_05": { "y": -0.57, "rotation": 180, "width": 94, "height": 167 },
+			"images/huaban/huaban_06": { "y": -0.57, "rotation": 180, "width": 94, "height": 167 },
+			"images/huaban/huaban_07": { "y": -0.57, "rotation": 180, "width": 94, "height": 167 },
+			"images/huaban/huaban_08": { "y": -0.57, "rotation": 180, "width": 94, "height": 167 },
+			"images/huaban/huaban_09": { "y": -0.57, "rotation": 180, "width": 94, "height": 167 },
+			"images/huaban/huaban_10": { "y": -0.57, "rotation": 180, "width": 94, "height": 167 },
+			"images/huaban/huaban_11": { "y": -0.57, "rotation": 180, "width": 94, "height": 167 },
+			"images/huaban/huaban_12": { "y": -0.57, "rotation": 180, "width": 94, "height": 167 },
+			"images/huaban/huaban_13": { "y": -0.57, "rotation": 180, "width": 94, "height": 167 },
+			"images/huaban/huaban_14": { "y": -0.57, "rotation": 180, "width": 94, "height": 167 },
+			"images/huaban/huaban_15": { "y": -0.57, "rotation": 180, "width": 94, "height": 167 },
+			"images/huaban/huaban_16": { "y": -0.57, "rotation": 180, "width": 94, "height": 167 },
+			"images/huaban/huaban_17": { "y": -0.57, "rotation": 180, "width": 94, "height": 167 },
+			"images/huaban/huaban_18": { "y": -0.57, "rotation": 180, "width": 94, "height": 167 },
+			"images/huaban/huaban_19": { "y": -0.57, "rotation": 180, "width": 94, "height": 167 },
+			"images/huaban/huaban_20": { "y": -0.57, "rotation": 180, "width": 94, "height": 167 },
+			"images/huaban/huaban_21": { "y": -0.57, "rotation": 180, "width": 94, "height": 167 },
+			"images/huaban/huaban_22": { "y": -0.57, "rotation": 180, "width": 94, "height": 167 },
+			"images/huaban/huaban_23": { "y": -0.57, "rotation": 180, "width": 94, "height": 167 },
+			"images/huaban/huaban_24": { "y": -0.57, "rotation": 180, "width": 94, "height": 167 },
+			"images/huaban/huaban_25": { "y": -0.57, "rotation": 180, "width": 94, "height": 167 },
+			"images/huaban/huaban_26": { "y": -0.57, "rotation": 180, "width": 94, "height": 167 },
+			"images/huaban/huaban_27": { "y": -0.57, "rotation": 180, "width": 94, "height": 167 },
+			"images/huaban/huaban_28": { "y": -0.57, "rotation": 180, "width": 94, "height": 167 },
+			"images/huaban/huaban_29": { "y": -0.57, "rotation": 180, "width": 94, "height": 167 },
+			"images/huaban/huaban_30": { "y": -0.57, "rotation": 180, "width": 94, "height": 167 },
+			"images/huaban/huaban_31": { "y": -0.57, "rotation": 180, "width": 94, "height": 167 },
+			"images/huaban/huaban_32": { "y": -0.57, "rotation": 180, "width": 94, "height": 167 },
+			"images/huaban/huaban_33": { "y": -0.57, "rotation": 180, "width": 94, "height": 167 },
+			"images/huaban/huaban_34": { "y": -0.57, "rotation": 180, "width": 94, "height": 167 },
+			"images/huaban/huaban_35": { "y": -0.57, "rotation": 180, "width": 94, "height": 167 },
+			"images/huaban/huaban_36": { "y": -0.57, "rotation": 180, "width": 94, "height": 167 },
+			"images/huaban/huaban_37": { "y": -0.57, "rotation": 180, "width": 94, "height": 167 },
+			"images/huaban/huaban_38": { "y": -0.57, "rotation": 180, "width": 94, "height": 167 },
+			"images/huaban/huaban_39": { "y": -0.57, "rotation": 180, "width": 94, "height": 167 },
+			"images/huaban/huaban_40": { "y": -0.57, "rotation": 180, "width": 94, "height": 167 },
+			"images/huaban/huaban_41": { "y": -0.57, "rotation": 180, "width": 94, "height": 167 },
+			"images/huaban/huaban_42": { "y": -0.57, "rotation": 180, "width": 94, "height": 167 },
+			"images/huaban/huaban_43": { "y": -0.57, "rotation": 180, "width": 94, "height": 167 },
+			"images/huaban/huaban_44": { "y": -0.57, "rotation": 180, "width": 94, "height": 167 },
+			"images/huaban/huaban_45": { "y": -0.57, "rotation": 180, "width": 94, "height": 167 },
+			"images/huaban/huaban_46": { "y": -0.57, "rotation": 180, "width": 94, "height": 167 },
+			"images/huaban/huaban_47": { "y": -0.57, "rotation": 180, "width": 94, "height": 167 },
+			"images/huaban/huaban_48": { "y": -0.57, "rotation": 180, "width": 94, "height": 167 },
+			"images/huaban/huaban_49": { "y": -0.57, "rotation": 180, "width": 94, "height": 167 },
+			"images/huaban/huaban_50": { "y": -0.57, "rotation": 180, "width": 94, "height": 167 },
+			"images/huaban/huaban_51": { "y": -0.57, "rotation": 180, "width": 94, "height": 167 },
+			"images/huaban/huaban_52": { "y": -0.57, "rotation": 180, "width": 94, "height": 167 },
+			"images/huaban/huaban_53": { "y": -0.57, "rotation": 180, "width": 94, "height": 167 },
+			"images/huaban/huaban_54": { "y": -0.57, "rotation": 180, "width": 94, "height": 167 },
+			"images/huaban/huaban_55": { "y": -0.57, "rotation": 180, "width": 94, "height": 167 },
+			"images/huaban/huaban_56": { "y": -0.57, "rotation": 180, "width": 94, "height": 167 },
+			"images/huaban/huaban_57": { "y": -0.57, "rotation": 180, "width": 94, "height": 167 },
+			"images/huaban/huaban_58": { "y": -0.57, "rotation": 180, "width": 94, "height": 167 },
+			"images/huaban/huaban_59": { "y": -0.57, "rotation": 180, "width": 94, "height": 167 },
+			"images/huaban/huaban_60": { "y": -0.57, "rotation": 180, "width": 94, "height": 167 },
+			"images/huaban/huaban_61": { "y": -0.57, "rotation": 180, "width": 94, "height": 167 },
+			"images/huaban/huaban_62": { "y": -0.57, "rotation": 180, "width": 94, "height": 167 },
+			"images/huaban/huaban_63": { "y": -0.57, "rotation": 180, "width": 94, "height": 167 },
+			"images/huaban/huaban_64": { "y": -0.57, "rotation": 180, "width": 94, "height": 167 },
+			"images/huaban/huaban_65": { "y": -0.57, "rotation": 180, "width": 94, "height": 167 },
+			"images/huaban/huaban_66": { "y": -0.57, "rotation": 180, "width": 94, "height": 167 },
+			"images/huaban/huaban_67": { "y": -0.57, "rotation": 180, "width": 94, "height": 167 },
+			"images/huaban/huaban_68": { "y": -0.57, "rotation": 180, "width": 94, "height": 167 },
+			"images/huaban/huaban_69": { "y": -0.57, "rotation": 180, "width": 94, "height": 167 },
+			"images/huaban/huaban_70": { "y": -0.57, "rotation": 180, "width": 94, "height": 167 },
+			"images/huaban/huaban_71": { "y": -0.57, "rotation": 180, "width": 94, "height": 167 },
+			"images/huaban/huaban_72": { "y": -0.57, "rotation": 180, "width": 94, "height": 167 },
+			"images/huaban/huaban_73": { "y": -0.57, "rotation": 180, "width": 94, "height": 167 },
+			"images/huaban/huaban_74": { "y": -0.57, "rotation": 180, "width": 94, "height": 167 },
+			"images/huaban/huaban_75": { "y": -0.57, "rotation": 180, "width": 94, "height": 167 },
+			"images/huaban/huaban_76": { "y": -0.57, "rotation": 180, "width": 94, "height": 167 },
+			"images/huaban/huaban_77": { "y": -0.57, "rotation": 180, "width": 94, "height": 167 },
+			"images/huaban/huaban_78": { "y": -0.57, "rotation": 180, "width": 94, "height": 167 },
+			"images/huaban/huaban_79": { "y": -0.57, "rotation": 180, "width": 94, "height": 167 },
+			"images/huaban/huaban_80": { "y": -0.57, "rotation": 180, "width": 94, "height": 167 },
+			"images/huaban/huaban_81": { "y": -0.57, "rotation": 180, "width": 94, "height": 167 },
+			"images/huaban/huaban_82": { "y": -0.57, "rotation": 180, "width": 94, "height": 167 },
+			"images/huaban/huaban_83": { "y": -0.57, "rotation": 180, "width": 94, "height": 167 },
+			"images/huaban/huaban_84": { "y": -0.57, "rotation": 180, "width": 94, "height": 167 },
+			"images/huaban/huaban_85": { "y": -0.57, "rotation": 180, "width": 94, "height": 167 },
+			"images/huaban/huaban_86": { "y": -0.57, "rotation": 180, "width": 94, "height": 167 },
+			"images/huaban/huaban_87": { "y": -0.57, "rotation": 180, "width": 94, "height": 167 },
+			"images/huaban/huaban_88": { "y": -0.57, "rotation": 180, "width": 94, "height": 167 },
+			"images/huaban/huaban_89": { "y": -0.57, "rotation": 180, "width": 94, "height": 167 },
+			"images/huaban/huaban_90": { "y": -0.57, "rotation": 180, "width": 94, "height": 167 },
+			"images/huaban/huaban_91": { "y": -0.57, "rotation": 180, "width": 94, "height": 167 },
+			"images/huaban/huaban_92": { "y": -0.57, "rotation": 180, "width": 94, "height": 167 },
+			"images/huaban/huaban_93": { "y": -0.57, "rotation": 180, "width": 94, "height": 167 },
+			"images/huaban/huaban_94": { "y": -0.57, "rotation": 180, "width": 94, "height": 167 },
+			"images/huaban/huaban_95": { "y": -0.57, "rotation": 180, "width": 94, "height": 167 },
+			"images/huaban/huaban_96": { "y": -0.57, "rotation": 180, "width": 94, "height": 167 },
+			"images/huaban/huaban_97": { "y": -0.57, "rotation": 180, "width": 94, "height": 167 },
+			"images/huaban/huaban_98": { "y": -0.57, "rotation": 180, "width": 94, "height": 167 },
+			"images/huaban/huaban_99": { "y": -0.57, "rotation": 180, "width": 94, "height": 167 }
+		},
+		"images/s_sequence_407/s_sequence_407_000": {
+			"images/s_sequence_407/s_sequence_407_000": { "y": 1.41, "rotation": 180, "width": 128, "height": 128 },
+			"images/s_sequence_407/s_sequence_407_001": { "y": 1.41, "rotation": 180, "width": 128, "height": 128 },
+			"images/s_sequence_407/s_sequence_407_002": { "y": 1.41, "rotation": 180, "width": 128, "height": 128 },
+			"images/s_sequence_407/s_sequence_407_003": { "y": 1.41, "rotation": 180, "width": 128, "height": 128 }
+		}
+	}
+},
+"animations": {
+	"huanxing": {
+		"slots": {
+			"images/Energy 036 Ray Right/Energy 036 Ray Right_00": {
+				"attachment": [
+					{ "time": 1.3333, "name": "images/Energy 036 Ray Right/Energy 036 Ray Right_09" },
+					{ "time": 1.3667, "name": "images/Energy 036 Ray Right/Energy 036 Ray Right_08" },
+					{ "time": 1.4, "name": "images/Energy 036 Ray Right/Energy 036 Ray Right_07" },
+					{ "time": 1.4333, "name": "images/Energy 036 Ray Right/Energy 036 Ray Right_06" },
+					{ "time": 1.4667, "name": "images/Energy 036 Ray Right/Energy 036 Ray Right_05" },
+					{ "time": 1.5, "name": "images/Energy 036 Ray Right/Energy 036 Ray Right_04" },
+					{ "time": 1.5333, "name": "images/Energy 036 Ray Right/Energy 036 Ray Right_03" },
+					{ "time": 1.5667, "name": "images/Energy 036 Ray Right/Energy 036 Ray Right_02" },
+					{ "time": 1.6, "name": "images/Energy 036 Ray Right/Energy 036 Ray Right_01" },
+					{ "time": 1.6333, "name": "images/Energy 036 Ray Right/Energy 036 Ray Right_00" },
+					{ "time": 1.6667, "name": null }
+				]
+			},
+			"images/HD_sheyao #916655/HD_sheyao #916655_000": {
+				"attachment": [
+					{ "time": 0.5, "name": "images/HD_sheyao #916655/HD_sheyao #916655_000" },
+					{ "time": 0.5667, "name": "images/HD_sheyao #916655/HD_sheyao #916655_001" },
+					{ "time": 0.6333, "name": "images/HD_sheyao #916655/HD_sheyao #916655_002" },
+					{ "time": 0.7, "name": "images/HD_sheyao #916655/HD_sheyao #916655_003" },
+					{ "time": 0.7667, "name": "images/HD_sheyao #916655/HD_sheyao #916655_004" },
+					{ "time": 0.8333, "name": "images/HD_sheyao #916655/HD_sheyao #916655_005" },
+					{ "time": 0.9, "name": null }
+				]
+			},
+			"images/Motion Stroke 03 Comp/Motion Stroke 03 Comp_01": {
+				"attachment": [
+					{ "time": 1.6667, "name": "images/Motion Stroke 03 Comp/Motion Stroke 03 Comp_01" },
+					{ "time": 1.7333, "name": "images/Motion Stroke 03 Comp/Motion Stroke 03 Comp_02" },
+					{ "time": 1.8, "name": "images/Motion Stroke 03 Comp/Motion Stroke 03 Comp_03" },
+					{ "time": 1.8667, "name": "images/Motion Stroke 03 Comp/Motion Stroke 03 Comp_04" },
+					{ "time": 1.9333, "name": "images/Motion Stroke 03 Comp/Motion Stroke 03 Comp_05" },
+					{ "time": 2, "name": "images/Motion Stroke 03 Comp/Motion Stroke 03 Comp_06" },
+					{ "time": 2.0667, "name": "images/Motion Stroke 03 Comp/Motion Stroke 03 Comp_07" },
+					{ "time": 2.1333, "name": "images/Motion Stroke 03 Comp/Motion Stroke 03 Comp_08" },
+					{ "time": 2.2, "name": "images/Motion Stroke 03 Comp/Motion Stroke 03 Comp_09" },
+					{ "time": 2.2667, "name": "images/Motion Stroke 03 Comp/Motion Stroke 03 Comp_10" },
+					{ "time": 2.3333, "name": "images/Motion Stroke 03 Comp/Motion Stroke 03 Comp_11" },
+					{ "time": 2.4, "name": "images/Motion Stroke 03 Comp/Motion Stroke 03 Comp_12" },
+					{ "time": 2.4667, "name": "images/Motion Stroke 03 Comp/Motion Stroke 03 Comp_13" },
+					{ "time": 2.5333, "name": "images/Motion Stroke 03 Comp/Motion Stroke 03 Comp_14" },
+					{ "time": 2.6, "name": "images/Motion Stroke 03 Comp/Motion Stroke 03 Comp_15" },
+					{ "time": 2.6667, "name": "images/Motion Stroke 03 Comp/Motion Stroke 03 Comp_16" },
+					{ "time": 2.7333, "name": "images/Motion Stroke 03 Comp/Motion Stroke 03 Comp_17" },
+					{ "time": 2.8, "name": "images/Motion Stroke 03 Comp/Motion Stroke 03 Comp_18" },
+					{ "time": 2.8667, "name": "images/Motion Stroke 03 Comp/Motion Stroke 03 Comp_19" },
+					{ "time": 2.9333, "name": null }
+				]
+			},
+			"images/Motion Stroke 03 Comp/Motion Stroke 03 Comp_1": {
+				"attachment": [
+					{ "time": 1.7333, "name": "images/Motion Stroke 03 Comp/Motion Stroke 03 Comp_01" },
+					{ "time": 1.8, "name": "images/Motion Stroke 03 Comp/Motion Stroke 03 Comp_02" },
+					{ "time": 1.8667, "name": "images/Motion Stroke 03 Comp/Motion Stroke 03 Comp_03" },
+					{ "time": 1.9333, "name": "images/Motion Stroke 03 Comp/Motion Stroke 03 Comp_04" },
+					{ "time": 2, "name": "images/Motion Stroke 03 Comp/Motion Stroke 03 Comp_05" },
+					{ "time": 2.0667, "name": "images/Motion Stroke 03 Comp/Motion Stroke 03 Comp_06" },
+					{ "time": 2.1333, "name": "images/Motion Stroke 03 Comp/Motion Stroke 03 Comp_07" },
+					{ "time": 2.2, "name": "images/Motion Stroke 03 Comp/Motion Stroke 03 Comp_08" },
+					{ "time": 2.2667, "name": "images/Motion Stroke 03 Comp/Motion Stroke 03 Comp_09" },
+					{ "time": 2.3333, "name": "images/Motion Stroke 03 Comp/Motion Stroke 03 Comp_10" },
+					{ "time": 2.4, "name": "images/Motion Stroke 03 Comp/Motion Stroke 03 Comp_11" },
+					{ "time": 2.4667, "name": "images/Motion Stroke 03 Comp/Motion Stroke 03 Comp_12" },
+					{ "time": 2.5333, "name": "images/Motion Stroke 03 Comp/Motion Stroke 03 Comp_13" },
+					{ "time": 2.6, "name": "images/Motion Stroke 03 Comp/Motion Stroke 03 Comp_14" },
+					{ "time": 2.6667, "name": "images/Motion Stroke 03 Comp/Motion Stroke 03 Comp_15" },
+					{ "time": 2.7333, "name": "images/Motion Stroke 03 Comp/Motion Stroke 03 Comp_16" },
+					{ "time": 2.8, "name": "images/Motion Stroke 03 Comp/Motion Stroke 03 Comp_17" },
+					{ "time": 2.8667, "name": "images/Motion Stroke 03 Comp/Motion Stroke 03 Comp_18" },
+					{ "time": 2.9333, "name": "images/Motion Stroke 03 Comp/Motion Stroke 03 Comp_19" },
+					{ "time": 3, "name": null }
+				]
+			},
+			"images/Motion Stroke 03 Comp/Motion Stroke 03 Comp_2": {
+				"attachment": [
+					{ "time": 1.6333, "name": "images/Motion Stroke 03 Comp/Motion Stroke 03 Comp_01" },
+					{ "time": 1.7, "name": "images/Motion Stroke 03 Comp/Motion Stroke 03 Comp_02" },
+					{ "time": 1.7667, "name": "images/Motion Stroke 03 Comp/Motion Stroke 03 Comp_03" },
+					{ "time": 1.8333, "name": "images/Motion Stroke 03 Comp/Motion Stroke 03 Comp_04" },
+					{ "time": 1.9, "name": "images/Motion Stroke 03 Comp/Motion Stroke 03 Comp_05" },
+					{ "time": 1.9667, "name": "images/Motion Stroke 03 Comp/Motion Stroke 03 Comp_06" },
+					{ "time": 2.0333, "name": "images/Motion Stroke 03 Comp/Motion Stroke 03 Comp_07" },
+					{ "time": 2.1, "name": "images/Motion Stroke 03 Comp/Motion Stroke 03 Comp_08" },
+					{ "time": 2.1667, "name": "images/Motion Stroke 03 Comp/Motion Stroke 03 Comp_09" },
+					{ "time": 2.2333, "name": "images/Motion Stroke 03 Comp/Motion Stroke 03 Comp_10" },
+					{ "time": 2.3, "name": "images/Motion Stroke 03 Comp/Motion Stroke 03 Comp_11" },
+					{ "time": 2.3667, "name": "images/Motion Stroke 03 Comp/Motion Stroke 03 Comp_12" },
+					{ "time": 2.4333, "name": "images/Motion Stroke 03 Comp/Motion Stroke 03 Comp_13" },
+					{ "time": 2.5, "name": "images/Motion Stroke 03 Comp/Motion Stroke 03 Comp_14" },
+					{ "time": 2.5667, "name": "images/Motion Stroke 03 Comp/Motion Stroke 03 Comp_15" },
+					{ "time": 2.6333, "name": "images/Motion Stroke 03 Comp/Motion Stroke 03 Comp_16" },
+					{ "time": 2.7, "name": "images/Motion Stroke 03 Comp/Motion Stroke 03 Comp_17" },
+					{ "time": 2.7667, "name": "images/Motion Stroke 03 Comp/Motion Stroke 03 Comp_18" },
+					{ "time": 2.8333, "name": "images/Motion Stroke 03 Comp/Motion Stroke 03 Comp_19" },
+					{ "time": 2.9, "name": null }
+				]
+			},
+			"images/Particle_Moth_01/Particle_Moth_01_000": {
+				"color": [
+					{ "time": 2.5667, "color": "ffffffff" },
+					{ "time": 3.1, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 2, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 2.0333, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 2.0667, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 2.1, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 2.1333, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 2.1667, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 2.2, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 2.2333, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 2.2667, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 2.3, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 2.3333, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 2.3667, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 2.4, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 2.4333, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 2.4667, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 2.5, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 2.5333, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 2.5667, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 2.6, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 2.6333, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 2.6667, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 2.7, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 2.7333, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 2.7667, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 2.8, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 2.8333, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 2.8667, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 2.9, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 2.9333, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 2.9667, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 3, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 3.0333, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 3.0667, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 3.1, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 3.1333, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 3.1667, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 3.2, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 3.2333, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 3.2667, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 3.3, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 3.3333, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 3.3667, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 3.4, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 3.4333, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 3.4667, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 3.5, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 3.5333, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 3.5667, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 3.6, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 3.6333, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 3.6667, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 3.7, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 3.7333, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 3.7667, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 3.8, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 3.8333, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 3.8667, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 3.9, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 3.9333, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 3.9667, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 4, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 4.0333, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 4.0667, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 4.1, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 4.1333, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 4.1667, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 4.2, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 4.2333, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 4.2667, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 4.3, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 4.3333, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 4.3667, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 4.4, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 4.4333, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 4.4667, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 4.5, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 4.5333, "name": "images/Particle_Moth_01/Particle_Moth_01_000" }
+				]
+			},
+			"images/Particle_Moth_01/Particle_Moth_01_0": {
+				"color": [
+					{ "time": 2.6333, "color": "c341ffff" },
+					{ "time": 2.8667, "color": "c341ff00" }
+				],
+				"attachment": [
+					{ "time": 2, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 2.0333, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 2.0667, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 2.1, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 2.1333, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 2.1667, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 2.2, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 2.2333, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 2.2667, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 2.3, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 2.3333, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 2.3667, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 2.4, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 2.4333, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 2.4667, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 2.5, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 2.5333, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 2.5667, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 2.6, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 2.6333, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 2.6667, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 2.7, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 2.7333, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 2.7667, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 2.8, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 2.8333, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 2.8667, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 2.9, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 2.9333, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 2.9667, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 3, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 3.0333, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 3.0667, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 3.1, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 3.1333, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 3.1667, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 3.2, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 3.2333, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 3.2667, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 3.3, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 3.3333, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 3.3667, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 3.4, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 3.4333, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 3.4667, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 3.5, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 3.5333, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 3.5667, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 3.6, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 3.6333, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 3.6667, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 3.7, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 3.7333, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 3.7667, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 3.8, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 3.8333, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 3.8667, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 3.9, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 3.9333, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 3.9667, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 4, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 4.0333, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 4.0667, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 4.1, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 4.1333, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 4.1667, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 4.2, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 4.2333, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 4.2667, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 4.3, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 4.3333, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 4.3667, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 4.4, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 4.4333, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 4.4667, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 4.5, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 4.5333, "name": "images/Particle_Moth_01/Particle_Moth_01_000" }
+				]
+			},
+			"images/Particle_Moth_01/Particle_Moth_01_1": {
+				"color": [
+					{ "time": 2.6667, "color": "2df9ffff", "curve": "stepped" },
+					{ "time": 2.8, "color": "2df9ffff" },
+					{ "time": 3, "color": "2df9ff00", "curve": "stepped" },
+					{ "time": 3.1333, "color": "2df9ff00" }
+				],
+				"attachment": [
+					{ "time": 2, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 2.0333, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 2.0667, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 2.1, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 2.1333, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 2.1667, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 2.2, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 2.2333, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 2.2667, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 2.3, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 2.3333, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 2.3667, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 2.4, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 2.4333, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 2.4667, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 2.5, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 2.5333, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 2.5667, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 2.6, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 2.6333, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 2.6667, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 2.7, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 2.7333, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 2.7667, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 2.8, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 2.8333, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 2.8667, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 2.9, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 2.9333, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 2.9667, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 3, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 3.0333, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 3.0667, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 3.1, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 3.1333, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 3.1667, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 3.2, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 3.2333, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 3.2667, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 3.3, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 3.3333, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 3.3667, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 3.4, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 3.4333, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 3.4667, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 3.5, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 3.5333, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 3.5667, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 3.6, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 3.6333, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 3.6667, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 3.7, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 3.7333, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 3.7667, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 3.8, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 3.8333, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 3.8667, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 3.9, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 3.9333, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 3.9667, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 4, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 4.0333, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 4.0667, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 4.1, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 4.1333, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 4.1667, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 4.2, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 4.2333, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 4.2667, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 4.3, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 4.3333, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 4.3667, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 4.4, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 4.4333, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 4.4667, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 4.5, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 4.5333, "name": "images/Particle_Moth_01/Particle_Moth_01_000" }
+				]
+			},
+			"images/Particle_Moth_01/Particle_Moth_01_3": {
+				"color": [
+					{ "time": 2.5667, "color": "ffd547ff" },
+					{ "time": 2.9667, "color": "ffd54700" }
+				],
+				"attachment": [
+					{ "time": 2, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 2.0333, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 2.0667, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 2.1, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 2.1333, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 2.1667, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 2.2, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 2.2333, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 2.2667, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 2.3, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 2.3333, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 2.3667, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 2.4, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 2.4333, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 2.4667, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 2.5, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 2.5333, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 2.5667, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 2.6, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 2.6333, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 2.6667, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 2.7, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 2.7333, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 2.7667, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 2.8, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 2.8333, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 2.8667, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 2.9, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 2.9333, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 2.9667, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 3, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 3.0333, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 3.0667, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 3.1, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 3.1333, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 3.1667, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 3.2, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 3.2333, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 3.2667, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 3.3, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 3.3333, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 3.3667, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 3.4, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 3.4333, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 3.4667, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 3.5, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 3.5333, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 3.5667, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 3.6, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 3.6333, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 3.6667, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 3.7, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 3.7333, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 3.7667, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 3.8, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 3.8333, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 3.8667, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 3.9, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 3.9333, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 3.9667, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 4, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 4.0333, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 4.0667, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 4.1, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 4.1333, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 4.1667, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 4.2, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 4.2333, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 4.2667, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 4.3, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 4.3333, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 4.3667, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 4.4, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 4.4333, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 4.4667, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 4.5, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 4.5333, "name": "images/Particle_Moth_01/Particle_Moth_01_000" }
+				]
+			},
+			"images/Particle_Moth_01/Particle_Moth_01_4": {
+				"color": [
+					{ "time": 1.9, "color": "ff41a100" },
+					{ "time": 2.1667, "color": "ff41a1ff", "curve": "stepped" },
+					{ "time": 2.6667, "color": "ff41a1ff" },
+					{ "time": 3, "color": "ff41a100" }
+				],
+				"attachment": [
+					{ "time": 1.9, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 1.9333, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 1.9667, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 2, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 2.0333, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 2.0667, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 2.1, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 2.1333, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 2.1667, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 2.2, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 2.2333, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 2.2667, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 2.3, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 2.3333, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 2.3667, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 2.4, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 2.4333, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 2.4667, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 2.5, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 2.5333, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 2.5667, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 2.6, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 2.6333, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 2.6667, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 2.7, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 2.7333, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 2.7667, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 2.8, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 2.8333, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 2.8667, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 2.9, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 2.9333, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 2.9667, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 3, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 3.0333, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 3.0667, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 3.1, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 3.1333, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 3.1667, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 3.2, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 3.2333, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 3.2667, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 3.3, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 3.3333, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 3.3667, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 3.4, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 3.4333, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 3.4667, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 3.5, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 3.5333, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 3.5667, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 3.6, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 3.6333, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 3.6667, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 3.7, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 3.7333, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 3.7667, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 3.8, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 3.8333, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 3.8667, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 3.9, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 3.9333, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 3.9667, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 4, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 4.0333, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 4.0667, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 4.1, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 4.1333, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 4.1667, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 4.2, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 4.2333, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 4.2667, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 4.3, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 4.3333, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 4.3667, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 4.4, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 4.4333, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 4.4667, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 4.5, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 4.5333, "name": "images/Particle_Moth_01/Particle_Moth_01_003" }
+				]
+			},
+			"images/huaban/huaban_00": {
+				"color": [
+					{ "time": 1.1667, "color": "ffffff00" },
+					{ "time": 1.6667, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 3.6667, "color": "ffffffff" },
+					{ "time": 4.5, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 1.1667, "name": "images/huaban/huaban_00" },
+					{ "time": 1.2, "name": "images/huaban/huaban_01" },
+					{ "time": 1.2333, "name": "images/huaban/huaban_02" },
+					{ "time": 1.2667, "name": "images/huaban/huaban_03" },
+					{ "time": 1.3, "name": "images/huaban/huaban_04" },
+					{ "time": 1.3333, "name": "images/huaban/huaban_05" },
+					{ "time": 1.3667, "name": "images/huaban/huaban_06" },
+					{ "time": 1.4, "name": "images/huaban/huaban_07" },
+					{ "time": 1.4333, "name": "images/huaban/huaban_08" },
+					{ "time": 1.4667, "name": "images/huaban/huaban_09" },
+					{ "time": 1.5, "name": "images/huaban/huaban_10" },
+					{ "time": 1.5333, "name": "images/huaban/huaban_11" },
+					{ "time": 1.5667, "name": "images/huaban/huaban_12" },
+					{ "time": 1.6, "name": "images/huaban/huaban_13" },
+					{ "time": 1.6333, "name": "images/huaban/huaban_14" },
+					{ "time": 1.6667, "name": "images/huaban/huaban_15" },
+					{ "time": 1.7, "name": "images/huaban/huaban_16" },
+					{ "time": 1.7333, "name": "images/huaban/huaban_17" },
+					{ "time": 1.7667, "name": "images/huaban/huaban_18" },
+					{ "time": 1.8, "name": "images/huaban/huaban_19" },
+					{ "time": 1.8333, "name": "images/huaban/huaban_20" },
+					{ "time": 1.8667, "name": "images/huaban/huaban_21" },
+					{ "time": 1.9, "name": "images/huaban/huaban_22" },
+					{ "time": 1.9333, "name": "images/huaban/huaban_23" },
+					{ "time": 1.9667, "name": "images/huaban/huaban_24" },
+					{ "time": 2, "name": "images/huaban/huaban_25" },
+					{ "time": 2.0333, "name": "images/huaban/huaban_26" },
+					{ "time": 2.0667, "name": "images/huaban/huaban_27" },
+					{ "time": 2.1, "name": "images/huaban/huaban_28" },
+					{ "time": 2.1333, "name": "images/huaban/huaban_29" },
+					{ "time": 2.1667, "name": "images/huaban/huaban_30" },
+					{ "time": 2.2, "name": "images/huaban/huaban_31" },
+					{ "time": 2.2333, "name": "images/huaban/huaban_32" },
+					{ "time": 2.2667, "name": "images/huaban/huaban_33" },
+					{ "time": 2.3, "name": "images/huaban/huaban_34" },
+					{ "time": 2.3333, "name": "images/huaban/huaban_35" },
+					{ "time": 2.3667, "name": "images/huaban/huaban_36" },
+					{ "time": 2.4, "name": "images/huaban/huaban_37" },
+					{ "time": 2.4333, "name": "images/huaban/huaban_38" },
+					{ "time": 2.4667, "name": "images/huaban/huaban_39" },
+					{ "time": 2.5, "name": "images/huaban/huaban_40" },
+					{ "time": 2.5333, "name": "images/huaban/huaban_41" },
+					{ "time": 2.5667, "name": "images/huaban/huaban_42" },
+					{ "time": 2.6, "name": "images/huaban/huaban_43" },
+					{ "time": 2.6333, "name": "images/huaban/huaban_44" },
+					{ "time": 2.6667, "name": "images/huaban/huaban_45" },
+					{ "time": 2.7, "name": "images/huaban/huaban_46" },
+					{ "time": 2.7333, "name": "images/huaban/huaban_47" },
+					{ "time": 2.7667, "name": "images/huaban/huaban_48" },
+					{ "time": 2.8, "name": "images/huaban/huaban_49" },
+					{ "time": 2.8333, "name": "images/huaban/huaban_50" },
+					{ "time": 2.8667, "name": "images/huaban/huaban_51" },
+					{ "time": 2.9, "name": "images/huaban/huaban_52" },
+					{ "time": 2.9333, "name": "images/huaban/huaban_53" },
+					{ "time": 2.9667, "name": "images/huaban/huaban_54" },
+					{ "time": 3, "name": "images/huaban/huaban_55" },
+					{ "time": 3.0333, "name": "images/huaban/huaban_56" },
+					{ "time": 3.0667, "name": "images/huaban/huaban_57" },
+					{ "time": 3.1, "name": "images/huaban/huaban_58" },
+					{ "time": 3.1333, "name": "images/huaban/huaban_59" },
+					{ "time": 3.1667, "name": "images/huaban/huaban_60" },
+					{ "time": 3.2, "name": "images/huaban/huaban_61" },
+					{ "time": 3.2333, "name": "images/huaban/huaban_62" },
+					{ "time": 3.2667, "name": "images/huaban/huaban_63" },
+					{ "time": 3.3, "name": "images/huaban/huaban_64" },
+					{ "time": 3.3333, "name": "images/huaban/huaban_65" },
+					{ "time": 3.3667, "name": "images/huaban/huaban_66" },
+					{ "time": 3.4, "name": "images/huaban/huaban_67" },
+					{ "time": 3.4333, "name": "images/huaban/huaban_68" },
+					{ "time": 3.4667, "name": "images/huaban/huaban_69" },
+					{ "time": 3.5, "name": "images/huaban/huaban_70" },
+					{ "time": 3.5333, "name": "images/huaban/huaban_71" },
+					{ "time": 3.5667, "name": "images/huaban/huaban_72" },
+					{ "time": 3.6, "name": "images/huaban/huaban_73" },
+					{ "time": 3.6333, "name": "images/huaban/huaban_74" },
+					{ "time": 3.6667, "name": "images/huaban/huaban_75" },
+					{ "time": 3.7, "name": "images/huaban/huaban_76" },
+					{ "time": 3.7333, "name": "images/huaban/huaban_77" },
+					{ "time": 3.7667, "name": "images/huaban/huaban_78" },
+					{ "time": 3.8, "name": "images/huaban/huaban_79" },
+					{ "time": 3.8333, "name": "images/huaban/huaban_80" },
+					{ "time": 3.8667, "name": "images/huaban/huaban_81" },
+					{ "time": 3.9, "name": "images/huaban/huaban_82" },
+					{ "time": 3.9333, "name": "images/huaban/huaban_83" },
+					{ "time": 3.9667, "name": "images/huaban/huaban_84" },
+					{ "time": 4, "name": "images/huaban/huaban_85" },
+					{ "time": 4.0333, "name": "images/huaban/huaban_86" },
+					{ "time": 4.0667, "name": "images/huaban/huaban_87" },
+					{ "time": 4.1, "name": "images/huaban/huaban_88" },
+					{ "time": 4.1333, "name": "images/huaban/huaban_89" },
+					{ "time": 4.1667, "name": "images/huaban/huaban_90" },
+					{ "time": 4.2, "name": "images/huaban/huaban_91" },
+					{ "time": 4.2333, "name": "images/huaban/huaban_92" },
+					{ "time": 4.2667, "name": "images/huaban/huaban_93" },
+					{ "time": 4.3, "name": "images/huaban/huaban_94" },
+					{ "time": 4.3333, "name": "images/huaban/huaban_95" },
+					{ "time": 4.3667, "name": "images/huaban/huaban_96" },
+					{ "time": 4.4, "name": "images/huaban/huaban_97" },
+					{ "time": 4.4333, "name": "images/huaban/huaban_98" },
+					{ "time": 4.4667, "name": "images/huaban/huaban_99" },
+					{ "time": 4.5, "name": null }
+				]
+			},
+			"images/s_sequence_407/s_sequence_407_000": {
+				"color": [
+					{ "time": 0.4, "color": "ffffffff" },
+					{ "time": 0.7333, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0.4, "name": "images/s_sequence_407/s_sequence_407_000" },
+					{ "time": 0.4667, "name": "images/s_sequence_407/s_sequence_407_001" },
+					{ "time": 0.5333, "name": "images/s_sequence_407/s_sequence_407_002" },
+					{ "time": 0.6, "name": "images/s_sequence_407/s_sequence_407_003" }
+				]
+			}
+		},
+		"bones": {
+			"bone2": {
+				"rotate": [
+					{ "time": 0, "angle": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 }
+				]
+			},
+			"bone5": {
+				"rotate": [
+					{ "time": 0, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.5, "x": 0, "y": 282.88, "curve": "stepped" },
+					{ "time": 1, "x": 0, "y": 282.88 },
+					{ "time": 1.1667, "x": 0, "y": 0 }
+				]
+			},
+			"bone7": {
+				"scale": [
+					{
+						"time": 0.4,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0, 1, 0.75, 1 ]
+					},
+					{ "time": 0.7333, "x": 8, "y": 8 }
+				]
+			},
+			"bone4": {
+				"rotate": [
+					{ "time": 1.3333, "angle": -90 }
+				],
+				"translate": [
+					{ "time": 1.3333, "x": -4.1, "y": -297.85 }
+				],
+				"scale": [
+					{ "time": 1.3333, "x": 0.556, "y": 0.556 }
+				]
+			},
+			"bone9": {
+				"rotate": [
+					{ "time": 1.6667, "angle": 0 },
+					{ "time": 2.1667, "angle": 68.87 }
+				],
+				"translate": [
+					{ "time": 1.6667, "x": -29.7, "y": -336.06 },
+					{ "time": 2.1667, "x": 441.48, "y": 315.16 }
+				],
+				"scale": [
+					{ "time": 1.6667, "x": 1, "y": 1 }
+				]
+			},
+			"bone10": {
+				"rotate": [
+					{ "time": 1.7333, "angle": 0 },
+					{ "time": 2.2333, "angle": 52.59 }
+				],
+				"translate": [
+					{ "time": 1.7333, "x": -29.7, "y": -336.06 },
+					{ "time": 2.2333, "x": 398.84, "y": 298.1 }
+				],
+				"scale": [
+					{ "time": 1.7333, "x": 1, "y": 1 }
+				]
+			},
+			"bone11": {
+				"rotate": [
+					{ "time": 1.6333, "angle": 0 },
+					{ "time": 2.1333, "angle": 52.59 }
+				],
+				"translate": [
+					{ "time": 1.6333, "x": -29.7, "y": -336.06 },
+					{ "time": 2.1333, "x": 392.44, "y": 259.72 }
+				],
+				"scale": [
+					{ "time": 1.6333, "x": 1, "y": 1 }
+				]
+			},
+			"bone12": {
+				"scale": [
+					{ "time": 2, "x": 0, "y": 0 },
+					{ "time": 2.2667, "x": 1, "y": 1 }
+				]
+			},
+			"bone13": {
+				"scale": [
+					{ "time": 2, "x": 0, "y": 0 },
+					{ "time": 2.2667, "x": 1, "y": 1 }
+				]
+			},
+			"bone14": {
+				"scale": [
+					{ "time": 2, "x": 0, "y": 0 },
+					{ "time": 2.2667, "x": 1, "y": 1 }
+				]
+			},
+			"bone16": {
+				"scale": [
+					{ "time": 2, "x": 0, "y": 0 },
+					{ "time": 2.2667, "x": 1, "y": 1 }
+				]
+			},
+			"bone15": {
+				"translate": [
+					{
+						"time": 1.1667,
+						"x": 0,
+						"y": 1047.4,
+						"curve": [ 0, 1, 0.75, 1 ]
+					},
+					{ "time": 2, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{
+						"time": 1.1667,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0, 1, 0.75, 1 ]
+					},
+					{ "time": 2, "x": 1, "y": 1 }
+				]
+			}
+		},
+		"paths": {
+			"1": {
+				"position": [
+					{ "time": 1.8667 },
+					{ "time": 3.1667, "position": 2 }
+				]
+			},
+			"2": {
+				"position": [
+					{ "time": 1.9333 },
+					{ "time": 3.2667, "position": 2 }
+				]
+			},
+			"3": {
+				"position": [
+					{ "time": 1.9 },
+					{ "time": 3.2, "position": 2 }
+				]
+			},
+			"4": {
+				"position": [
+					{ "time": 1.9667 },
+					{ "time": 3.3667, "position": 2 }
+				]
+			},
+			"5": {
+				"position": [
+					{ "time": 2 },
+					{ "time": 3.3333, "position": 2 }
+				]
+			}
+		}
+	},
+	"zhuanquan": {
+		"slots": {
+			"images/Energy 036 Ray Right/Energy 036 Ray Right_00": {
+				"attachment": [
+					{ "time": 0.1333, "name": "images/Energy 036 Ray Right/Energy 036 Ray Right_09" },
+					{ "time": 0.1667, "name": "images/Energy 036 Ray Right/Energy 036 Ray Right_08" },
+					{ "time": 0.2, "name": "images/Energy 036 Ray Right/Energy 036 Ray Right_07" },
+					{ "time": 0.2333, "name": "images/Energy 036 Ray Right/Energy 036 Ray Right_06" },
+					{ "time": 0.2667, "name": "images/Energy 036 Ray Right/Energy 036 Ray Right_05" },
+					{ "time": 0.3, "name": "images/Energy 036 Ray Right/Energy 036 Ray Right_04" },
+					{ "time": 0.3333, "name": "images/Energy 036 Ray Right/Energy 036 Ray Right_03" },
+					{ "time": 0.3667, "name": "images/Energy 036 Ray Right/Energy 036 Ray Right_02" },
+					{ "time": 0.4, "name": "images/Energy 036 Ray Right/Energy 036 Ray Right_01" },
+					{ "time": 0.4333, "name": "images/Energy 036 Ray Right/Energy 036 Ray Right_00" },
+					{ "time": 0.4667, "name": null }
+				]
+			},
+			"images/Particle_Moth_01/Particle_Moth_01_0": {
+				"color": [
+					{ "time": 1.7667, "color": "c341ffff" },
+					{ "time": 2, "color": "c341ff00" }
+				],
+				"attachment": [
+					{ "time": 1.1333, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 1.1667, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 1.2, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 1.2333, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 1.2667, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 1.3, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 1.3333, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 1.3667, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 1.4, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 1.4333, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 1.4667, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 1.5, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 1.5333, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 1.5667, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 1.6, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 1.6333, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 1.6667, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 1.7, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 1.7333, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 1.7667, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 1.8, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 1.8333, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 1.8667, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 1.9, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 1.9333, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 1.9667, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 2, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 2.0333, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 2.0667, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 2.1, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 2.1333, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 2.1667, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 2.2, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 2.2333, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 2.2667, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 2.3, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 2.3333, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 2.3667, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 2.4, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 2.4333, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 2.4667, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 2.5, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 2.5333, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 2.5667, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 2.6, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 2.6333, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 2.6667, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 2.7, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 2.7333, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 2.7667, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 2.8, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 2.8333, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 2.8667, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 2.9, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 2.9333, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 2.9667, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 3, "name": "images/Particle_Moth_01/Particle_Moth_01_000" }
+				]
+			},
+			"images/Particle_Moth_01/Particle_Moth_01_000": {
+				"color": [
+					{ "time": 1.7, "color": "ffffffff" },
+					{ "time": 2.2333, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 1.1333, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 1.1667, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 1.2, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 1.2333, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 1.2667, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 1.3, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 1.3333, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 1.3667, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 1.4, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 1.4333, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 1.4667, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 1.5, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 1.5333, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 1.5667, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 1.6, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 1.6333, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 1.6667, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 1.7, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 1.7333, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 1.7667, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 1.8, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 1.8333, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 1.8667, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 1.9, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 1.9333, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 1.9667, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 2, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 2.0333, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 2.0667, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 2.1, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 2.1333, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 2.1667, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 2.2, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 2.2333, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 2.2667, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 2.3, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 2.3333, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 2.3667, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 2.4, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 2.4333, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 2.4667, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 2.5, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 2.5333, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 2.5667, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 2.6, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 2.6333, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 2.6667, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 2.7, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 2.7333, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 2.7667, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 2.8, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 2.8333, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 2.8667, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 2.9, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 2.9333, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 2.9667, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 3, "name": "images/Particle_Moth_01/Particle_Moth_01_000" }
+				]
+			},
+			"images/Particle_Moth_01/Particle_Moth_01_1": {
+				"color": [
+					{ "time": 1.8, "color": "2df9ffff", "curve": "stepped" },
+					{ "time": 1.9333, "color": "2df9ffff" },
+					{ "time": 2.1333, "color": "2df9ff00", "curve": "stepped" },
+					{ "time": 2.2667, "color": "2df9ff00" }
+				],
+				"attachment": [
+					{ "time": 1.1333, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 1.1667, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 1.2, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 1.2333, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 1.2667, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 1.3, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 1.3333, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 1.3667, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 1.4, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 1.4333, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 1.4667, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 1.5, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 1.5333, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 1.5667, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 1.6, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 1.6333, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 1.6667, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 1.7, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 1.7333, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 1.7667, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 1.8, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 1.8333, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 1.8667, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 1.9, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 1.9333, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 1.9667, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 2, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 2.0333, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 2.0667, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 2.1, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 2.1333, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 2.1667, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 2.2, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 2.2333, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 2.2667, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 2.3, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 2.3333, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 2.3667, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 2.4, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 2.4333, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 2.4667, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 2.5, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 2.5333, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 2.5667, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 2.6, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 2.6333, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 2.6667, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 2.7, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 2.7333, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 2.7667, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 2.8, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 2.8333, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 2.8667, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 2.9, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 2.9333, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 2.9667, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 3, "name": "images/Particle_Moth_01/Particle_Moth_01_000" }
+				]
+			},
+			"images/Particle_Moth_01/Particle_Moth_01_3": {
+				"color": [
+					{ "time": 1.7, "color": "ffd547ff" },
+					{ "time": 2.1, "color": "ffd54700" }
+				],
+				"attachment": [
+					{ "time": 1.1333, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 1.1667, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 1.2, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 1.2333, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 1.2667, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 1.3, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 1.3333, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 1.3667, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 1.4, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 1.4333, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 1.4667, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 1.5, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 1.5333, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 1.5667, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 1.6, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 1.6333, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 1.6667, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 1.7, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 1.7333, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 1.7667, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 1.8, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 1.8333, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 1.8667, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 1.9, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 1.9333, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 1.9667, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 2, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 2.0333, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 2.0667, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 2.1, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 2.1333, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 2.1667, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 2.2, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 2.2333, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 2.2667, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 2.3, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 2.3333, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 2.3667, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 2.4, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 2.4333, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 2.4667, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 2.5, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 2.5333, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 2.5667, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 2.6, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 2.6333, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 2.6667, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 2.7, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 2.7333, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 2.7667, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 2.8, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 2.8333, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 2.8667, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 2.9, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 2.9333, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 2.9667, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 3, "name": "images/Particle_Moth_01/Particle_Moth_01_000" }
+				]
+			},
+			"images/Particle_Moth_01/Particle_Moth_01_4": {
+				"color": [
+					{ "time": 1, "color": "ff41a100" },
+					{ "time": 1.3333, "color": "ff41a1ff" },
+					{ "time": 2.1333, "color": "ff41a100" }
+				],
+				"attachment": [
+					{ "time": 1, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 1.0333, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 1.0667, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 1.1, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 1.1333, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 1.1667, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 1.2, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 1.2333, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 1.2667, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 1.3, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 1.3333, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 1.3667, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 1.4, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 1.4333, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 1.4667, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 1.5, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 1.5333, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 1.5667, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 1.6, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 1.6333, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 1.6667, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 1.7, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 1.7333, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 1.7667, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 1.8, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 1.8333, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 1.8667, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 1.9, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 1.9333, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 1.9667, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 2, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 2.0333, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 2.0667, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 2.1, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 2.1333, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 2.1667, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 2.2, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 2.2333, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 2.2667, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 2.3, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 2.3333, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 2.3667, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 2.4, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 2.4333, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 2.4667, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 2.5, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 2.5333, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 2.5667, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 2.6, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 2.6333, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 2.6667, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 2.7, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 2.7333, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 2.7667, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 2.8, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 2.8333, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 2.8667, "name": "images/Particle_Moth_01/Particle_Moth_01_000" },
+					{ "time": 2.9, "name": "images/Particle_Moth_01/Particle_Moth_01_001" },
+					{ "time": 2.9333, "name": "images/Particle_Moth_01/Particle_Moth_01_002" },
+					{ "time": 2.9667, "name": "images/Particle_Moth_01/Particle_Moth_01_003" },
+					{ "time": 3, "name": "images/Particle_Moth_01/Particle_Moth_01_000" }
+				]
+			},
+			"images/huaban/huaban_00": {
+				"color": [
+					{ "time": 1.3333, "color": "ffffff00" },
+					{ "time": 1.8333, "color": "ffffffff" },
+					{ "time": 3, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 1.3333, "name": "images/huaban/huaban_00" },
+					{ "time": 1.3667, "name": "images/huaban/huaban_01" },
+					{ "time": 1.4, "name": "images/huaban/huaban_02" },
+					{ "time": 1.4333, "name": "images/huaban/huaban_03" },
+					{ "time": 1.4667, "name": "images/huaban/huaban_04" },
+					{ "time": 1.5, "name": "images/huaban/huaban_05" },
+					{ "time": 1.5333, "name": "images/huaban/huaban_06" },
+					{ "time": 1.5667, "name": "images/huaban/huaban_07" },
+					{ "time": 1.6, "name": "images/huaban/huaban_08" },
+					{ "time": 1.6333, "name": "images/huaban/huaban_09" },
+					{ "time": 1.6667, "name": "images/huaban/huaban_10" },
+					{ "time": 1.7, "name": "images/huaban/huaban_11" },
+					{ "time": 1.7333, "name": "images/huaban/huaban_12" },
+					{ "time": 1.7667, "name": "images/huaban/huaban_13" },
+					{ "time": 1.8, "name": "images/huaban/huaban_14" },
+					{ "time": 1.8333, "name": "images/huaban/huaban_15" },
+					{ "time": 1.8667, "name": "images/huaban/huaban_16" },
+					{ "time": 1.9, "name": "images/huaban/huaban_17" },
+					{ "time": 1.9333, "name": "images/huaban/huaban_18" },
+					{ "time": 1.9667, "name": "images/huaban/huaban_19" },
+					{ "time": 2, "name": "images/huaban/huaban_20" },
+					{ "time": 2.0333, "name": "images/huaban/huaban_21" },
+					{ "time": 2.0667, "name": "images/huaban/huaban_22" },
+					{ "time": 2.1, "name": "images/huaban/huaban_23" },
+					{ "time": 2.1333, "name": "images/huaban/huaban_24" },
+					{ "time": 2.1667, "name": "images/huaban/huaban_25" },
+					{ "time": 2.2, "name": "images/huaban/huaban_26" },
+					{ "time": 2.2333, "name": "images/huaban/huaban_27" },
+					{ "time": 2.2667, "name": "images/huaban/huaban_28" },
+					{ "time": 2.3, "name": "images/huaban/huaban_29" },
+					{ "time": 2.3333, "name": "images/huaban/huaban_30" },
+					{ "time": 2.3667, "name": "images/huaban/huaban_31" },
+					{ "time": 2.4, "name": "images/huaban/huaban_32" },
+					{ "time": 2.4333, "name": "images/huaban/huaban_33" },
+					{ "time": 2.4667, "name": "images/huaban/huaban_34" },
+					{ "time": 2.5, "name": "images/huaban/huaban_35" },
+					{ "time": 2.5333, "name": "images/huaban/huaban_36" },
+					{ "time": 2.5667, "name": "images/huaban/huaban_37" },
+					{ "time": 2.6, "name": "images/huaban/huaban_38" },
+					{ "time": 2.6333, "name": "images/huaban/huaban_39" },
+					{ "time": 2.6667, "name": "images/huaban/huaban_40" },
+					{ "time": 2.7, "name": "images/huaban/huaban_41" },
+					{ "time": 2.7333, "name": "images/huaban/huaban_42" },
+					{ "time": 2.7667, "name": "images/huaban/huaban_43" },
+					{ "time": 2.8, "name": "images/huaban/huaban_44" },
+					{ "time": 2.8333, "name": "images/huaban/huaban_45" },
+					{ "time": 2.8667, "name": "images/huaban/huaban_46" },
+					{ "time": 2.9, "name": "images/huaban/huaban_47" },
+					{ "time": 2.9333, "name": "images/huaban/huaban_48" },
+					{ "time": 2.9667, "name": "images/huaban/huaban_49" },
+					{ "time": 3, "name": "images/huaban/huaban_50" }
+				]
+			}
+		},
+		"bones": {
+			"bone": {
+				"rotate": [
+					{ "time": 0, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.5, "x": -3.67, "y": 3.67 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 0.5, "x": 0.8, "y": 0.8 }
+				]
+			},
+			"bone15": {
+				"rotate": [
+					{ "time": 1.3333, "angle": -90 }
+				],
+				"translate": [
+					{
+						"time": 1.3333,
+						"x": 0,
+						"y": 598.97,
+						"curve": [ 0, 1, 0.75, 1 ]
+					},
+					{ "time": 2.1667, "x": 0, "y": -12.31 }
+				],
+				"scale": [
+					{
+						"time": 1.3333,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0, 1, 0.75, 1 ]
+					},
+					{ "time": 2.1667, "x": 1, "y": -1 }
+				]
+			},
+			"bone13": {
+				"scale": [
+					{ "time": 1.1333, "x": 0, "y": 0 },
+					{ "time": 1.4, "x": 1, "y": 1 }
+				]
+			},
+			"bone16": {
+				"scale": [
+					{ "time": 1.1333, "x": 0, "y": 0 },
+					{ "time": 1.4, "x": 1, "y": 1 }
+				]
+			},
+			"bone12": {
+				"scale": [
+					{ "time": 1.1333, "x": 0, "y": 0 },
+					{ "time": 1.4, "x": 1, "y": 1 }
+				]
+			},
+			"bone14": {
+				"scale": [
+					{ "time": 1.1333, "x": 0, "y": 0 },
+					{ "time": 1.4, "x": 1, "y": 1 }
+				]
+			},
+			"bone17": {
+				"scale": [
+					{ "time": 1, "x": 0, "y": 0 },
+					{ "time": 1.2667, "x": 1, "y": 1 }
+				]
+			}
+		},
+		"paths": {
+			"1": {
+				"position": [
+					{ "time": 1 },
+					{ "time": 2.3, "position": 1 }
+				]
+			},
+			"2": {
+				"position": [
+					{ "time": 1.0667 },
+					{ "time": 2.4667, "position": 1 }
+				]
+			},
+			"3": {
+				"position": [
+					{ "time": 1.0333 },
+					{ "time": 2.3333, "position": 1 }
+				]
+			},
+			"4": {
+				"position": [
+					{ "time": 1.1 },
+					{ "time": 2.5, "position": 1 }
+				]
+			},
+			"5": {
+				"position": [
+					{ "time": 1.1333 },
+					{ "time": 2.4667, "position": 1 }
+				]
+			}
+		},
+		"deform": {
+			"default": {
+				"1": {
+					"1": [
+						{
+							"time": 1,
+							"vertices": [ -53.5514, -0.00964, -53.5514, -0.00964, -53.5514, -0.00964, -53.5514, -0.00964, -53.5514, -0.00964, -53.5514, -0.00964 ]
+						}
+					]
+				},
+				"2": {
+					"1": [
+						{
+							"time": 1,
+							"vertices": [ -318.31046, -0.00897, -318.31046, -0.00897, -318.31046, -0.00897, -170.24072, 16.43701, -818.04254, 98.70129, -1200.3369, 127.2298 ]
+						}
+					]
+				},
+				"3": {
+					"1": [
+						{
+							"time": 1,
+							"vertices": [ 158.13597, 189.53088, -113.90634, 53.4581, -1018.77094, -236.5145, -502.58615, 49.34119, -648.59906, 86.36008, -681.2065, 124.92087 ]
+						}
+					]
+				},
+				"4": {
+					"1": [
+						{
+							"time": 1,
+							"vertices": [ -168.8081, 12.33044, -168.8081, 12.33044, -168.8081, 12.33044, -20.73838, -267.36017, -666.48285, 146.00128, -924.3232, 338.17874 ]
+						}
+					]
+				},
+				"5": {
+					"1": [
+						{
+							"time": 1,
+							"vertices": [ -103.98166, -0.00922, -103.98166, -0.00922, -103.98166, -0.00922, 196.27115, 160.39282, -381.60904, 197.41367, -696.0688, 199.86682 ]
+						}
+					]
+				}
+			}
+		}
+	}
+}
+}

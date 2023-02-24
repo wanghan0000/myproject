@@ -1,0 +1,146 @@
+
+rocketescape_banner.png
+size: 1450,396
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+re__10
+  rotate: false
+  xy: 1140, 12
+  size: 162, 132
+  orig: 162, 132
+  offset: 0, 0
+  index: -1
+re__11
+  rotate: false
+  xy: 1035, 37
+  size: 50, 41
+  orig: 50, 41
+  offset: 0, 0
+  index: -1
+re__12
+  rotate: false
+  xy: 726, 295
+  size: 722, 99
+  orig: 722, 99
+  offset: 0, 0
+  index: -1
+re__13
+  rotate: false
+  xy: 1304, 74
+  size: 65, 70
+  orig: 65, 70
+  offset: 0, 0
+  index: -1
+re__14
+  rotate: false
+  xy: 726, 2
+  size: 103, 113
+  orig: 103, 113
+  offset: 0, 0
+  index: -1
+re__15
+  rotate: false
+  xy: 1087, 50
+  size: 19, 28
+  orig: 19, 28
+  offset: 0, 0
+  index: -1
+re__16
+  rotate: true
+  xy: 831, 82
+  size: 33, 229
+  orig: 33, 229
+  offset: 0, 0
+  index: -1
+re__17
+  rotate: false
+  xy: 831, 21
+  size: 104, 59
+  orig: 104, 59
+  offset: 0, 0
+  index: -1
+re__18
+  rotate: false
+  xy: 1304, 9
+  size: 67, 63
+  orig: 67, 63
+  offset: 0, 0
+  index: -1
+re__19
+  rotate: true
+  xy: 1371, 78
+  size: 66, 44
+  orig: 66, 44
+  offset: 0, 0
+  index: -1
+re__20
+  rotate: false
+  xy: 1373, 14
+  size: 41, 62
+  orig: 41, 62
+  offset: 0, 0
+  index: -1
+re__21
+  rotate: true
+  xy: 1353, 146
+  size: 34, 59
+  orig: 34, 59
+  offset: 0, 0
+  index: -1
+re__22
+  rotate: true
+  xy: 1062, 80
+  size: 35, 59
+  orig: 35, 59
+  offset: 0, 0
+  index: -1
+re__23
+  rotate: true
+  xy: 1353, 182
+  size: 111, 93
+  orig: 111, 93
+  offset: 0, 0
+  index: -1
+re__24
+  rotate: false
+  xy: 831, 5
+  size: 63, 14
+  orig: 63, 14
+  offset: 0, 0
+  index: -1
+re__25
+  rotate: false
+  xy: 726, 117
+  size: 412, 176
+  orig: 412, 176
+  offset: 0, 0
+  index: -1
+re__26
+  rotate: false
+  xy: 2, 9
+  size: 722, 385
+  orig: 722, 385
+  offset: 0, 0
+  index: -1
+re__7
+  rotate: false
+  xy: 937, 20
+  size: 96, 60
+  orig: 96, 60
+  offset: 0, 0
+  index: -1
+re__8
+  rotate: true
+  xy: 1140, 146
+  size: 147, 211
+  orig: 147, 211
+  offset: 0, 0
+  index: -1
+re__9
+  rotate: false
+  xy: 1414, 152
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1

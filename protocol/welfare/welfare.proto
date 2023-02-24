@@ -1,0 +1,210 @@
+syntax = "proto3";
+package welfare;
+option go_package = ".;welfare";
+//操作结果
+enum OpResultCode {
+  OPRC_Sucess = 0; //成功
+  OPRC_Error = 1; //失败
+  OPRC_NoTimes = 2;   //没有领取次数
+  OPRC_CoinTooMore = 3; // 金币过多不符合领取
+  OPRC_ErrCoin = 4;    // 钻石不足
+}
+// 福利大厅
+enum SPacketID {
+  PACKET_SHOP_ZERO = 0;// 弃用消息号
+  PACKET_CS_WELF_GETRELIEFFUND = 2580;//领取救济金
+  PACKET_SC_WELF_GETRELIEFFUND = 2581;//领取救济金
+  PACKET_CS_WELF_GETTURNPLATE  = 2582;//转动转盘
+  PACKET_SC_WELF_GETTURNPLATE  = 2583;//转动转盘
+  PACKET_CS_WELF_GETADDUPSIGN  = 2584;//累计签到
+  PACKET_SC_WELF_GETADDUPSIGN  = 2585;//累计签到
+  PACKET_CS_WELF_WELFAREINFO   = 2586;//福利信息
+  PACKET_SC_WELF_WELFAREINFO   = 2587;//福利信息
+  PACKET_CS_WELF_BLINBOXINFO   = 2588;//转动盲盒
+  PACKET_SC_WELF_BLINBOXINFO   = 2589;//转动盲盒
+  PACKET_CS_WELF_GETBLINBOX    = 2590;//领取盲盒
+  PACKET_SC_WELF_GETBLINBOX    = 2591;//领取盲盒
+  PACKET_CS_WELF_FIRSTPAYINFO  = 2592;//首充礼包信息
+  PACKET_SC_WELF_FIRSTPAYINFO  = 2593;//首充礼包信息
+  PACKET_CS_WELF_FIRSTPAY      = 2594;//领取(购买)首充 后期走充值回调
+  PACKET_SC_WELF_FIRSTPAY      = 2595;//领取首充
+  PACKET_CS_WELF_CONTINPAYINFO = 2596;//连续充值信息
+  PACKET_SC_WELF_CONTINPAYINFO = 2597;//连续充值信息
+  PACKET_CS_WELF_CONTINPAY     = 2598;//领取(购买)连续充值 后期走充值回调
+  PACKET_SC_WELF_CONTINPAY     = 2599;//领取连续充值
+}
+
+//救济金领取
+//PACKET_CS_WELF_GETRELIEFFUND
+message CSGetReliefFund{
+}
+
+//PACKET_SC_WELF_GETRELIEFFUND
+message SCGetReliefFund{
+    OpResultCode OpRetCode = 1;    //结果
+    int32 Times = 2;               //当前领取救济金的次数
+    int64 Coin = 3;                //本次领取救济金金额
+}
+
+message WelfareDate {
+  int32 Grade = 1;               // 数量
+  int32 Type = 2;                // 类型1.金币 2.钻石 3.道具
+  string Name = 3;               // 名称
+  int32 Item_Id = 4;             // 道具id
+}
+
+
+//转动转盘
+//PACKET_CS_WELF_GETTURNPLATE
+message CSGetTurnplate{
+}
+
+//PACKET_SC_WELF_GETTURNPLATE
+message SCGetTurnplate{
+    OpResultCode OpRetCode    = 1;    //结果
+    repeated WelfareDate Date = 2; // 奖励
+	int32    Idx              = 3; // 轮盘获奖下标
+	int32    SignDay          = 4; // 已签到天数
+}
+
+message AddUpWelfareDate {
+  int32 AddUpDay = 1;                               // 累计几天
+  repeated WelfareDate AddUpDate = 2;               // 累计奖励
+}
+
+//累计签到
+//PACKET_CS_WELF_GETADDUPSIGN
+message CSGetAddupSign{
+  int32 AddUpDay = 1;                               // 领取累计奖励
+}
+
+//PACKET_SC_WELF_GETADDUPSIGN
+message SCGetAddupSign{
+    OpResultCode OpRetCode         = 1;    //结果
+    repeated AddUpWelfareDate Date = 2;    // 奖励
+	repeated int32    AddUpSignDay = 3;    // 已领取累计奖励天数
+}
+
+//福利信息
+//PACKET_CS_WELF_WELFAREINFO
+message CSWelfaredInfo{
+}
+
+message WelfareTurnplateDate {
+  int32 Id = 1;                                // 序号
+  repeated WelfareDate Date = 2;               // 奖励
+}
+
+message Welfare7SignDate {
+  int32 Day = 1;                               // 第几天
+  repeated WelfareDate Date = 2;               // 奖励
+  repeated AddUpWelfareDate AddUpDate = 3;     // 累计奖励
+}
+
+//PACKET_SC_WELF_WELFAREINFO
+message SCWelfaredInfo{
+    repeated WelfareTurnplateDate Tlist = 1;     // 转盘奖励
+    repeated Welfare7SignDate Slist     = 2;     // 七日签到
+	int32    DrawTurnplate              = 3;     // 1领取转盘 2未领取
+    int32    SignDay                    = 4;     // 已签到天数
+	repeated int32    AddUpSignDay      = 5;     // 已领取累计奖励天数
+	repeated int32    TurnplateIdx      = 6;     // 已领取转盘奖励下标0开始
+	int32    Switch                     = 7;     // 1.开启 2.关闭
+}
+
+message BlindBoxData {
+  int32 Id = 1;                   // 序号
+  int32 Type = 2;                 // 类型1.金币 2.钻石
+  string Name = 3;                // 名称
+  int32  Grade = 4;               // 数量
+  int32  Consume = 5;             // 购买消耗类型
+  int64  price1 = 6;              // 原价
+  int64  price2 = 7;              // 现价
+  double Discount = 8;            // 折扣
+  int32  Item_Id = 9;             // 道具id
+}
+
+//查看盲盒
+//PACKET_CS_WELF_BLINBOXINFO
+message CSBlindBoxInfo{
+    int32 Id = 1;                   // 序号 上次随机到的盲盒id 没有发-1
+}
+
+//PACKET_SC_WELF_BLINBOXINFO
+message SCBlindBoxInfo{
+    OpResultCode OpRetCode  = 1;    // 结果
+    BlindBoxData Date       = 2;    // 盲盒
+	int32 MinId = 3;                // 最低序号
+	int32 Draw  = 4;                // 1领取 2未领取
+}
+
+//领取盲盒
+//PACKET_CS_WELF_GETBLINBOX
+message CSGetBlindBox{
+    int32 Id = 1;                   // 序号
+}
+
+//PACKET_SC_WELF_GETBLINBOX
+message SCGetBlindBox{
+    OpResultCode OpRetCode         = 1;    //结果
+}
+
+message WelfareSpree  {
+  int32 Day  = 1;                   // 序号
+  repeated WelfareDate Item = 2;     // 道具
+  int32 VIPEX = 3;                 // VIP经验
+  int32  Consume = 5;             // 购买消耗类型
+  int64  price1 = 6;              // 原价
+  int64  price2 = 7;              // 现价
+  double Discount = 8;            // 折扣
+}
+
+//PACKET_CS_WELF_FIRSTPAYINFO
+message CSWelfareFirstPayData{
+               
+}
+
+//PACKET_SC_WELF_FIRSTPAYINFO
+message SCWelfareFirstPayData{
+  OpResultCode OpRetCode = 1;    //结果
+  WelfareSpree List = 2;         //
+  int32    Switch = 3;           // 1.开启 2.关闭
+  int32    Cycle  = 4;           // 循环 1.开启 2.关闭
+  int32    Draw  = 5;            // 1领取 2未领取
+}
+
+//PACKET_CS_WELF_FIRSTPAY
+message CSWelfareFirstPay{
+               
+}
+
+//PACKET_SC_WELF_FIRSTPAY
+message SCWelfareFirstPay{
+  OpResultCode OpRetCode = 1;    //结果
+}
+
+
+//PACKET_CS_WELF_CONTINPAYINFO
+message CSWelfareContinuousPayData{
+               
+}
+
+//PACKET_SC_WELF_CONTINPAYINFO
+message SCWelfareContinuousPayData{
+  OpResultCode OpRetCode = 1;      //结果
+  repeated WelfareSpree List = 2;  //
+  int32    Switch = 3;             // 1.开启 2.关闭
+  int32    Cycle  = 4;             // 循环 1.开启 2.关闭
+  int32    Draw  = 5;              // 1领取 2未领取
+  int32    Day   = 6;              // 领取到第几天
+}
+
+//PACKET_CS_WELF_CONTINPAY
+message CSWelfareContinuousPay{
+               
+}
+
+//PACKET_SC_WELF_CONTINPAY
+message SCWelfareContinuousPay{
+  OpResultCode OpRetCode = 1;    //结果
+}

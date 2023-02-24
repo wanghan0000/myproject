@@ -1,0 +1,111 @@
+
+lobby_shop_diamond_ani.png
+size: 960,535
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+07
+  rotate: false
+  xy: 899, 132
+  size: 61, 63
+  orig: 61, 63
+  offset: 0, 0
+  index: -1
+guang
+  rotate: false
+  xy: 0, 500
+  size: 660, 35
+  orig: 660, 35
+  offset: 0, 0
+  index: -1
+shanguang
+  rotate: false
+  xy: 899, 69
+  size: 61, 63
+  orig: 61, 63
+  offset: 0, 0
+  index: -1
+tupian/image 11
+  rotate: false
+  xy: 250, 250
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+tupian/image 13
+  rotate: false
+  xy: 250, 0
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+tupian/image 15
+  rotate: false
+  xy: 500, 250
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+tupian/image 17
+  rotate: false
+  xy: 500, 0
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+tupian/image 7
+  rotate: false
+  xy: 0, 250
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+tupian/image 9
+  rotate: false
+  xy: 0, 0
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+zuanshi1
+  rotate: false
+  xy: 849, 7
+  size: 97, 62
+  orig: 97, 62
+  offset: 0, 0
+  index: -1
+zuanshi2
+  rotate: false
+  xy: 750, 34
+  size: 99, 73
+  orig: 99, 73
+  offset: 0, 0
+  index: -1
+zuanshi3
+  rotate: false
+  xy: 750, 195
+  size: 161, 82
+  orig: 161, 82
+  offset: 0, 0
+  index: -1
+zuanshi4
+  rotate: false
+  xy: 750, 107
+  size: 149, 88
+  orig: 149, 88
+  offset: 0, 0
+  index: -1
+zuanshi5
+  rotate: false
+  xy: 750, 277
+  size: 184, 115
+  orig: 184, 115
+  offset: 0, 0
+  index: -1
+zuanshi6
+  rotate: false
+  xy: 750, 392
+  size: 197, 143
+  orig: 197, 143
+  offset: 0, 0
+  index: -1

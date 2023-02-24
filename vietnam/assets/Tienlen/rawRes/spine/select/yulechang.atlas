@@ -1,0 +1,83 @@
+
+yulechang.png
+size: 323,543
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+c01
+  rotate: false
+  xy: 2, 2
+  size: 206, 52
+  orig: 206, 52
+  offset: 0, 0
+  index: -1
+dao01
+  rotate: true
+  xy: 257, 117
+  size: 64, 62
+  orig: 64, 62
+  offset: 0, 0
+  index: -1
+dao02
+  rotate: true
+  xy: 255, 370
+  size: 66, 65
+  orig: 66, 65
+  offset: 0, 0
+  index: -1
+dao03
+  rotate: true
+  xy: 257, 183
+  size: 70, 56
+  orig: 70, 56
+  offset: 0, 0
+  index: -1
+dao04
+  rotate: false
+  xy: 257, 53
+  size: 64, 62
+  orig: 64, 62
+  offset: 0, 0
+  index: -1
+fz
+  rotate: false
+  xy: 2, 336
+  size: 251, 205
+  orig: 251, 205
+  offset: 0, 0
+  index: -1
+fz01
+  rotate: false
+  xy: 2, 164
+  size: 187, 170
+  orig: 187, 170
+  offset: 0, 0
+  index: -1
+guangdian
+  rotate: true
+  xy: 255, 438
+  size: 103, 62
+  orig: 103, 62
+  offset: 0, 0
+  index: -1
+pai02
+  rotate: false
+  xy: 2, 56
+  size: 187, 106
+  orig: 187, 106
+  offset: 0, 0
+  index: -1
+train_unlock_select@2x
+  rotate: false
+  xy: 191, 105
+  size: 64, 229
+  orig: 64, 229
+  offset: 0, 0
+  index: -1
+zi01
+  rotate: true
+  xy: 257, 255
+  size: 113, 46
+  orig: 113, 46
+  offset: 0, 0
+  index: -1

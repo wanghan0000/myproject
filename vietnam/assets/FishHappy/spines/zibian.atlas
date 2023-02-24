@@ -1,0 +1,111 @@
+
+zibian.png
+size: 3032,204
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+suoding_00
+  rotate: false
+  xy: 2, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+suoding_01
+  rotate: false
+  xy: 204, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+suoding_02
+  rotate: false
+  xy: 406, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+suoding_03
+  rotate: false
+  xy: 608, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+suoding_04
+  rotate: false
+  xy: 810, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+suoding_05
+  rotate: false
+  xy: 1012, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+suoding_06
+  rotate: false
+  xy: 1214, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+suoding_07
+  rotate: false
+  xy: 1416, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+suoding_08
+  rotate: false
+  xy: 1618, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+suoding_09
+  rotate: false
+  xy: 1820, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+suoding_10
+  rotate: false
+  xy: 2022, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+suoding_11
+  rotate: false
+  xy: 2224, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+suoding_12
+  rotate: false
+  xy: 2426, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+suoding_13
+  rotate: false
+  xy: 2628, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+suoding_14
+  rotate: false
+  xy: 2830, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1

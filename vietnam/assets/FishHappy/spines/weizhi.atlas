@@ -1,0 +1,27 @@
+
+weizhi.png
+size: 467,549
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+weizbj_00
+  rotate: false
+  xy: 2, 47
+  size: 152, 47
+  orig: 152, 47
+  offset: 0, 0
+  index: -1
+weizbj_01
+  rotate: false
+  xy: 156, 2
+  size: 86, 92
+  orig: 86, 92
+  offset: 0, 0
+  index: -1
+weizbj_02
+  rotate: false
+  xy: 2, 96
+  size: 463, 451
+  orig: 463, 451
+  offset: 0, 0
+  index: -1

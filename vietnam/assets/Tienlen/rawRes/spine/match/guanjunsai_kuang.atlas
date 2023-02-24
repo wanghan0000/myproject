@@ -1,0 +1,146 @@
+
+guanjunsai_kuang.png
+size: 1966,1064
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 0, 0
+  size: 284, 384
+  orig: 284, 384
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 384, 0
+  size: 284, 384
+  orig: 284, 384
+  offset: 0, 0
+  index: -1
+21
+  rotate: false
+  xy: 1734, 1046
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 588, 290
+  size: 284, 384
+  orig: 284, 384
+  offset: 0, 0
+  index: -1
+31
+  rotate: false
+  xy: 0, 674
+  size: 294, 390
+  orig: 294, 390
+  offset: 0, 0
+  index: -1
+32
+  rotate: false
+  xy: 0, 284
+  size: 294, 390
+  orig: 294, 390
+  offset: 0, 0
+  index: -1
+33
+  rotate: false
+  xy: 294, 674
+  size: 294, 390
+  orig: 294, 390
+  offset: 0, 0
+  index: -1
+34
+  rotate: false
+  xy: 294, 284
+  size: 294, 390
+  orig: 294, 390
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 882, 680
+  size: 284, 384
+  orig: 284, 384
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 1166, 680
+  size: 284, 384
+  orig: 284, 384
+  offset: 0, 0
+  index: -1
+51
+  rotate: false
+  xy: 1156, 410
+  size: 270, 270
+  orig: 270, 270
+  offset: 0, 0
+  index: -1
+52
+  rotate: false
+  xy: 1426, 410
+  size: 270, 270
+  orig: 270, 270
+  offset: 0, 0
+  index: -1
+53
+  rotate: false
+  xy: 1156, 140
+  size: 270, 270
+  orig: 270, 270
+  offset: 0, 0
+  index: -1
+54
+  rotate: false
+  xy: 1426, 140
+  size: 270, 270
+  orig: 270, 270
+  offset: 0, 0
+  index: -1
+55
+  rotate: false
+  xy: 1696, 410
+  size: 270, 270
+  orig: 270, 270
+  offset: 0, 0
+  index: -1
+56
+  rotate: false
+  xy: 1696, 140
+  size: 270, 270
+  orig: 270, 270
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 1450, 680
+  size: 284, 384
+  orig: 284, 384
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 872, 290
+  size: 284, 384
+  orig: 284, 384
+  offset: 0, 0
+  index: -1
+8
+  rotate: true
+  xy: 768, 6
+  size: 284, 384
+  orig: 284, 384
+  offset: 0, 0
+  index: -1
+kuang_11
+  rotate: false
+  xy: 588, 674
+  size: 294, 390
+  orig: 294, 390
+  offset: 0, 0
+  index: -1

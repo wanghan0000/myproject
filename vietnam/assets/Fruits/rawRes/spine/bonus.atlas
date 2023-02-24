@@ -1,0 +1,153 @@
+
+bonus.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/b
+  rotate: false
+  xy: 125, 14
+  size: 35, 41
+  orig: 35, 41
+  offset: 0, 0
+  index: -1
+images/bonus
+  rotate: false
+  xy: 344, 61
+  size: 125, 42
+  orig: 125, 42
+  offset: 0, 0
+  index: -1
+images/jug
+  rotate: false
+  xy: 2, 57
+  size: 169, 169
+  orig: 169, 169
+  offset: 0, 0
+  index: -1
+images/juzi
+  rotate: false
+  xy: 173, 79
+  size: 169, 147
+  orig: 169, 147
+  offset: 0, 0
+  index: -1
+images/lizi_zrtb/lizi20001
+  rotate: true
+  xy: 2, 2
+  size: 53, 121
+  orig: 53, 121
+  offset: 0, 0
+  index: -1
+images/lizi_zrtb/lizi20003
+  rotate: false
+  xy: 344, 105
+  size: 53, 121
+  orig: 53, 121
+  offset: 0, 0
+  index: -1
+images/lizi_zrtb/lizi20005
+  rotate: false
+  xy: 399, 105
+  size: 53, 121
+  orig: 53, 121
+  offset: 0, 0
+  index: -1
+images/lizi_zrtb/lizi20007
+  rotate: false
+  xy: 454, 105
+  size: 53, 121
+  orig: 53, 121
+  offset: 0, 0
+  index: -1
+images/lizi_zrtb/lizi20009
+  rotate: false
+  xy: 509, 105
+  size: 53, 121
+  orig: 53, 121
+  offset: 0, 0
+  index: -1
+images/lizi_zrtb/lizi20011
+  rotate: false
+  xy: 564, 105
+  size: 53, 121
+  orig: 53, 121
+  offset: 0, 0
+  index: -1
+images/lizi_zrtb/lizi20013
+  rotate: false
+  xy: 619, 105
+  size: 53, 121
+  orig: 53, 121
+  offset: 0, 0
+  index: -1
+images/lizi_zrtb/lizi20015
+  rotate: false
+  xy: 674, 105
+  size: 53, 121
+  orig: 53, 121
+  offset: 0, 0
+  index: -1
+images/lizi_zrtb/lizi20017
+  rotate: false
+  xy: 729, 105
+  size: 53, 121
+  orig: 53, 121
+  offset: 0, 0
+  index: -1
+images/lizi_zrtb/lizi20019
+  rotate: false
+  xy: 784, 105
+  size: 53, 121
+  orig: 53, 121
+  offset: 0, 0
+  index: -1
+images/lizi_zrtb/lizi20021
+  rotate: false
+  xy: 839, 105
+  size: 53, 121
+  orig: 53, 121
+  offset: 0, 0
+  index: -1
+images/lizi_zrtb/lizi20023
+  rotate: false
+  xy: 894, 105
+  size: 53, 121
+  orig: 53, 121
+  offset: 0, 0
+  index: -1
+images/lizi_zrtb/lizi20025
+  rotate: false
+  xy: 949, 105
+  size: 53, 121
+  orig: 53, 121
+  offset: 0, 0
+  index: -1
+images/n
+  rotate: false
+  xy: 471, 61
+  size: 75, 42
+  orig: 75, 42
+  offset: 0, 0
+  index: -1
+images/o
+  rotate: false
+  xy: 548, 62
+  size: 32, 41
+  orig: 32, 41
+  offset: 0, 0
+  index: -1
+images/ss
+  rotate: true
+  xy: 615, 74
+  size: 29, 42
+  orig: 29, 42
+  offset: 0, 0
+  index: -1
+images/u
+  rotate: false
+  xy: 582, 62
+  size: 31, 41
+  orig: 31, 41
+  offset: 0, 0
+  index: -1

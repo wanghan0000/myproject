@@ -1,0 +1,176 @@
+{
+  "ver": "1.0.6",
+  "importer": "bitmap-font",
+  "imported": true,
+  "uuid": "c1eda3ad-e8af-4a8f-b487-ba1233a88fb3",
+  "files": [
+    ".json"
+  ],
+  "subMetas": {},
+  "userData": {
+    "_fntConfig": {
+      "commonHeight": 112,
+      "fontSize": 112,
+      "atlasName": "tienlen_blindbox_num.png",
+      "fontDefDictionary": {
+        "48": {
+          "rect": {
+            "x": 2,
+            "y": 2,
+            "width": 89,
+            "height": 112
+          },
+          "xOffset": 0,
+          "yOffset": 0,
+          "xAdvance": 89
+        },
+        "49": {
+          "rect": {
+            "x": 93,
+            "y": 2,
+            "width": 61,
+            "height": 112
+          },
+          "xOffset": 0,
+          "yOffset": 0,
+          "xAdvance": 61
+        },
+        "50": {
+          "rect": {
+            "x": 156,
+            "y": 2,
+            "width": 82,
+            "height": 112
+          },
+          "xOffset": 0,
+          "yOffset": 0,
+          "xAdvance": 82
+        },
+        "51": {
+          "rect": {
+            "x": 240,
+            "y": 2,
+            "width": 78,
+            "height": 112
+          },
+          "xOffset": 0,
+          "yOffset": 0,
+          "xAdvance": 78
+        },
+        "52": {
+          "rect": {
+            "x": 320,
+            "y": 2,
+            "width": 84,
+            "height": 112
+          },
+          "xOffset": 0,
+          "yOffset": 0,
+          "xAdvance": 84
+        },
+        "53": {
+          "rect": {
+            "x": 406,
+            "y": 2,
+            "width": 78,
+            "height": 112
+          },
+          "xOffset": 0,
+          "yOffset": 0,
+          "xAdvance": 78
+        },
+        "54": {
+          "rect": {
+            "x": 2,
+            "y": 116,
+            "width": 78,
+            "height": 112
+          },
+          "xOffset": 0,
+          "yOffset": 0,
+          "xAdvance": 78
+        },
+        "55": {
+          "rect": {
+            "x": 82,
+            "y": 116,
+            "width": 78,
+            "height": 112
+          },
+          "xOffset": 0,
+          "yOffset": 0,
+          "xAdvance": 78
+        },
+        "56": {
+          "rect": {
+            "x": 162,
+            "y": 116,
+            "width": 86,
+            "height": 112
+          },
+          "xOffset": 0,
+          "yOffset": 0,
+          "xAdvance": 86
+        },
+        "57": {
+          "rect": {
+            "x": 250,
+            "y": 116,
+            "width": 78,
+            "height": 112
+          },
+          "xOffset": 0,
+          "yOffset": 0,
+          "xAdvance": 78
+        },
+        "66": {
+          "rect": {
+            "x": 330,
+            "y": 116,
+            "width": 84,
+            "height": 112
+          },
+          "xOffset": 0,
+          "yOffset": 0,
+          "xAdvance": 84
+        },
+        "75": {
+          "rect": {
+            "x": 2,
+            "y": 230,
+            "width": 103,
+            "height": 112
+          },
+          "xOffset": 0,
+          "yOffset": 0,
+          "xAdvance": 103
+        },
+        "77": {
+          "rect": {
+            "x": 107,
+            "y": 230,
+            "width": 106,
+            "height": 112
+          },
+          "xOffset": 0,
+          "yOffset": 0,
+          "xAdvance": 106
+        },
+        "100": {
+          "rect": {
+            "x": 416,
+            "y": 116,
+            "width": 32,
+            "height": 112
+          },
+          "xOffset": 0,
+          "yOffset": 0,
+          "xAdvance": 32
+        }
+      },
+      "kerningDict": {}
+    },
+    "fontSize": 112,
+    "textureUuid": "670bc77f-fcd6-4144-b82d-68eb78ea7421"
+  }
+}

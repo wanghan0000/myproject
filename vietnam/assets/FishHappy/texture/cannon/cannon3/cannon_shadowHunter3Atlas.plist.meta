@@ -1,0 +1,247 @@
+{
+  "ver": "1.0.7",
+  "importer": "sprite-atlas",
+  "imported": true,
+  "uuid": "c1ceb166-aa02-42e5-8b12-431b38ca1c17",
+  "files": [
+    ".json"
+  ],
+  "subMetas": {
+    "34285": {
+      "importer": "sprite-frame",
+      "uuid": "c1ceb166-aa02-42e5-8b12-431b38ca1c17@34285",
+      "displayName": "",
+      "id": "34285",
+      "name": "cannon_shadowHunter3_04",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 2,
+        "offsetY": 3,
+        "trimX": 1,
+        "trimY": 441,
+        "width": 237,
+        "height": 217,
+        "rawWidth": 247,
+        "rawHeight": 241,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "0774a8c2-559b-480a-8851-867d5ab32861@6c48a",
+        "atlasUuid": "c1ceb166-aa02-42e5-8b12-431b38ca1c17",
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        }
+      },
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d5cef": {
+      "importer": "sprite-frame",
+      "uuid": "c1ceb166-aa02-42e5-8b12-431b38ca1c17@d5cef",
+      "displayName": "",
+      "id": "d5cef",
+      "name": "cannon_shadowHunter3_00",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 1,
+        "offsetY": 4,
+        "trimX": 1,
+        "trimY": 1,
+        "width": 245,
+        "height": 219,
+        "rawWidth": 247,
+        "rawHeight": 241,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "0774a8c2-559b-480a-8851-867d5ab32861@6c48a",
+        "atlasUuid": "c1ceb166-aa02-42e5-8b12-431b38ca1c17",
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        }
+      },
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5353a": {
+      "importer": "sprite-frame",
+      "uuid": "c1ceb166-aa02-42e5-8b12-431b38ca1c17@5353a",
+      "displayName": "",
+      "id": "5353a",
+      "name": "cannon_shadowHunter3_01",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": true,
+        "offsetX": 3,
+        "offsetY": 7,
+        "trimX": 248,
+        "trimY": 1,
+        "width": 241,
+        "height": 225,
+        "rawWidth": 247,
+        "rawHeight": 241,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "0774a8c2-559b-480a-8851-867d5ab32861@6c48a",
+        "atlasUuid": "c1ceb166-aa02-42e5-8b12-431b38ca1c17",
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        }
+      },
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9aa0b": {
+      "importer": "sprite-frame",
+      "uuid": "c1ceb166-aa02-42e5-8b12-431b38ca1c17@9aa0b",
+      "displayName": "",
+      "id": "9aa0b",
+      "name": "cannon_shadowHunter3_02",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 2,
+        "offsetY": 3,
+        "trimX": 240,
+        "trimY": 244,
+        "width": 231,
+        "height": 217,
+        "rawWidth": 247,
+        "rawHeight": 241,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "0774a8c2-559b-480a-8851-867d5ab32861@6c48a",
+        "atlasUuid": "c1ceb166-aa02-42e5-8b12-431b38ca1c17",
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        }
+      },
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e3e36": {
+      "importer": "sprite-frame",
+      "uuid": "c1ceb166-aa02-42e5-8b12-431b38ca1c17@e3e36",
+      "displayName": "",
+      "id": "e3e36",
+      "name": "cannon_shadowHunter3_03",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 3,
+        "offsetY": 3,
+        "trimX": 1,
+        "trimY": 222,
+        "width": 237,
+        "height": 217,
+        "rawWidth": 247,
+        "rawHeight": 241,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "0774a8c2-559b-480a-8851-867d5ab32861@6c48a",
+        "atlasUuid": "c1ceb166-aa02-42e5-8b12-431b38ca1c17",
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        }
+      },
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "atlasTextureName": "cannon_shadowHunter3Atlas.png",
+    "format": 3,
+    "uuid": "c1ceb166-aa02-42e5-8b12-431b38ca1c17",
+    "textureUuid": "0774a8c2-559b-480a-8851-867d5ab32861@6c48a"
+  }
+}

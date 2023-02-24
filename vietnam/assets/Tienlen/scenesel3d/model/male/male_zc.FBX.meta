@@ -1,0 +1,82 @@
+{
+  "ver": "2.3.0",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "8449db99-a60c-476f-8d83-b39265eabb7b",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "d4450": {
+      "importer": "gltf-animation",
+      "uuid": "8449db99-a60c-476f-8d83-b39265eabb7b@d4450",
+      "displayName": "",
+      "id": "d4450",
+      "name": "chuchang.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 3.933333396911621
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "eeb29": {
+      "importer": "gltf-scene",
+      "uuid": "8449db99-a60c-476f-8d83-b39265eabb7b@eeb29",
+      "displayName": "",
+      "id": "eeb29",
+      "name": "male_zc.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "animationImportSettings": [
+      {
+        "name": "Take 001",
+        "duration": 3.933333396911621,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "chuchang",
+            "from": 0,
+            "to": 3.933333396911621,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "8449db99-a60c-476f-8d83-b39265eabb7b@eeb29",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "8449db99-a60c-476f-8d83-b39265eabb7b@eeb29"
+      ]
+    }
+  }
+}

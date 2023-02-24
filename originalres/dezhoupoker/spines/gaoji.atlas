@@ -1,0 +1,76 @@
+
+gaoji.png
+size: 1248,526
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di
+  rotate: false
+  xy: 706, 255
+  size: 269, 269
+  orig: 269, 269
+  offset: 0, 0
+  index: -1
+dian
+  rotate: false
+  xy: 959, 12
+  size: 245, 241
+  orig: 245, 241
+  offset: 0, 0
+  index: -1
+g
+  rotate: false
+  xy: 706, 6
+  size: 251, 247
+  orig: 251, 247
+  offset: 0, 0
+  index: -1
+k
+  rotate: false
+  xy: 977, 255
+  size: 269, 269
+  orig: 269, 269
+  offset: 0, 0
+  index: -1
+lizi
+  rotate: false
+  xy: 2, 124
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+quan
+  rotate: false
+  xy: 404, 224
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+sc_1
+  rotate: false
+  xy: 404, 64
+  size: 246, 158
+  orig: 246, 158
+  offset: 0, 0
+  index: -1
+sc_2
+  rotate: false
+  xy: 2, 2
+  size: 40, 36
+  orig: 40, 36
+  offset: 0, 0
+  index: -1
+sc_3
+  rotate: false
+  xy: 253, 80
+  size: 34, 42
+  orig: 34, 42
+  offset: 0, 0
+  index: -1
+zd
+  rotate: false
+  xy: 2, 40
+  size: 249, 82
+  orig: 249, 82
+  offset: 0, 0
+  index: -1

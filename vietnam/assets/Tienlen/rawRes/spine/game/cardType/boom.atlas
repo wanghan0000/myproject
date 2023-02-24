@@ -1,0 +1,454 @@
+
+boom.png
+size: 1921,968
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: false
+  xy: 1394, 688
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+BOOM_0
+  rotate: true
+  xy: 1624, 611
+  size: 80, 78
+  orig: 80, 78
+  offset: 0, 0
+  index: -1
+BOOM_1
+  rotate: false
+  xy: 851, 23
+  size: 77, 55
+  orig: 77, 55
+  offset: 0, 0
+  index: -1
+BOOM_2
+  rotate: false
+  xy: 778, 2
+  size: 71, 76
+  orig: 71, 76
+  offset: 0, 0
+  index: -1
+BOOM_3
+  rotate: true
+  xy: 1642, 2
+  size: 53, 59
+  orig: 53, 59
+  offset: 0, 0
+  index: -1
+BOOM_4
+  rotate: false
+  xy: 690, 2
+  size: 86, 76
+  orig: 86, 76
+  offset: 0, 0
+  index: -1
+BOOM_5
+  rotate: false
+  xy: 1222, 886
+  size: 267, 80
+  orig: 267, 80
+  offset: 0, 0
+  index: -1
+BOOM_6
+  rotate: false
+  xy: 962, 496
+  size: 213, 237
+  orig: 213, 237
+  offset: 0, 0
+  index: -1
+GUANG
+  rotate: false
+  xy: 1663, 838
+  size: 16, 7
+  orig: 16, 7
+  offset: 0, 0
+  index: -1
+HUI
+  rotate: false
+  xy: 1681, 838
+  size: 16, 7
+  orig: 16, 7
+  offset: 0, 0
+  index: -1
+dianhuo00
+  rotate: false
+  xy: 1808, 870
+  size: 100, 96
+  orig: 100, 96
+  offset: 0, 0
+  index: -1
+dianhuo01
+  rotate: false
+  xy: 1772, 19
+  size: 100, 96
+  orig: 100, 96
+  offset: 0, 0
+  index: -1
+dianhuo02
+  rotate: false
+  xy: 980, 17
+  size: 100, 96
+  orig: 100, 96
+  offset: 0, 0
+  index: -1
+fsx_000
+  rotate: false
+  xy: 1222, 818
+  size: 260, 66
+  orig: 260, 66
+  offset: 0, 0
+  index: -1
+garrison_fire_bot_2_sheet_000
+  rotate: false
+  xy: 876, 322
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+garrison_fire_bot_2_sheet_001
+  rotate: false
+  xy: 1006, 245
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+garrison_fire_bot_2_sheet_002
+  rotate: false
+  xy: 1151, 307
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+garrison_fire_bot_2_sheet_003
+  rotate: false
+  xy: 1136, 177
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+garrison_fire_bot_2_sheet_004
+  rotate: false
+  xy: 1281, 307
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+garrison_fire_bot_2_sheet_005
+  rotate: false
+  xy: 1266, 177
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+garrison_fire_bot_2_sheet_006
+  rotate: false
+  xy: 1349, 437
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+garrison_fire_bot_2_sheet_007
+  rotate: false
+  xy: 1411, 307
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+garrison_fire_bot_2_sheet_008
+  rotate: false
+  xy: 1396, 177
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+garrison_fire_bot_2_sheet_009
+  rotate: false
+  xy: 1479, 437
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+garrison_fire_bot_2_sheet_010
+  rotate: false
+  xy: 1541, 307
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+garrison_fire_bot_2_sheet_011
+  rotate: false
+  xy: 1526, 177
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+garrison_fire_bot_2_sheet_012
+  rotate: false
+  xy: 994, 115
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+garrison_fire_bot_2_sheet_013
+  rotate: false
+  xy: 1124, 47
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+garrison_fire_bot_2_sheet_014
+  rotate: false
+  xy: 1254, 47
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+garrison_fire_bot_2_sheet_015
+  rotate: false
+  xy: 1384, 47
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+generic_glow_a_sheet_000
+  rotate: false
+  xy: 518, 136
+  size: 170, 128
+  orig: 170, 128
+  offset: 0, 0
+  index: -1
+generic_glow_a_sheet_001
+  rotate: false
+  xy: 704, 322
+  size: 170, 128
+  orig: 170, 128
+  offset: 0, 0
+  index: -1
+generic_glow_a_sheet_002
+  rotate: false
+  xy: 518, 6
+  size: 170, 128
+  orig: 170, 128
+  offset: 0, 0
+  index: -1
+generic_glow_a_sheet_003
+  rotate: false
+  xy: 1222, 688
+  size: 170, 128
+  orig: 170, 128
+  offset: 0, 0
+  index: -1
+generic_glow_a_sheet_004
+  rotate: false
+  xy: 1177, 558
+  size: 170, 128
+  orig: 170, 128
+  offset: 0, 0
+  index: -1
+generic_glow_a_sheet_005
+  rotate: false
+  xy: 1491, 838
+  size: 170, 128
+  orig: 170, 128
+  offset: 0, 0
+  index: -1
+guang000
+  rotate: false
+  xy: 962, 735
+  size: 258, 231
+  orig: 258, 231
+  offset: 0, 0
+  index: -1
+impact_new_2_a_new_sheet_000
+  rotate: false
+  xy: 2, 8
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+impact_new_2_a_new_sheet_001
+  rotate: false
+  xy: 704, 710
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+impact_new_2_a_new_sheet_002
+  rotate: false
+  xy: 260, 8
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+impact_new_2_a_new_sheet_003
+  rotate: false
+  xy: 704, 452
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+shitou_00
+  rotate: false
+  xy: 1663, 847
+  size: 143, 119
+  orig: 143, 119
+  offset: 0, 0
+  index: -1
+shitou_01
+  rotate: false
+  xy: 1349, 567
+  size: 143, 119
+  orig: 143, 119
+  offset: 0, 0
+  index: -1
+shitou_02
+  rotate: true
+  xy: 1524, 693
+  size: 143, 119
+  orig: 143, 119
+  offset: 0, 0
+  index: -1
+shitou_03
+  rotate: false
+  xy: 1006, 375
+  size: 143, 119
+  orig: 143, 119
+  offset: 0, 0
+  index: -1
+shitou_04
+  rotate: false
+  xy: 1177, 437
+  size: 143, 119
+  orig: 143, 119
+  offset: 0, 0
+  index: -1
+shitou_05
+  rotate: false
+  xy: 704, 201
+  size: 143, 119
+  orig: 143, 119
+  offset: 0, 0
+  index: -1
+shitou_06
+  rotate: false
+  xy: 849, 201
+  size: 143, 119
+  orig: 143, 119
+  offset: 0, 0
+  index: -1
+shitou_07
+  rotate: false
+  xy: 690, 80
+  size: 143, 119
+  orig: 143, 119
+  offset: 0, 0
+  index: -1
+shitou_08
+  rotate: false
+  xy: 835, 80
+  size: 143, 119
+  orig: 143, 119
+  offset: 0, 0
+  index: -1
+sm_gs_superskill1_45_conjure_0005
+  rotate: false
+  xy: 2, 266
+  size: 700, 700
+  orig: 700, 700
+  offset: 0, 0
+  index: -1
+yanwu00
+  rotate: false
+  xy: 1494, 568
+  size: 128, 118
+  orig: 128, 118
+  offset: 0, 0
+  index: -1
+yanwu02
+  rotate: true
+  xy: 1645, 708
+  size: 128, 118
+  orig: 128, 118
+  offset: 0, 0
+  index: -1
+yanwu04
+  rotate: true
+  xy: 1765, 717
+  size: 128, 118
+  orig: 128, 118
+  offset: 0, 0
+  index: -1
+yanwu06
+  rotate: true
+  xy: 1656, 177
+  size: 128, 118
+  orig: 128, 118
+  offset: 0, 0
+  index: -1
+yanwu08
+  rotate: false
+  xy: 1642, 57
+  size: 128, 118
+  orig: 128, 118
+  offset: 0, 0
+  index: -1
+yanwu10
+  rotate: true
+  xy: 1609, 438
+  size: 128, 118
+  orig: 128, 118
+  offset: 0, 0
+  index: -1
+yanwu12
+  rotate: true
+  xy: 1671, 308
+  size: 128, 118
+  orig: 128, 118
+  offset: 0, 0
+  index: -1
+yanwu14
+  rotate: false
+  xy: 1791, 597
+  size: 128, 118
+  orig: 128, 118
+  offset: 0, 0
+  index: -1
+yanwu16
+  rotate: false
+  xy: 1791, 477
+  size: 128, 118
+  orig: 128, 118
+  offset: 0, 0
+  index: -1
+yanwu18
+  rotate: false
+  xy: 1791, 357
+  size: 128, 118
+  orig: 128, 118
+  offset: 0, 0
+  index: -1
+yanwu20
+  rotate: false
+  xy: 1791, 237
+  size: 128, 118
+  orig: 128, 118
+  offset: 0, 0
+  index: -1
+yanwu22
+  rotate: false
+  xy: 1776, 117
+  size: 128, 118
+  orig: 128, 118
+  offset: 0, 0
+  index: -1
+yuan
+  rotate: false
+  xy: 1514, 50
+  size: 126, 125
+  orig: 126, 125
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,23 @@
+{
+  "extends": "./temp/tsconfig.cocos.json",
+  "compilerOptions": {
+    /* 自定义的 tsconfig 选项 */
+    "allowSyntheticDefaultImports": true,
+    "allowJs": true,
+    "strictNullChecks": false,
+    "strictPropertyInitialization": false
+  },
+  "exclude": [
+    "node_modules",
+    "binary",
+    "extensions",
+    "library",
+    "local",
+    "profiles",
+    "protocol",
+    "settings",
+    "temp",
+    "tsdata",
+    "build"
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "ver": "1.0.1",
+  "importer": "label-atlas",
+  "imported": true,
+  "uuid": "42f0cc84-7f44-4278-8d4e-6a4b4ee911fb",
+  "files": [
+    ".json"
+  ],
+  "subMetas": {},
+  "userData": {
+    "itemWidth": 56,
+    "itemHeight": 79,
+    "fontSize": 69.52,
+    "startChar": "0",
+    "spriteFrameUuid": "20663e56-4981-45cd-8a5c-9e2126bfa47f@f9941",
+    "_fntConfig": {
+      "commonHeight": 79,
+      "fontSize": 69,
+      "atlasName": "jinjitishi",
+      "fontDefDictionary": {
+        "48": {
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 56,
+            "height": 79
+          },
+          "xOffset": 0,
+          "yOffset": 0,
+          "xAdvance": 56
+        },
+        "49": {
+          "rect": {
+            "x": 0,
+            "y": 79,
+            "width": 56,
+            "height": 79
+          },
+          "xOffset": 0,
+          "yOffset": 0,
+          "xAdvance": 56
+        },
+        "50": {
+          "rect": {
+            "x": 0,
+            "y": 158,
+            "width": 56,
+            "height": 79
+          },
+          "xOffset": 0,
+          "yOffset": 0,
+          "xAdvance": 56
+        },
+        "51": {
+          "rect": {
+            "x": 0,
+            "y": 237,
+            "width": 56,
+            "height": 79
+          },
+          "xOffset": 0,
+          "yOffset": 0,
+          "xAdvance": 56
+        },
+        "52": {
+          "rect": {
+            "x": 0,
+            "y": 316,
+            "width": 56,
+            "height": 79
+          },
+          "xOffset": 0,
+          "yOffset": 0,
+          "xAdvance": 56
+        },
+        "53": {
+          "rect": {
+            "x": 0,
+            "y": 395,
+            "width": 56,
+            "height": 79
+          },
+          "xOffset": 0,
+          "yOffset": 0,
+          "xAdvance": 56
+        },
+        "54": {
+          "rect": {
+            "x": 0,
+            "y": 474,
+            "width": 56,
+            "height": 79
+          },
+          "xOffset": 0,
+          "yOffset": 0,
+          "xAdvance": 56
+        },
+        "55": {
+          "rect": {
+            "x": 0,
+            "y": 553,
+            "width": 56,
+            "height": 79
+          },
+          "xOffset": 0,
+          "yOffset": 0,
+          "xAdvance": 56
+        },
+        "56": {
+          "rect": {
+            "x": 0,
+            "y": 632,
+            "width": 56,
+            "height": 79
+          },
+          "xOffset": 0,
+          "yOffset": 0,
+          "xAdvance": 56
+        },
+        "57": {
+          "rect": {
+            "x": 0,
+            "y": 711,
+            "width": 56,
+            "height": 79
+          },
+          "xOffset": 0,
+          "yOffset": 0,
+          "xAdvance": 56
+        }
+      },
+      "kerningDict": {}
+    }
+  }
+}

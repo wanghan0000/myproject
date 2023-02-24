@@ -1,0 +1,181 @@
+{
+  "ver": "2.3.0",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "fc0f0466-62b4-416a-a2e4-f123e646154d",
+  "files": [],
+  "subMetas": {
+    "69755": {
+      "importer": "gltf-material",
+      "uuid": "fc0f0466-62b4-416a-a2e4-f123e646154d@69755",
+      "displayName": "",
+      "id": "69755",
+      "name": "wujian.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8231a": {
+      "importer": "gltf-mesh",
+      "uuid": "fc0f0466-62b4-416a-a2e4-f123e646154d@8231a",
+      "displayName": "",
+      "id": "8231a",
+      "name": "xiaowujian.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "764f4": {
+      "importer": "texture",
+      "uuid": "fc0f0466-62b4-416a-a2e4-f123e646154d@764f4",
+      "displayName": "",
+      "id": "764f4",
+      "name": "Map #35.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/Tienlen/scenesel3d/model/wujian.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c0055": {
+      "importer": "texture",
+      "uuid": "fc0f0466-62b4-416a-a2e4-f123e646154d@c0055",
+      "displayName": "",
+      "id": "c0055",
+      "name": "Map #36.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/Tienlen/scenesel3d/model/wujian.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a9707": {
+      "importer": "gltf-scene",
+      "uuid": "fc0f0466-62b4-416a-a2e4-f123e646154d@a9707",
+      "displayName": "",
+      "id": "a9707",
+      "name": "wujian.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "Map #35",
+        "uri": "db://assets/Tienlen/scenesel3d/model/wujian.png"
+      },
+      {
+        "name": "Map #36",
+        "uri": "db://assets/Tienlen/scenesel3d/model/wujian.png"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "fc0f0466-62b4-416a-a2e4-f123e646154d@a9707",
+    "assetFinder": {
+      "meshes": [
+        "fc0f0466-62b4-416a-a2e4-f123e646154d@8231a"
+      ],
+      "skeletons": [],
+      "textures": [
+        "fc0f0466-62b4-416a-a2e4-f123e646154d@764f4",
+        "fc0f0466-62b4-416a-a2e4-f123e646154d@c0055"
+      ],
+      "materials": [
+        "fc0f0466-62b4-416a-a2e4-f123e646154d@69755"
+      ],
+      "scenes": [
+        "fc0f0466-62b4-416a-a2e4-f123e646154d@a9707"
+      ]
+    },
+    "materials": {
+      "fc0f0466-62b4-416a-a2e4-f123e646154d@69755": {
+        "__type__": "cc.Material",
+        "_name": "",
+        "_objFlags": 0,
+        "_native": "",
+        "_effectAsset": {
+          "__uuid__": "bf4078d6-d2d7-4073-83bb-cd6f1802e880",
+          "__expectedType__": "cc.EffectAsset"
+        },
+        "_techIdx": "0",
+        "_defines": [
+          {
+            "USE_TEXTURE": true
+          }
+        ],
+        "_states": [
+          {
+            "rasterizerState": {},
+            "depthStencilState": {},
+            "blendState": {
+              "targets": [
+                {}
+              ]
+            }
+          }
+        ],
+        "_props": [
+          {
+            "mainTexture": {
+              "__uuid__": "fc0f0466-62b4-416a-a2e4-f123e646154d@c0055",
+              "__expectedType__": "cc.Texture2D"
+            },
+            "mainColor": {
+              "__type__": "cc.Color",
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "a": 0
+            }
+          }
+        ]
+      }
+    }
+  }
+}

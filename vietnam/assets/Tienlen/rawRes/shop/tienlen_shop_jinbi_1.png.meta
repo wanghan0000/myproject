@@ -1,0 +1,134 @@
+{
+  "ver": "1.0.24",
+  "importer": "image",
+  "imported": true,
+  "uuid": "583c5412-761f-4cd2-8d54-a0d4d125c2ac",
+  "files": [
+    ".json",
+    ".png"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "583c5412-761f-4cd2-8d54-a0d4d125c2ac@6c48a",
+      "displayName": "tienlen_shop_jinbi_1",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "583c5412-761f-4cd2-8d54-a0d4d125c2ac",
+        "visible": false
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f9941": {
+      "importer": "sprite-frame",
+      "uuid": "583c5412-761f-4cd2-8d54-a0d4d125c2ac@f9941",
+      "displayName": "tienlen_shop_jinbi_1",
+      "id": "f9941",
+      "name": "spriteFrame",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": -56.5,
+        "trimX": 3,
+        "trimY": 113,
+        "width": 144,
+        "height": 147,
+        "rawWidth": 150,
+        "rawHeight": 260,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [
+            -72,
+            -73.5,
+            0,
+            72,
+            -73.5,
+            0,
+            -72,
+            73.5,
+            0,
+            72,
+            73.5,
+            0
+          ],
+          "indexes": [
+            0,
+            1,
+            2,
+            2,
+            1,
+            3
+          ],
+          "uv": [
+            3,
+            147,
+            147,
+            147,
+            3,
+            0,
+            147,
+            0
+          ],
+          "nuv": [
+            0.02,
+            0,
+            0.98,
+            0,
+            0.02,
+            0.5653846153846154,
+            0.98,
+            0.5653846153846154
+          ],
+          "minPos": [
+            -72,
+            -73.5,
+            0
+          ],
+          "maxPos": [
+            72,
+            73.5,
+            0
+          ]
+        },
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "583c5412-761f-4cd2-8d54-a0d4d125c2ac@6c48a",
+        "atlasUuid": ""
+      },
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "type": "sprite-frame",
+    "fixAlphaTransparencyArtifacts": true,
+    "hasAlpha": true,
+    "redirect": "583c5412-761f-4cd2-8d54-a0d4d125c2ac@f9941"
+  }
+}

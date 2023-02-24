@@ -1,0 +1,247 @@
+{
+  "ver": "1.0.7",
+  "importer": "sprite-atlas",
+  "imported": true,
+  "uuid": "5abfce12-a1d1-44c3-9fef-989de9c50e8e",
+  "files": [
+    ".json"
+  ],
+  "subMetas": {
+    "94e1d": {
+      "importer": "sprite-frame",
+      "uuid": "5abfce12-a1d1-44c3-9fef-989de9c50e8e@94e1d",
+      "displayName": "",
+      "id": "94e1d",
+      "name": "bomb_coldBlade_00",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 5,
+        "offsetY": -2,
+        "trimX": 209,
+        "trimY": 217,
+        "width": 194,
+        "height": 196,
+        "rawWidth": 230,
+        "rawHeight": 230,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "44dc32c3-5006-4549-b0d4-8867ba78e88c@6c48a",
+        "atlasUuid": "5abfce12-a1d1-44c3-9fef-989de9c50e8e",
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        }
+      },
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b0410": {
+      "importer": "sprite-frame",
+      "uuid": "5abfce12-a1d1-44c3-9fef-989de9c50e8e@b0410",
+      "displayName": "",
+      "id": "b0410",
+      "name": "bomb_coldBlade_01",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 3,
+        "offsetY": -1,
+        "trimX": 1,
+        "trimY": 217,
+        "width": 206,
+        "height": 206,
+        "rawWidth": 230,
+        "rawHeight": 230,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "44dc32c3-5006-4549-b0d4-8867ba78e88c@6c48a",
+        "atlasUuid": "5abfce12-a1d1-44c3-9fef-989de9c50e8e",
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        }
+      },
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ebd16": {
+      "importer": "sprite-frame",
+      "uuid": "5abfce12-a1d1-44c3-9fef-989de9c50e8e@ebd16",
+      "displayName": "",
+      "id": "ebd16",
+      "name": "bomb_coldBlade_02",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 3,
+        "offsetY": -2,
+        "trimX": 405,
+        "trimY": 215,
+        "width": 212,
+        "height": 210,
+        "rawWidth": 230,
+        "rawHeight": 230,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "44dc32c3-5006-4549-b0d4-8867ba78e88c@6c48a",
+        "atlasUuid": "5abfce12-a1d1-44c3-9fef-989de9c50e8e",
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        }
+      },
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "eec80": {
+      "importer": "sprite-frame",
+      "uuid": "5abfce12-a1d1-44c3-9fef-989de9c50e8e@eec80",
+      "displayName": "",
+      "id": "eec80",
+      "name": "bomb_coldBlade_03",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 3,
+        "offsetY": -2,
+        "trimX": 1,
+        "trimY": 1,
+        "width": 212,
+        "height": 214,
+        "rawWidth": 230,
+        "rawHeight": 230,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "44dc32c3-5006-4549-b0d4-8867ba78e88c@6c48a",
+        "atlasUuid": "5abfce12-a1d1-44c3-9fef-989de9c50e8e",
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        }
+      },
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f70cf": {
+      "importer": "sprite-frame",
+      "uuid": "5abfce12-a1d1-44c3-9fef-989de9c50e8e@f70cf",
+      "displayName": "",
+      "id": "f70cf",
+      "name": "bomb_coldBlade_04",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 2,
+        "offsetY": -2,
+        "trimX": 405,
+        "trimY": 1,
+        "width": 212,
+        "height": 212,
+        "rawWidth": 230,
+        "rawHeight": 230,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "44dc32c3-5006-4549-b0d4-8867ba78e88c@6c48a",
+        "atlasUuid": "5abfce12-a1d1-44c3-9fef-989de9c50e8e",
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        }
+      },
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "atlasTextureName": "bomb_coldBlade.png",
+    "format": 3,
+    "uuid": "5abfce12-a1d1-44c3-9fef-989de9c50e8e",
+    "textureUuid": "44dc32c3-5006-4549-b0d4-8867ba78e88c@6c48a"
+  }
+}

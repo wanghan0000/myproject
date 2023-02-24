@@ -1,0 +1,82 @@
+{
+  "ver": "2.3.0",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "05a144c1-3ba1-4a72-9889-10cf4b46c6cb",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "84fae": {
+      "importer": "gltf-animation",
+      "uuid": "05a144c1-3ba1-4a72-9889-10cf4b46c6cb@84fae",
+      "displayName": "",
+      "id": "84fae",
+      "name": "chipaidaiji.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1.6666666269302368
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "315b1": {
+      "importer": "gltf-scene",
+      "uuid": "05a144c1-3ba1-4a72-9889-10cf4b46c6cb@315b1",
+      "displayName": "",
+      "id": "315b1",
+      "name": "female_chipaidaiji.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "animationImportSettings": [
+      {
+        "name": "Take 001",
+        "duration": 1.6666666269302368,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "chipaidaiji",
+            "from": 0,
+            "to": 1.6666666269302368,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "05a144c1-3ba1-4a72-9889-10cf4b46c6cb@315b1",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "05a144c1-3ba1-4a72-9889-10cf4b46c6cb@315b1"
+      ]
+    }
+  }
+}

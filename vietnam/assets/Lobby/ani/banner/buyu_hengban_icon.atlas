@@ -1,0 +1,118 @@
+
+buyu_hengban_icon.png
+size: 463,525
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sy_28
+  rotate: true
+  xy: 436, 480
+  size: 43, 25
+  orig: 43, 25
+  offset: 0, 0
+  index: -1
+sy_29
+  rotate: false
+  xy: 190, 20
+  size: 179, 154
+  orig: 179, 154
+  offset: 0, 0
+  index: -1
+sy_30
+  rotate: false
+  xy: 398, 160
+  size: 58, 94
+  orig: 58, 94
+  offset: 0, 0
+  index: -1
+sy_31
+  rotate: true
+  xy: 254, 181
+  size: 210, 142
+  orig: 210, 142
+  offset: 0, 0
+  index: -1
+sy_32
+  rotate: false
+  xy: 2, 176
+  size: 124, 215
+  orig: 124, 215
+  offset: 0, 0
+  index: -1
+sy_33
+  rotate: false
+  xy: 128, 176
+  size: 124, 215
+  orig: 124, 215
+  offset: 0, 0
+  index: -1
+sy_34
+  rotate: false
+  xy: 371, 78
+  size: 48, 35
+  orig: 48, 35
+  offset: 0, 0
+  index: -1
+sy_35
+  rotate: true
+  xy: 2, 393
+  size: 130, 215
+  orig: 130, 215
+  offset: 0, 0
+  index: -1
+sy_36
+  rotate: true
+  xy: 219, 393
+  size: 130, 215
+  orig: 130, 215
+  offset: 0, 0
+  index: -1
+sy_37
+  rotate: true
+  xy: 2, 2
+  size: 172, 186
+  orig: 172, 186
+  offset: 0, 0
+  index: -1
+sy_38
+  rotate: false
+  xy: 371, 115
+  size: 65, 43
+  orig: 65, 43
+  offset: 0, 0
+  index: -1
+sy_39
+  rotate: false
+  xy: 421, 76
+  size: 38, 37
+  orig: 38, 37
+  offset: 0, 0
+  index: -1
+sy_40
+  rotate: false
+  xy: 371, 39
+  size: 38, 37
+  orig: 38, 37
+  offset: 0, 0
+  index: -1
+sy_41
+  rotate: false
+  xy: 436, 453
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+sy_42
+  rotate: false
+  xy: 436, 431
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+sy_43
+  rotate: true
+  xy: 398, 256
+  size: 135, 58
+  orig: 135, 58
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,82 @@
+{
+  "ver": "2.3.0",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "9334f2ea-4172-46fd-94a8-984cbfa027c1",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "57a4a": {
+      "importer": "gltf-animation",
+      "uuid": "9334f2ea-4172-46fd-94a8-984cbfa027c1@57a4a",
+      "displayName": "",
+      "id": "57a4a",
+      "name": "chipaisikao.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1.6666666269302368
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "aa4ba": {
+      "importer": "gltf-scene",
+      "uuid": "9334f2ea-4172-46fd-94a8-984cbfa027c1@aa4ba",
+      "displayName": "",
+      "id": "aa4ba",
+      "name": "female_ chipaisikao.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "animationImportSettings": [
+      {
+        "name": "Take 001",
+        "duration": 1.6666666269302368,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "chipaisikao",
+            "from": 0,
+            "to": 1.6666666269302368,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "9334f2ea-4172-46fd-94a8-984cbfa027c1@aa4ba",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "9334f2ea-4172-46fd-94a8-984cbfa027c1@aa4ba"
+      ]
+    }
+  }
+}

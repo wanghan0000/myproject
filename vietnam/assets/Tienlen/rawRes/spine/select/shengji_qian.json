@@ -1,0 +1,417 @@
+{
+"skeleton": { "hash": "DktEmA2d5Vtq+ZYdmh3k25EjBSQ", "spine": "3.6.53", "width": 0, "height": 0, "images": "./images/" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "横版角色", "parent": "root", "length": 359.45, "rotation": 0.18, "x": 0.73, "y": 414.15 },
+	{
+		"name": "升级光效/升级光效3h_08",
+		"parent": "横版角色",
+		"length": 171.63,
+		"rotation": 178.25,
+		"x": -0.18,
+		"y": -414.35,
+		"scaleX": 2,
+		"scaleY": 2
+	},
+	{ "name": "横版角色2", "parent": "横版角色", "length": 88.44, "rotation": -90.18, "x": -2.12, "y": -451.86, "scaleX": 5, "scaleY": 5 },
+	{ "name": "横版角色3", "parent": "横版角色", "length": 236.9, "rotation": 179.82, "x": -2, "y": -414.14 }
+],
+"slots": [
+	{ "name": "升级光效/升级光效3h_08", "bone": "升级光效/升级光效3h_08", "blend": "additive" },
+	{ "name": "kuang", "bone": "root" },
+	{ "name": "1/light_000", "bone": "横版角色2", "blend": "additive" },
+	{ "name": "1/light_0", "bone": "横版角色2", "blend": "additive" },
+	{ "name": "1/light_1", "bone": "横版角色2", "blend": "additive" },
+	{ "name": "shangsheng/上升粒子b_10", "bone": "横版角色3", "blend": "additive" }
+],
+"skins": {
+	"default": {
+		"1/light_0": {
+			"1/light_000": { "rotation": 90, "width": 100, "height": 100 },
+			"1/light_001": { "rotation": 90, "width": 100, "height": 100 },
+			"1/light_002": { "rotation": 90, "width": 100, "height": 100 },
+			"1/light_003": { "rotation": 90, "width": 100, "height": 100 },
+			"1/light_004": { "rotation": 90, "width": 100, "height": 100 },
+			"1/light_005": { "rotation": 90, "width": 100, "height": 100 },
+			"1/light_006": { "rotation": 90, "width": 100, "height": 100 },
+			"1/light_007": { "rotation": 90, "width": 100, "height": 100 },
+			"1/light_008": { "rotation": 90, "width": 100, "height": 100 },
+			"1/light_009": { "rotation": 90, "width": 100, "height": 100 },
+			"1/light_010": { "rotation": 90, "width": 100, "height": 100 },
+			"1/light_011": { "rotation": 90, "width": 100, "height": 100 },
+			"1/light_012": { "rotation": 90, "width": 100, "height": 100 },
+			"1/light_013": { "rotation": 90, "width": 100, "height": 100 },
+			"1/light_014": { "rotation": 90, "width": 100, "height": 100 },
+			"1/light_015": { "rotation": 90, "width": 100, "height": 100 },
+			"1/light_016": { "rotation": 90, "width": 100, "height": 100 },
+			"1/light_017": { "rotation": 90, "width": 100, "height": 100 },
+			"1/light_018": { "rotation": 90, "width": 100, "height": 100 }
+		},
+		"1/light_000": {
+			"1/light_000": { "rotation": 90, "width": 100, "height": 100 },
+			"1/light_001": { "rotation": 90, "width": 100, "height": 100 },
+			"1/light_002": { "rotation": 90, "width": 100, "height": 100 },
+			"1/light_003": { "rotation": 90, "width": 100, "height": 100 },
+			"1/light_004": { "rotation": 90, "width": 100, "height": 100 },
+			"1/light_005": { "rotation": 90, "width": 100, "height": 100 },
+			"1/light_006": { "rotation": 90, "width": 100, "height": 100 },
+			"1/light_007": { "rotation": 90, "width": 100, "height": 100 },
+			"1/light_008": { "rotation": 90, "width": 100, "height": 100 },
+			"1/light_009": { "rotation": 90, "width": 100, "height": 100 },
+			"1/light_010": { "rotation": 90, "width": 100, "height": 100 },
+			"1/light_011": { "rotation": 90, "width": 100, "height": 100 },
+			"1/light_012": { "rotation": 90, "width": 100, "height": 100 },
+			"1/light_013": { "rotation": 90, "width": 100, "height": 100 },
+			"1/light_014": { "rotation": 90, "width": 100, "height": 100 },
+			"1/light_015": { "rotation": 90, "width": 100, "height": 100 },
+			"1/light_016": { "rotation": 90, "width": 100, "height": 100 },
+			"1/light_017": { "rotation": 90, "width": 100, "height": 100 },
+			"1/light_018": { "rotation": 90, "width": 100, "height": 100 }
+		},
+		"1/light_1": {
+			"1/light_000": { "rotation": 90, "width": 100, "height": 100 },
+			"1/light_001": { "rotation": 90, "width": 100, "height": 100 },
+			"1/light_002": { "rotation": 90, "width": 100, "height": 100 },
+			"1/light_003": { "rotation": 90, "width": 100, "height": 100 },
+			"1/light_004": { "rotation": 90, "width": 100, "height": 100 },
+			"1/light_005": { "rotation": 90, "width": 100, "height": 100 },
+			"1/light_006": { "rotation": 90, "width": 100, "height": 100 },
+			"1/light_007": { "rotation": 90, "width": 100, "height": 100 },
+			"1/light_008": { "rotation": 90, "width": 100, "height": 100 },
+			"1/light_009": { "rotation": 90, "width": 100, "height": 100 },
+			"1/light_010": { "rotation": 90, "width": 100, "height": 100 },
+			"1/light_011": { "rotation": 90, "width": 100, "height": 100 },
+			"1/light_012": { "rotation": 90, "width": 100, "height": 100 },
+			"1/light_013": { "rotation": 90, "width": 100, "height": 100 },
+			"1/light_014": { "rotation": 90, "width": 100, "height": 100 },
+			"1/light_015": { "rotation": 90, "width": 100, "height": 100 },
+			"1/light_016": { "rotation": 90, "width": 100, "height": 100 },
+			"1/light_017": { "rotation": 90, "width": 100, "height": 100 },
+			"1/light_018": { "rotation": 90, "width": 100, "height": 100 }
+		},
+		"shangsheng/上升粒子b_10": {
+			"shangsheng/上升粒子b_10": { "rotation": 180, "width": 200, "height": 400 },
+			"shangsheng/上升粒子b_11": { "rotation": 180, "width": 200, "height": 400 },
+			"shangsheng/上升粒子b_12": { "rotation": 180, "width": 200, "height": 400 },
+			"shangsheng/上升粒子b_13": { "rotation": 180, "width": 200, "height": 400 },
+			"shangsheng/上升粒子b_14": { "rotation": 180, "width": 200, "height": 400 },
+			"shangsheng/上升粒子b_15": { "rotation": 180, "width": 200, "height": 400 },
+			"shangsheng/上升粒子b_16": { "rotation": 180, "width": 200, "height": 400 },
+			"shangsheng/上升粒子b_17": { "rotation": 180, "width": 200, "height": 400 },
+			"shangsheng/上升粒子b_18": { "rotation": 180, "width": 200, "height": 400 },
+			"shangsheng/上升粒子b_19": { "rotation": 180, "width": 200, "height": 400 },
+			"shangsheng/上升粒子b_20": { "rotation": 180, "width": 200, "height": 400 },
+			"shangsheng/上升粒子b_21": { "rotation": 180, "width": 200, "height": 400 },
+			"shangsheng/上升粒子b_22": { "rotation": 180, "width": 200, "height": 400 },
+			"shangsheng/上升粒子b_23": { "rotation": 180, "width": 200, "height": 400 },
+			"shangsheng/上升粒子b_24": { "rotation": 180, "width": 200, "height": 400 },
+			"shangsheng/上升粒子b_25": { "rotation": 180, "width": 200, "height": 400 },
+			"shangsheng/上升粒子b_26": { "rotation": 180, "width": 200, "height": 400 },
+			"shangsheng/上升粒子b_27": { "rotation": 180, "width": 200, "height": 400 },
+			"shangsheng/上升粒子b_28": { "rotation": 180, "width": 200, "height": 400 },
+			"shangsheng/上升粒子b_29": { "rotation": 180, "width": 200, "height": 400 },
+			"shangsheng/上升粒子b_30": { "rotation": 180, "width": 200, "height": 400 },
+			"shangsheng/上升粒子b_31": { "rotation": 180, "width": 200, "height": 400 },
+			"shangsheng/上升粒子b_32": { "rotation": 180, "width": 200, "height": 400 },
+			"shangsheng/上升粒子b_33": { "rotation": 180, "width": 200, "height": 400 }
+		},
+		"升级光效/升级光效3h_08": {
+			"升级光效/升级光效3h_08": { "x": 1.83, "y": -0.15, "rotation": -178.42, "width": 140, "height": 150 },
+			"升级光效/升级光效3h_09": { "x": 1.83, "y": -0.15, "rotation": -178.42, "width": 140, "height": 150 },
+			"升级光效/升级光效3h_10": { "x": 1.83, "y": -0.15, "rotation": -178.42, "width": 140, "height": 150 },
+			"升级光效/升级光效3h_11": { "x": 1.83, "y": -0.15, "rotation": -178.42, "width": 140, "height": 150 },
+			"升级光效/升级光效3h_12": { "x": 1.83, "y": -0.15, "rotation": -178.42, "width": 140, "height": 150 },
+			"升级光效/升级光效3h_13": { "x": 1.83, "y": -0.15, "rotation": -178.42, "width": 140, "height": 150 },
+			"升级光效/升级光效3h_14": { "x": 1.83, "y": -0.15, "rotation": -178.42, "width": 140, "height": 150 },
+			"升级光效/升级光效3h_15": { "x": 1.83, "y": -0.15, "rotation": -178.42, "width": 140, "height": 150 },
+			"升级光效/升级光效3h_16": { "x": 1.83, "y": -0.15, "rotation": -178.42, "width": 140, "height": 150 },
+			"升级光效/升级光效3h_17": { "x": 1.83, "y": -0.15, "rotation": -178.42, "width": 140, "height": 150 },
+			"升级光效/升级光效3h_18": { "x": 1.83, "y": -0.15, "rotation": -178.42, "width": 140, "height": 150 },
+			"升级光效/升级光效3h_19": { "x": 1.83, "y": -0.15, "rotation": -178.42, "width": 140, "height": 150 },
+			"升级光效/升级光效3h_20": { "x": 1.83, "y": -0.15, "rotation": -178.42, "width": 140, "height": 150 },
+			"升级光效/升级光效3h_21": { "x": 1.83, "y": -0.15, "rotation": -178.42, "width": 140, "height": 150 },
+			"升级光效/升级光效3h_22": { "x": 1.83, "y": -0.15, "rotation": -178.42, "width": 140, "height": 150 }
+		}
+	}
+},
+"animations": {
+	"levelup": {
+		"slots": {
+			"1/light_000": {
+				"attachment": [
+					{ "time": 0, "name": "1/light_000" },
+					{ "time": 0.0333, "name": "1/light_001" },
+					{ "time": 0.0667, "name": "1/light_002" },
+					{ "time": 0.1, "name": "1/light_003" },
+					{ "time": 0.1333, "name": "1/light_004" },
+					{ "time": 0.1667, "name": "1/light_005" },
+					{ "time": 0.2, "name": "1/light_006" },
+					{ "time": 0.2333, "name": "1/light_007" },
+					{ "time": 0.2667, "name": "1/light_008" },
+					{ "time": 0.3, "name": "1/light_009" },
+					{ "time": 0.3333, "name": "1/light_010" },
+					{ "time": 0.3667, "name": "1/light_011" },
+					{ "time": 0.4, "name": "1/light_012" },
+					{ "time": 0.4333, "name": "1/light_013" },
+					{ "time": 0.4667, "name": "1/light_014" },
+					{ "time": 0.5, "name": "1/light_015" },
+					{ "time": 0.5333, "name": "1/light_016" },
+					{ "time": 0.5667, "name": "1/light_017" },
+					{ "time": 0.6, "name": "1/light_018" },
+					{ "time": 0.6333, "name": null }
+				]
+			},
+			"1/light_0": {
+				"attachment": [
+					{ "time": 0, "name": "1/light_000" },
+					{ "time": 0.0333, "name": "1/light_001" },
+					{ "time": 0.0667, "name": "1/light_002" },
+					{ "time": 0.1, "name": "1/light_003" },
+					{ "time": 0.1333, "name": "1/light_004" },
+					{ "time": 0.1667, "name": "1/light_005" },
+					{ "time": 0.2, "name": "1/light_006" },
+					{ "time": 0.2333, "name": "1/light_007" },
+					{ "time": 0.2667, "name": "1/light_008" },
+					{ "time": 0.3, "name": "1/light_009" },
+					{ "time": 0.3333, "name": "1/light_010" },
+					{ "time": 0.3667, "name": "1/light_011" },
+					{ "time": 0.4, "name": "1/light_012" },
+					{ "time": 0.4333, "name": "1/light_013" },
+					{ "time": 0.4667, "name": "1/light_014" },
+					{ "time": 0.5, "name": "1/light_015" },
+					{ "time": 0.5333, "name": "1/light_016" },
+					{ "time": 0.5667, "name": "1/light_017" },
+					{ "time": 0.6, "name": "1/light_018" },
+					{ "time": 0.6333, "name": null }
+				]
+			},
+			"1/light_1": {
+				"attachment": [
+					{ "time": 0, "name": "1/light_000" },
+					{ "time": 0.0333, "name": "1/light_001" },
+					{ "time": 0.0667, "name": "1/light_002" },
+					{ "time": 0.1, "name": "1/light_003" },
+					{ "time": 0.1333, "name": "1/light_004" },
+					{ "time": 0.1667, "name": "1/light_005" },
+					{ "time": 0.2, "name": "1/light_006" },
+					{ "time": 0.2333, "name": "1/light_007" },
+					{ "time": 0.2667, "name": "1/light_008" },
+					{ "time": 0.3, "name": "1/light_009" },
+					{ "time": 0.3333, "name": "1/light_010" },
+					{ "time": 0.3667, "name": "1/light_011" },
+					{ "time": 0.4, "name": "1/light_012" },
+					{ "time": 0.4333, "name": "1/light_013" },
+					{ "time": 0.4667, "name": "1/light_014" },
+					{ "time": 0.5, "name": "1/light_015" },
+					{ "time": 0.5333, "name": "1/light_016" },
+					{ "time": 0.5667, "name": "1/light_017" },
+					{ "time": 0.6, "name": "1/light_018" },
+					{ "time": 0.6333, "name": null }
+				]
+			},
+			"shangsheng/上升粒子b_10": {
+				"attachment": [
+					{ "time": 0, "name": "shangsheng/上升粒子b_10" },
+					{ "time": 0.0333, "name": "shangsheng/上升粒子b_11" },
+					{ "time": 0.0667, "name": "shangsheng/上升粒子b_12" },
+					{ "time": 0.1, "name": "shangsheng/上升粒子b_13" },
+					{ "time": 0.1333, "name": "shangsheng/上升粒子b_14" },
+					{ "time": 0.1667, "name": "shangsheng/上升粒子b_15" },
+					{ "time": 0.2, "name": "shangsheng/上升粒子b_16" },
+					{ "time": 0.2333, "name": "shangsheng/上升粒子b_17" },
+					{ "time": 0.2667, "name": "shangsheng/上升粒子b_18" },
+					{ "time": 0.3, "name": "shangsheng/上升粒子b_19" },
+					{ "time": 0.3333, "name": "shangsheng/上升粒子b_20" },
+					{ "time": 0.3667, "name": "shangsheng/上升粒子b_21" },
+					{ "time": 0.4, "name": "shangsheng/上升粒子b_22" },
+					{ "time": 0.4333, "name": "shangsheng/上升粒子b_23" },
+					{ "time": 0.4667, "name": "shangsheng/上升粒子b_24" },
+					{ "time": 0.5, "name": "shangsheng/上升粒子b_25" },
+					{ "time": 0.5333, "name": "shangsheng/上升粒子b_26" },
+					{ "time": 0.5667, "name": "shangsheng/上升粒子b_27" },
+					{ "time": 0.6, "name": "shangsheng/上升粒子b_28" },
+					{ "time": 0.6333, "name": "shangsheng/上升粒子b_29" },
+					{ "time": 0.6667, "name": "shangsheng/上升粒子b_30" },
+					{ "time": 0.7, "name": "shangsheng/上升粒子b_31" },
+					{ "time": 0.7333, "name": "shangsheng/上升粒子b_32" },
+					{ "time": 0.7667, "name": "shangsheng/上升粒子b_33" },
+					{ "time": 0.8, "name": null }
+				]
+			},
+			"升级光效/升级光效3h_08": {
+				"attachment": [
+					{ "time": 0, "name": "升级光效/升级光效3h_08" },
+					{ "time": 0.0667, "name": "升级光效/升级光效3h_09" },
+					{ "time": 0.1333, "name": "升级光效/升级光效3h_10" },
+					{ "time": 0.2, "name": "升级光效/升级光效3h_11" },
+					{ "time": 0.2667, "name": "升级光效/升级光效3h_12" },
+					{ "time": 0.3333, "name": "升级光效/升级光效3h_13" },
+					{ "time": 0.4, "name": "升级光效/升级光效3h_14" },
+					{ "time": 0.4667, "name": "升级光效/升级光效3h_15" },
+					{ "time": 0.5333, "name": "升级光效/升级光效3h_16" },
+					{ "time": 0.6, "name": "升级光效/升级光效3h_17" },
+					{ "time": 0.6667, "name": "升级光效/升级光效3h_18" },
+					{ "time": 0.7333, "name": "升级光效/升级光效3h_19" },
+					{ "time": 0.8, "name": "升级光效/升级光效3h_20" },
+					{ "time": 0.8667, "name": "升级光效/升级光效3h_21" },
+					{ "time": 0.9333, "name": "升级光效/升级光效3h_22" },
+					{ "time": 1, "name": null }
+				]
+			}
+		},
+		"bones": {
+			"横版角色2": {
+				"translate": [
+					{ "time": 0, "x": -0.46, "y": -150.45 },
+					{ "time": 0.1, "x": 0, "y": 0 },
+					{ "time": 0.5667, "x": 0.41, "y": 132.99 }
+				],
+				"scale": [
+					{ "time": 0, "x": 0.514, "y": 0.514 },
+					{ "time": 0.1, "x": 1.152, "y": 1.152 },
+					{ "time": 0.5667, "x": 0.854, "y": 0.854 }
+				]
+			}
+		}
+	},
+	"unlock": {
+		"slots": {
+			"1/light_000": {
+				"attachment": [
+					{ "time": 0, "name": "1/light_000" },
+					{ "time": 0.0333, "name": "1/light_001" },
+					{ "time": 0.0667, "name": "1/light_002" },
+					{ "time": 0.1, "name": "1/light_003" },
+					{ "time": 0.1333, "name": "1/light_004" },
+					{ "time": 0.1667, "name": "1/light_005" },
+					{ "time": 0.2, "name": "1/light_006" },
+					{ "time": 0.2333, "name": "1/light_007" },
+					{ "time": 0.2667, "name": "1/light_008" },
+					{ "time": 0.3, "name": "1/light_009" },
+					{ "time": 0.3333, "name": "1/light_010" },
+					{ "time": 0.3667, "name": "1/light_011" },
+					{ "time": 0.4, "name": "1/light_012" },
+					{ "time": 0.4333, "name": "1/light_013" },
+					{ "time": 0.4667, "name": "1/light_014" },
+					{ "time": 0.5, "name": "1/light_015" },
+					{ "time": 0.5333, "name": "1/light_016" },
+					{ "time": 0.5667, "name": "1/light_017" },
+					{ "time": 0.6, "name": "1/light_018" },
+					{ "time": 0.6333, "name": null }
+				]
+			},
+			"1/light_0": {
+				"attachment": [
+					{ "time": 0, "name": "1/light_000" },
+					{ "time": 0.0333, "name": "1/light_001" },
+					{ "time": 0.0667, "name": "1/light_002" },
+					{ "time": 0.1, "name": "1/light_003" },
+					{ "time": 0.1333, "name": "1/light_004" },
+					{ "time": 0.1667, "name": "1/light_005" },
+					{ "time": 0.2, "name": "1/light_006" },
+					{ "time": 0.2333, "name": "1/light_007" },
+					{ "time": 0.2667, "name": "1/light_008" },
+					{ "time": 0.3, "name": "1/light_009" },
+					{ "time": 0.3333, "name": "1/light_010" },
+					{ "time": 0.3667, "name": "1/light_011" },
+					{ "time": 0.4, "name": "1/light_012" },
+					{ "time": 0.4333, "name": "1/light_013" },
+					{ "time": 0.4667, "name": "1/light_014" },
+					{ "time": 0.5, "name": "1/light_015" },
+					{ "time": 0.5333, "name": "1/light_016" },
+					{ "time": 0.5667, "name": "1/light_017" },
+					{ "time": 0.6, "name": "1/light_018" },
+					{ "time": 0.6333, "name": null }
+				]
+			},
+			"1/light_1": {
+				"attachment": [
+					{ "time": 0, "name": "1/light_000" },
+					{ "time": 0.0333, "name": "1/light_001" },
+					{ "time": 0.0667, "name": "1/light_002" },
+					{ "time": 0.1, "name": "1/light_003" },
+					{ "time": 0.1333, "name": "1/light_004" },
+					{ "time": 0.1667, "name": "1/light_005" },
+					{ "time": 0.2, "name": "1/light_006" },
+					{ "time": 0.2333, "name": "1/light_007" },
+					{ "time": 0.2667, "name": "1/light_008" },
+					{ "time": 0.3, "name": "1/light_009" },
+					{ "time": 0.3333, "name": "1/light_010" },
+					{ "time": 0.3667, "name": "1/light_011" },
+					{ "time": 0.4, "name": "1/light_012" },
+					{ "time": 0.4333, "name": "1/light_013" },
+					{ "time": 0.4667, "name": "1/light_014" },
+					{ "time": 0.5, "name": "1/light_015" },
+					{ "time": 0.5333, "name": "1/light_016" },
+					{ "time": 0.5667, "name": "1/light_017" },
+					{ "time": 0.6, "name": "1/light_018" },
+					{ "time": 0.6333, "name": null }
+				]
+			},
+			"shangsheng/上升粒子b_10": {
+				"attachment": [
+					{ "time": 0, "name": "shangsheng/上升粒子b_10" },
+					{ "time": 0.0333, "name": "shangsheng/上升粒子b_11" },
+					{ "time": 0.0667, "name": "shangsheng/上升粒子b_12" },
+					{ "time": 0.1, "name": "shangsheng/上升粒子b_13" },
+					{ "time": 0.1333, "name": "shangsheng/上升粒子b_14" },
+					{ "time": 0.1667, "name": "shangsheng/上升粒子b_15" },
+					{ "time": 0.2, "name": "shangsheng/上升粒子b_16" },
+					{ "time": 0.2333, "name": "shangsheng/上升粒子b_17" },
+					{ "time": 0.2667, "name": "shangsheng/上升粒子b_18" },
+					{ "time": 0.3, "name": "shangsheng/上升粒子b_19" },
+					{ "time": 0.3333, "name": "shangsheng/上升粒子b_20" },
+					{ "time": 0.3667, "name": "shangsheng/上升粒子b_21" },
+					{ "time": 0.4, "name": "shangsheng/上升粒子b_22" },
+					{ "time": 0.4333, "name": "shangsheng/上升粒子b_23" },
+					{ "time": 0.4667, "name": "shangsheng/上升粒子b_24" },
+					{ "time": 0.5, "name": "shangsheng/上升粒子b_25" },
+					{ "time": 0.5333, "name": "shangsheng/上升粒子b_26" },
+					{ "time": 0.5667, "name": "shangsheng/上升粒子b_27" },
+					{ "time": 0.6, "name": "shangsheng/上升粒子b_28" },
+					{ "time": 0.6333, "name": "shangsheng/上升粒子b_29" },
+					{ "time": 0.6667, "name": "shangsheng/上升粒子b_30" },
+					{ "time": 0.7, "name": "shangsheng/上升粒子b_31" },
+					{ "time": 0.7333, "name": "shangsheng/上升粒子b_32" },
+					{ "time": 0.7667, "name": "shangsheng/上升粒子b_33" },
+					{ "time": 0.8, "name": null }
+				]
+			},
+			"升级光效/升级光效3h_08": {
+				"attachment": [
+					{ "time": 0, "name": "升级光效/升级光效3h_08" },
+					{ "time": 0.0667, "name": "升级光效/升级光效3h_09" },
+					{ "time": 0.1333, "name": "升级光效/升级光效3h_10" },
+					{ "time": 0.2, "name": "升级光效/升级光效3h_11" },
+					{ "time": 0.2667, "name": "升级光效/升级光效3h_12" },
+					{ "time": 0.3333, "name": "升级光效/升级光效3h_13" },
+					{ "time": 0.4, "name": "升级光效/升级光效3h_14" },
+					{ "time": 0.4667, "name": "升级光效/升级光效3h_15" },
+					{ "time": 0.5333, "name": "升级光效/升级光效3h_16" },
+					{ "time": 0.6, "name": "升级光效/升级光效3h_17" },
+					{ "time": 0.6667, "name": "升级光效/升级光效3h_18" },
+					{ "time": 0.7333, "name": "升级光效/升级光效3h_19" },
+					{ "time": 0.8, "name": "升级光效/升级光效3h_20" },
+					{ "time": 0.8667, "name": "升级光效/升级光效3h_21" },
+					{ "time": 0.9333, "name": "升级光效/升级光效3h_22" },
+					{ "time": 1, "name": null }
+				]
+			}
+		},
+		"bones": {
+			"横版角色2": {
+				"translate": [
+					{ "time": 0, "x": -0.46, "y": -150.45 },
+					{ "time": 0.1, "x": 0, "y": 0 },
+					{ "time": 0.5667, "x": 0.41, "y": 132.99 }
+				],
+				"scale": [
+					{ "time": 0, "x": 0.514, "y": 0.514 },
+					{ "time": 0.1, "x": 1.152, "y": 1.152 },
+					{ "time": 0.5667, "x": 0.854, "y": 0.854 }
+				]
+			}
+		}
+	}
+}
+}

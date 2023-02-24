@@ -1,0 +1,247 @@
+{
+  "ver": "1.0.7",
+  "importer": "sprite-atlas",
+  "imported": true,
+  "uuid": "2d8fe2a4-ec6d-419e-b538-d2ae1cd6f73d",
+  "files": [
+    ".json"
+  ],
+  "subMetas": {
+    "91744": {
+      "importer": "sprite-frame",
+      "uuid": "2d8fe2a4-ec6d-419e-b538-d2ae1cd6f73d@91744",
+      "displayName": "",
+      "id": "91744",
+      "name": "GoldLaser_anima_1",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": 0,
+        "trimX": 2,
+        "trimY": 2,
+        "width": 2035,
+        "height": 56,
+        "rawWidth": 2035,
+        "rawHeight": 64,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "0b330b37-7b53-40a7-8d0d-8bdb237a83a6@6c48a",
+        "atlasUuid": "2d8fe2a4-ec6d-419e-b538-d2ae1cd6f73d",
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        }
+      },
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d8dd5": {
+      "importer": "sprite-frame",
+      "uuid": "2d8fe2a4-ec6d-419e-b538-d2ae1cd6f73d@d8dd5",
+      "displayName": "",
+      "id": "d8dd5",
+      "name": "Freeze_bullet",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": true,
+        "offsetX": 0,
+        "offsetY": -1,
+        "trimX": 272,
+        "trimY": 118,
+        "width": 44,
+        "height": 233,
+        "rawWidth": 44,
+        "rawHeight": 235,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "0b330b37-7b53-40a7-8d0d-8bdb237a83a6@6c48a",
+        "atlasUuid": "2d8fe2a4-ec6d-419e-b538-d2ae1cd6f73d",
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        }
+      },
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5f46d": {
+      "importer": "sprite-frame",
+      "uuid": "2d8fe2a4-ec6d-419e-b538-d2ae1cd6f73d@5f46d",
+      "displayName": "",
+      "id": "5f46d",
+      "name": "GoldLaser_anima_0",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": 1,
+        "trimX": 2,
+        "trimY": 60,
+        "width": 2035,
+        "height": 56,
+        "rawWidth": 2035,
+        "rawHeight": 64,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "0b330b37-7b53-40a7-8d0d-8bdb237a83a6@6c48a",
+        "atlasUuid": "2d8fe2a4-ec6d-419e-b538-d2ae1cd6f73d",
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        }
+      },
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e0ad9": {
+      "importer": "sprite-frame",
+      "uuid": "2d8fe2a4-ec6d-419e-b538-d2ae1cd6f73d@e0ad9",
+      "displayName": "",
+      "id": "e0ad9",
+      "name": "dock_pop_anima_0",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": 0,
+        "trimX": 137,
+        "trimY": 118,
+        "width": 133,
+        "height": 133,
+        "rawWidth": 133,
+        "rawHeight": 133,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "0b330b37-7b53-40a7-8d0d-8bdb237a83a6@6c48a",
+        "atlasUuid": "2d8fe2a4-ec6d-419e-b538-d2ae1cd6f73d",
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        }
+      },
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "75cbd": {
+      "importer": "sprite-frame",
+      "uuid": "2d8fe2a4-ec6d-419e-b538-d2ae1cd6f73d@75cbd",
+      "displayName": "",
+      "id": "75cbd",
+      "name": "dock_pop_anima_1",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": 0,
+        "trimX": 2,
+        "trimY": 118,
+        "width": 133,
+        "height": 133,
+        "rawWidth": 133,
+        "rawHeight": 133,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "0b330b37-7b53-40a7-8d0d-8bdb237a83a6@6c48a",
+        "atlasUuid": "2d8fe2a4-ec6d-419e-b538-d2ae1cd6f73d",
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        }
+      },
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "atlasTextureName": "anima.png",
+    "format": 2,
+    "uuid": "2d8fe2a4-ec6d-419e-b538-d2ae1cd6f73d",
+    "textureUuid": "0b330b37-7b53-40a7-8d0d-8bdb237a83a6@6c48a"
+  }
+}

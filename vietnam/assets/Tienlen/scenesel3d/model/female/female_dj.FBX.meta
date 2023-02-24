@@ -1,0 +1,82 @@
+{
+  "ver": "2.3.0",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "031e9502-c060-4d8b-a5f1-71af8b4ed76a",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "55540": {
+      "importer": "gltf-scene",
+      "uuid": "031e9502-c060-4d8b-a5f1-71af8b4ed76a@55540",
+      "displayName": "",
+      "id": "55540",
+      "name": "female_dj.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "79bc4": {
+      "importer": "gltf-animation",
+      "uuid": "031e9502-c060-4d8b-a5f1-71af8b4ed76a@79bc4",
+      "displayName": "",
+      "id": "79bc4",
+      "name": "daiji.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1.6666666269302368
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "animationImportSettings": [
+      {
+        "name": "Take 001",
+        "duration": 1.6666666269302368,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "daiji",
+            "from": 0,
+            "to": 1.6666666269302368,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "031e9502-c060-4d8b-a5f1-71af8b4ed76a@55540",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "031e9502-c060-4d8b-a5f1-71af8b4ed76a@55540"
+      ]
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "__version__": "1.0.2",
+  "general": {
+    "designResolution": {
+      "width": 720,
+      "height": 1280,
+      "fitHeight": false,
+      "fitWidth": true
+    }
+  },
+  "physics": {
+    "collisionGroups": [
+      {
+        "index": 1,
+        "name": "BULLET"
+      },
+      {
+        "index": 2,
+        "name": "BORDER"
+      },
+      {
+        "index": 3,
+        "name": "FISH"
+      }
+    ],
+    "collisionMatrix": {
+      "0": 0,
+      "1": 12,
+      "2": 2,
+      "3": 2
+    }
+  },
+  "fbx": {
+    "legacyFbxImporter": {
+      "visible": true
+    }
+  },
+  "layer": [
+    {
+      "name": "SCENESEL_2DON3D",
+      "value": 1
+    },
+    {
+      "name": "SCENESEL_EFFECTS",
+      "value": 2
+    },
+    {
+      "name": "SCENESEL_GROUND",
+      "value": 4
+    }
+  ]
+}
